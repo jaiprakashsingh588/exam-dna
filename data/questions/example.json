@@ -1,0 +1,25 @@
+{
+  "question_id": "gate-cse-example-001",
+  "year": 2026,
+  "subject": "Discrete Mathematics",
+  "topic": "Propositional Logic",
+  "question_type": "MCQ",
+  "question_text": "Example question text",
+  "options": [
+    "Option A",
+    "Option B",
+    "Option C",
+    "Option D"
+  ],
+  "correct_answer": "A",
+  "marks": 1,
+  "difficulty": "medium",
+  "concepts": [
+    "logical equivalence",
+    "proposition"
+  ],
+  "source": {
+    "type": "official_pyq",
+    "url": null
+  }
+}
