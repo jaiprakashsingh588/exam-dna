@@ -19,7 +19,7 @@
     "proposition"
   ],
   "source": {
-    "type": "official_pyq",
+    "type": "fixture",
     "url": null
   }
 }
