@@ -3,3 +3,5 @@ uvicorn==0.52.1
 
 python-dotenv
 pypdf
+
+google-genai
