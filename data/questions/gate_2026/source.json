@@ -1,0 +1,12 @@
+{
+  "exam": "GATE",
+  "year": 2026,
+  "paper": "Computer Science and Information Technology",
+  "paper_code": "CS",
+  "source_type": "official",
+  "verified": true,
+  "questions_ingested": 65,
+  "notes": "Official GATE 2026 CS-1 and CS-2 question papers and answer keys verified from IIT Guwahati.",
+  "cs2_verified": true,
+  "cs2_questions_ingested": 65
+}

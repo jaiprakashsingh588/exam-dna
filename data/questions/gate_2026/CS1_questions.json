@@ -1,0 +1,912 @@
+[
+  {
+    "question_id": "gate-cs1-2026-01",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 1,
+    "raw_text": "The antonym of the word protagonist is ________. \n  \n(A) agnostic \n(B) antagonist \n(C) arsonist \n(D) anarchist",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-02",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 2,
+    "raw_text": "The figure shows two 4-tile patterns.  \n                   \nEither one or both of the patterns can be used any number of times and in any \norientation to construct a new pattern. Which one of the options below cannot be \nconstructed by using only these two 4-tile patterns assuming there are no overlaps \namong them? \n                       \n(A) \n \n(B) \n \n(C) \n \n(D)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-03",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 3,
+    "raw_text": "Consider a knock-out women’s badminton singles tournament where there are no \nties. The loser in each game is eliminated from the tournament.  Every player \nplays until she is defeated or remains the last undefeated player. The last \nundefeated player is declared the winner of the tournament. If there are 64 players \nin the beginning of the tournament, how many games should be played in total to \ndeclare the winner of the tournament? \n  \n(A) 127 \n(B) 64 \n(C) 63 \n(D) 32",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-04",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 4,
+    "raw_text": "A student needs to enroll for a minimum of 60 credits. A student cannot enroll for \nmore than 70 credits. The credits are divided amongst project and three distinct \nsets of courses namely, core courses, specialization courses, and elective courses.  \nIt is compulsory for a student to enroll for exactly 15 credits of core courses and \nexactly 20 credits of project. In addition, a student has to enroll for a minimum of \n10 credits of specialization courses. The maximum credits of elective courses that \na student can enroll for is ______ \n  \n(A) 10 \n(B) 15 \n(C) 20 \n(D) 25",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "D",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-05",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 5,
+    "raw_text": "‘When the teacher is in the room, all students stand silently.’ \nIf the above statement is true, which one of the following statements is not \nnecessarily true?   \n  \n(A) If any student is not standing silently, then the teacher is not in the room.  \n(B) When the teacher is in the room, all students are silent. \n(C) If all students are standing, then the teacher is in the room. \n(D) When the teacher is in the room, all students are standing.",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-06",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 6,
+    "raw_text": "Combinatorics deals with problems involving counting. For example, “How many \ndistinct arrangements of N distinct objects in M spaces on a circle are possible?” \nis a typical problem in combinatorics. This kind of counting is sometimes used in \nthe modeling of several physical phenomena. Often, in such models, the different \ncombinatorial possibilities are assigned probability values. Assigning probabilities \nenables the computation of the average values of physical quantities. \nConsider the following statements: \nP: Combinatorics is always invoked in the modeling of physical phenomena. \nQ: Modeling some physical phenomena involves assigning probabilities to \ncombinatorial possibilities in order to compute average values of physical \nquantities. \nBased on the passage above, what can be inferred about statements P and Q? \n  \n(A) P is False and Q is False \n(B) P is False and Q is True \n(C) P is True and Q is False \n(D) P is True and Q is True",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-07",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 7,
+    "raw_text": "In Panel I of the figure below, the front view and top view of a structure are \nshown. Which one of the 3D structures shown in Panel II possesses the views \nshown in Panel I?  \n \n  \n(A) (i) \n(B) (ii) \n(C) (iii) \n(D) (iv)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-08",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 8,
+    "raw_text": "For positive real numbers 𝑆 and 𝐾, the function 𝐻𝐾(𝑆)  is defined as: \n𝐻𝐾(𝑆) = max(𝑆 − 𝐾, 0).  The max function is defined as: \nmax(𝑎, 𝑏) = {𝑎, when 𝑎 > 𝑏\n𝑏, when 𝑎 ≤ 𝑏 \nThe graph below shows the plot of a function 𝑁(𝑆) versus 𝑆.  \n𝑁(𝑆) can be expressed as _____.  \n \n  \n(A) 𝐻10(𝑆) − 𝐻20(𝑆) \n(B) 𝐻10(𝑆) − 2𝐻20(𝑆) \n(C) −𝐻10(𝑆) + 𝐻20(𝑆) \n(D) 𝐻15(𝑆) − 𝐻20(𝑆)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "A",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-09",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 9,
+    "raw_text": "In the 2020 summer Olympics’ Javelin throw finals, Neeraj Chopra exhibited a \nspectacular performance to win the gold medal. The silver medal was won by \nJakub Vadlejch and the bronze medal was won by Vitezlav Vesely. There were \nsix rounds of throws with each athlete having one throw per round. The best of  \nall the throws of each athlete is considered for the medal. Following were the \nobservations about the throws: \ni. The first and second rounds were dominated by Neeraj Chopra with a gold \nmedal performance in his second throw, while the other two athletes did \nnot have any medal winning throws in these rounds. \n \nii. The throws in the last round by both Jakub Vadlejch and Vitezlav Vesely \nwere fouls and were not considered for scoring. \n \niii. After four rounds, Vitezlav Vesely was in the second position and could \nnot improve upon his best throw in the succeeding rounds. \n \niv. In the fourth round, the throw by Jakub Vadlejch was the best in that \nround. \nIn which round did Vitezlav Vesely have his best throw? \n  \n(A) Third \n(B) Fourth \n(C) Fifth \n(D) Sixth",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "A",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-10",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 10,
+    "raw_text": "An unbiased six-faced dice whose faces are marked with numbers 1, 2, 3, 4, 5,  \nand 6 is rolled twice in succession and the number on the top face is recorded  \neach time. The probability that the number appearing in the second roll is an \ninteger multiple of the number appearing in the first roll is __________ \n  \n(A) 1\n6 \n(B) 5\n18 \n(C) 7\n18 \n(D) 5\n6",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "C",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-11",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 11,
+    "raw_text": "An urn contains one red ball and one blue ball. At each step, a ball is picked \nuniformly at random from the urn , and this ball together with another ball of the \nsame color is put back in the urn. The probability that there are equal number of red \nand blue balls after two steps is  \n  \n(A) 1/4 \n(B) 1/3 \n(C) 1/2 \n(D) 2/3",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-12",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 12,
+    "raw_text": "Consider 4 × 4 matrices with their elements from {𝟎, 𝟏}. The number of such \nmatrices with even number of 𝟏s in every row and every column is \n  \n(A) 512 \n(B) 1025 \n(C) 1023 \n(D) 255",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "A",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-13",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 13,
+    "raw_text": "For 𝑛 >  1, the maximum multiplicity of any eigenvalue of an 𝑛 × 𝑛 matrix with \nelements from ℝ is \n  \n(A) 𝑛  \n(B) 𝑛 − 1 \n(C) 1 \n(D) 𝑛 + 1",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "A",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-14",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 14,
+    "raw_text": "Match each addressing mode in List I with a data element or an element of a data \nstructure (in a high-level language) in List II: \nList I List II \n \nP. Immediate 1. Element of an array \nQ. Indirect 2. Pointer \nR. Base with index 3. Element of a record \nS. Base with offset/displacement 4. Constant \n \n  \n(A) P–4, Q–3, R–1, S–2 \n(B) P–4, Q–2, R–1, S–3 \n(C) P–1, Q–4, R–3, S–2  \n(D) P–2, Q–3, R–1, S–4",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-15",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 15,
+    "raw_text": "Consider a processor P whose in struction set architecture is the load -store \narchitecture. The instruction format is such that the first operand of any instruction \nis the destination operand. \nWhich one of the following sequences of instructions corresponds to the high-level \nlanguage statement Z = X + Y ? \nNote: X, Y, and Z are memory operands. R0, R1, and R2 are registers. \n  \n(A) ADD Z, X, Y \n(B) LOAD R0, X \nADD Z, R0, Y \n(C) ADD R0, X, Y \nSTORE Z, R0 \n(D) LOAD R0, X \nLOAD R1, Y \nADD R2, R0, R1 \nSTORE  Z, R2",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "D",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-16",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 16,
+    "raw_text": "Which one of the following dependencies among the register operands of different \ninstructions can cause a data hazard in a pipelined processor? \n  \n(A) Read-after-read \n(B) Read-after-write \n(C) Write-after-read \n(D) Write-after-write",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-17",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 17,
+    "raw_text": "Consider the following recurrence relations:  \nFor all 𝑛 > 1, \n𝑇1(𝑛) = 4𝑇1 (𝑛\n2) + 𝑇2(𝑛) \n𝑇2(𝑛) = 5𝑇2 (𝑛\n4) + Θ(log2 𝑛) \nAssume that for all 𝑛 ≤ 1, 𝑇1(𝑛) = 1 and 𝑇2(𝑛) = 1.  \nWhich one of the following options is correct? \n  \n(A) 𝑇1(𝑛) = Θ(𝑛2) \n(B) 𝑇1(𝑛) = Θ(𝑛2 log2 𝑛) \n(C) 𝑇1(𝑛) = Θ(𝑛log4 5) \n(D) 𝑇1(𝑛) = Θ(𝑛log4 5 log2 𝑛)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "A",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-18",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 18,
+    "raw_text": "With respect to a TCP connection between a client and a server , which one of the \nfollowing statements is true? \n  \n(A) The client and server use a two-way handshake mechanism before the start of data \ntransmission  \n(B) The server cannot initiate closing of the connection before the client initiates \nclosing of the connection  \n(C) The TCP connection is half-duplex \n(D) The client and server can initiate closing of the connection at the same time",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "D",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-19",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 19,
+    "raw_text": "Which of the following statements is/are true with respect to the interaction of a \nweb browser with a web server using HTTP 1.1?  \n \n \n(A) HTTP 1.1 facilitates downloading multiple objects of the same webpage over the \nsame TCP connection, if the objects are stored in the same server  \n(B) HTTP 1.1 facilitates downloading multiple objects of the same webpage over the \nsame TCP connection, even if they are stored in different servers \n(C) HTTP 1.1 facilitates sending a request for downloading one object without waiting \nfor a previously requested object to be downloaded completely \n(D) HTTP 1.1 facilitates downl oading multiple webpages on the same server to be \ndownloaded over a single TCP connection",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;C;D",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-20",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 20,
+    "raw_text": "Let 𝑛 >  1. Consider an 𝑛 × 𝑛 matrix 𝑀 with its elements from ℝ.  Let the vector \n(0, 1, 0, 0, … , 0) ∈ ℝ𝑛  be in the null space of 𝑀. \nWhich of the following options is/are always correct? \n  \n(A) Determinant of 𝑀 is 1 \n(B) Determinant of 𝑀 is 0 \n(C) Rank of 𝑀 is 1 \n(D) There are at least two non-zero vectors in the null space of 𝑀",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;D",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-21",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 21,
+    "raw_text": "Consider the following Boolean expression of a function F  : \n𝐹(𝑃, 𝑄) =  (𝑃̅ + 𝑄) ⊕ (𝑃̅𝑄) \nWhich of the following expressions is/are equivalent to F  ? \n \n  \n(A) 𝑃 ⊕ 𝑄̅̅̅̅̅̅̅̅ \n(B) 𝑃 ⊕ 𝑄 \n(C) 𝑃̅ ⊕ 𝑄 \n(D) 𝑃̅ ⊕ 𝑄̅",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-22",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 22,
+    "raw_text": "Consider the 8-bit signed integers 𝑋, 𝑌 and 𝑍 represented using the sign-magnitude \nform. The binary representations of 𝑋 and 𝑌 are as follows: \n𝑋: 10110100       𝑌: 01001100 \nWhich of the following operations  to compute 𝑍 result(s) in an arithmetic \noverflow? \n  \n(A) 𝑍 = 𝑋 + 𝑌 \n(B) 𝑍 = 𝑋 − 𝑌 \n(C) 𝑍 = −𝑋 + 𝑌 \n(D) 𝑍 = −𝑋 − 𝑌",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-23",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 23,
+    "raw_text": "Let 𝑛 be an odd number greater than 100. Consider a binary minheap with \n𝑛 elements stored in an array 𝑃 whose index starts from 1. \nWhich of the following indices of 𝑃 do/does NOT correspond to any leaf node of \nthe minheap? \n  \n(A) 𝑛 + 1\n2  \n(B) 𝑛 − 1\n2  \n(C) 𝑛 − 3\n2  \n(D) 𝑛",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-24",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 24,
+    "raw_text": "Consider a hash table 𝑃[0, 1, … , 10]  that is  initially empty. The hash table is \nmaintained using open addressing with linear probing . The hash function used is  \nℎ(𝑥) = (𝑥 + 7) mod 11.  \nConsider the following sequence of insertions performed on 𝑃: \n1, 13, 22, 15, 11, 24 \nWhich of the following positions in the hash table is/are empty after these insertions \nare performed? \n  \n(A) 0 \n(B) 10 \n(C) 2 \n(D) 1",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-25",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 25,
+    "raw_text": "Consider the  following grammar where 𝑆 is the start symbol, and 𝑎 and 𝑏 are \nterminal symbols. \n𝑆 → 𝑎𝑆𝑏𝑆  ∣  𝑏𝑆 ∣  ϵ \nWhich of the following statements is/are true?   \n  \n(A) The grammar is ambiguous \n(B) The string 𝑎𝑏𝑏 has two distinct derivations in this grammar \n(C) The string 𝑎𝑏𝑎𝑏 has only one rightmost derivation \n(D) The language generated by the grammar is undecidable",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;B;C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-26",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 26,
+    "raw_text": "Let M be a nondeterministic finite automaton (NFA)  with 6 states  over a finite \nalphabet. \nWhich of the following options CANNOT be the number of states in the minimal \ndeterministic finite automaton (DFA) that is equivalent to 𝑀 ? \n  \n(A) 32 \n(B) 65 \n(C) 1 \n(D) 128",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;D",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-27",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 27,
+    "raw_text": "Consider the following C statements: \nchar *str1 = \"Hello;    /* Statement S1 */ \nchar *str2 = \"Hello;\";  /* Statement S2 */ \nint *str3 = \"Hello\";    /* Statement S3 */ \nWhich of the following options is/are correct? \n  \n(A) S1 and S2 have syntactic errors \n(B) S2 has a lexical error and S3 has a syntactic error \n(C) S1 has a lexical error and S3 has a semantic error \n(D)  S1 has a syntactic error and S3 has a semantic error",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-28",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 28,
+    "raw_text": "Which of the following statements is/are true? \n  \n(A) LL(1) parser uses backtracking \n(B) For a grammar to be LL(1), it must be left-recursive \n(C) For a grammar to be LL(1), it must be left-factored \n(D)  The LL(1) parsers are more powerful than the SLR parsers",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-29",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 29,
+    "raw_text": "With respect to deadlocks in an operating system, which of the following \nstatements is/are FALSE? \n  \n(A) Banker’s algorithm is used to prevent deadlocks \n(B) Deadlock formation can be prevented by ensuring that the hold and wait \ncondition is not allowed \n(C) An assignment edge in a resource allocation graph is marked from a process to a \nresource \n(D) A safe state guarantees that all processes can finish without formation of a \ndeadlock",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-30",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 30,
+    "raw_text": "Let 𝑃, 𝑄, 𝑅 and 𝑆 be the attributes of a relation in a relational schema. Let 𝑋 ⟶ 𝑌 \nindicate functional dependency in the context of a relational database , where \n𝑋, 𝑌 ⊆ {𝑃, 𝑄, 𝑅, 𝑆}.  \nWhich of the following options is/are always true? \n  \n(A) If ( {𝑃, 𝑄}  ⟶ {𝑅} and {𝑃}  ⟶ {𝑅} ), then {𝑄}  ⟶ {𝑅} \n(B) If {𝑃, 𝑄}  ⟶ {𝑅}, then ( {𝑃}  ⟶ {𝑅} or {𝑄}  ⟶ {𝑅} ) \n(C) If ( {𝑃}  ⟶ {𝑅} and {𝑄}  ⟶ {𝑆} ), then {𝑃, 𝑄}  ⟶ {𝑅, 𝑆} \n(D) If {𝑃}  ⟶ {𝑅}, then {𝑃, 𝑄}  ⟶ {𝑅}",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "C;D",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-31",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 31,
+    "raw_text": "In the context of relational database normalization, which of the following \nstatements is/are true? \n  \n(A) It is always possible to obtain a dependency -preserving 3NF decomposition of a \nrelation \n(B) It is always possible to obtain a dependency -preserving 1NF decomposition of a \nrelation \n(C) It is not always possible to obtain a dependency -preserving BCNF decomposition \nof a relation \n(D) It is not always possible to obtain a dependency-preserving 2NF decomposition of \na relation",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;B;C",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-32",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 32,
+    "raw_text": "Consider the function 𝑓: ℝ → ℝ defined as follows: \n𝑓(𝑥) = {𝑐1𝑒 𝑥 − 𝑐2  loge (1\n𝑥) ,   if  𝑥 > 0\n 3                                 otherwise\n \nwhere 𝑐1 , 𝑐2 ∈ ℝ.  \n If 𝑓 is continuous at 𝑥 = 0, then 𝑐1 + 𝑐2 = _________. (answer in integer)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "3 to 3",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-33",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 33,
+    "raw_text": "The height of a binary tree is the number of edges in the longest path from the root \nto a leaf in the tree. The maximum possible height of a full binary tree with  \n23 nodes is _________. (answer in integer)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "11 to 11",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-34",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 34,
+    "raw_text": "Consider the following program in C: \n#include <stdio.h> \n \nvoid func(int i, int j) { \n  if(i < j) { \n    int i = 0; \n    while (i < 10) { \n      j += 2;  \n      i++; \n    } \n  } \n  printf(\"%d\", i); \n} \nint main() { \n  int i = 9, j = 10; \n  func(i, j); \n  return 0; \n} \nThe output of the program is _________. (answer in integer) \nNote: Assume that the program compiles and runs successfully.",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "9 to 9",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-35",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 35,
+    "raw_text": "Consider a system consisting of 𝑘 instances of a resource 𝑅, being shared by  \n5 processes. Assume that each process requires a maximum of two instances of \nresource 𝑅 and a process can request or release only one instance at a time. Further, \na process can request the second instance of the resource only after acquiring the \nfirst instance. \nThe minimum value of 𝑘 for the system to be deadlock-free is ________. (answer \nin integer)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "6 to 6",
+    "marks": 1.0
+  },
+  {
+    "question_id": "gate-cs1-2026-36",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 36,
+    "raw_text": "Consider the real valued variables X, Y and Z represented using the IEEE 754 single-\nprecision floating-point format. The binary representations of X and Y in hexadecimal \nnotation are as follows: \nX: 35C00000            Y: 34A00000 \nLet 𝑍 =  𝑋 + 𝑌.  \nWhich one of the following is the binary representation  of 𝑍, in hexadecimal \nnotation? \n  \n(A) 35C80000 \n(B) 35CC0000 \n(C) 35E80000 \n(D) 35EC0000",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "C",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-37",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 37,
+    "raw_text": "Consider a 2 -bit saturating up/down counter that performs the saturating up count \nwhen the input P is 0, and the saturating down count when P is 1. The Next State \ntable of the counter is as shown. The counter is built as a synchronous sequential \ncircuit using D flip-flops.  \nInput Current \nState \nNext \nState \n𝑃 𝑄1 𝑄0 𝑄1\n+ 𝑄0\n+ \n \n0 0 0 0 1 \n0 0 1 1 0 \n0 1 0 1 1 \n0 1 1 1 1 \n1 0 0 0 0 \n1 0 1 0 0 \n1 1 0 0 1 \n1 1 1 1 0 \nWhich one of the following options corresponds to the expressions for the inputs of \nthe D flip-flops, 𝐷1 and 𝐷0?    \n  \n(A)  𝐷1 = 𝑃 𝑄1 + 𝑃̅𝑄0 +  𝑄1𝑄0              𝐷0 = 𝑃 𝑄0 +  𝑃̅ 𝑄1 +  𝑄1 𝑄0̅̅̅ \n(B)  𝐷1 = 𝑃̅ 𝑄1 + 𝑃̅𝑄0 +  𝑄1𝑄0              𝐷0 = 𝑃̅ 𝑄0̅̅̅ +  𝑃 ̅ 𝑄1 +  𝑄1 𝑄0̅̅̅ \n(C)  𝐷1 = 𝑃̅ 𝑄1̅̅̅ + 𝑃 ̅ 𝑄0 +  𝑄1 𝑄0            𝐷0 = 𝑃̅ 𝑄0 +  𝑃̅ 𝑄1 +  𝑄1 𝑄0̅̅̅ \n(D)  𝐷1 = 𝑃 𝑄1̅̅̅ + 𝑃̅ 𝑄0 +  𝑄1 𝑄0            𝐷0 = 𝑃 𝑄0̅̅̅ +  𝑃̅ 𝑄1 +  𝑄1 𝑄0̅̅̅",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-38",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 38,
+    "raw_text": "The size of the physical address space of a processor is 232 bytes. The capacity of a \ncache memory unit is 223 bytes. The cache block size is 1 28 byte s. The cache \nmemory unit can be built as a direct mapped cache or as a 𝐾-way set-associative \ncache, where 𝐾 =  2𝐿 and 𝐿 ∈ {1, 2, 3}.  Let the length of the TAG field be 𝑀 bits \nfor the direct mapped cache, and 𝑁 bits for the set-associative cache.  \nWhich one of the following options is true? \n  \n(A) 𝑁 = 𝑀 + 𝐿 \n(B) 𝑁 = 𝑀 − 𝐿 \n(C) 𝑁 = 𝑀 + 𝐾 \n(D) 𝑁 = 𝑀 − 𝐾",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "A",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-39",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 39,
+    "raw_text": "Consider the following  code snippet in C language that computes the number of \nnodes in a non-empty singly linked list pointed to by the pointer variable head.  \nstruct node{ \n  int elt; \n  struct node *next; \n}; \nint getListSize (struct node *head) \n{ \n  if( E1 ) return 1; \n  return E2; \n} \nWhich one of the following options gives the correct replacements for the \nexpressions E1 and E2? \n  \n(A) E1: head == NULL \nE2: 1 + getListSize(head) \n(B) E1: head->next == NULL \nE2: 1 + getListSize(head->next) \n(C) E1: head == NULL \nE2: 1 + getListSize(head->next) \n(D) E1: head->next == NULL \nE2: 1 + getListSize(head)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-40",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 40,
+    "raw_text": "Let 𝑃 be the set of all integers from 1 to 15. Consider any order of insertion of the \nelements of 𝑃 into a binary search tree that creates a complete binary tree.  \nWhich one of the following elements can NEVER be the third element that is \ninserted? \n  \n(A) 4 \n(B) 2 \n(C) 10 \n(D) 5",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-41",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 41,
+    "raw_text": "Let 𝐺(𝑉, 𝐸) be an undirected, edge-weighted graph with integer weights. The weight \nof a path is the sum of the weights of the edges in that path. The length of a path is \nthe number of edges in that path.  \nLet 𝑠 ∈ 𝑉 be a vertex in 𝐺. For every 𝑢 ∈ 𝑉 and for every 𝑘 ≥ 0, let 𝑑𝑘(𝑢) denote \nthe weight of a shortest path (in terms of weight) from 𝑠 to 𝑢 of length at most 𝑘. If \nthere is no path from 𝑠 to 𝑢 of length at most 𝑘, then 𝑑𝑘(𝑢) = ∞. \n Consider the statements: \nS1: For every 𝑘 ≥ 0 and 𝑢 ∈ 𝑉,   𝑑𝑘+1(𝑢) ≤ 𝑑𝑘(𝑢). \nS2: For every (𝑢, 𝑣) ∈ 𝐸, if (𝑢, 𝑣) is part of a shortest path (in terms of \nweight) from 𝑠 to 𝑣, then for every 𝑘 ≥  0, 𝑑𝑘(𝑢) ≤ 𝑑𝑘(𝑣). \n \nWhich one of the following options is correct? \n  \n(A) Only S1 is true \n(B) Only S2 is true \n(C) Both S1 and S2 are true \n(D) Neither S1 nor S2 is true",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "A",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-42",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 42,
+    "raw_text": "Consider the control flow graph shown in the figure.  \n \nWhich one of the following options correctly lists the set of redundant expressions \n(common subexpressions) in the basic blocks B4 and B5?  \nNote: All the variables are integers. \n  \n(A) B4: { 𝑏 + 𝑖 } \nB5: { 𝑐 + 𝑚 } \n(B) B4: { 𝑔 ∗ 𝑘 } \nB5: { 𝑐 + 𝑚 } \n(C) B4: { 𝑔 ∗ 𝑘, 𝑏 + 𝑖 } \nB5: { } \n(D) B4: { 𝑔 ∗ 𝑘 } \nB5: { }",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-43",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 43,
+    "raw_text": "Consider a relational database schema with two relations 𝑅(𝑃, 𝑄) and 𝑆(𝑋, 𝑌).   \nLet  𝐸 =  {⟨𝑢⟩ ∣ ∃𝑣 ∃𝑤  ⟨𝑢, 𝑣⟩ ∈ 𝑅 ∧ ⟨𝑣, 𝑤⟩  ∈ 𝑆}  be a tuple relational calculus \nexpression. \nWhich one of the following relational algebraic expressions is equivalent to 𝐸 ? \n  \n(A) 𝛱𝑃(𝑅 ⋈𝑅.𝑃=𝑆.𝑋 𝑆) \n(B) 𝛱𝑃(𝑆 ⋈𝑆.𝑋=𝑅.𝑄 𝑅) \n(C) 𝛱𝑃(𝑅 ⋈𝑅.𝑃=𝑆.𝑌 𝑆) \n(D) 𝛱𝑃(𝑆 ⋈𝑆.𝑌=𝑅.𝑄 𝑅)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-44",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 44,
+    "raw_text": "A TCP sender successfully establishes a connection with a TCP receiver and starts \nthe transmission of segments. The TCP congestion control mechanism’s slow-start \nthreshold is set to 10000  segments. Assume that the round -trip time is fixed at   \n1 millisecond. Assume that the sender always has data to send, the segments are \nnumbered from 1, and no segment is lost. Let 𝑡 denote the time (in milliseconds) at \nwhich the transmission of segment number 2000 starts.  \nWhich one of the following options is correct? \n  \n(A)   9 ≤  𝑡 <  10 \n(B) 10 ≤  𝑡 <  11 \n(C) 11 ≤  𝑡 <  12 \n(D) 12 ≤  𝑡 <  13",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-45",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 45,
+    "raw_text": "Consider the implementation of sliding window protocol over a lossless link, with a \nwindow size of 𝑊 frames, where each frame is of size 1000 bits (including header). \nThe bandwidth of the link is 100 kbps (1k = 103) and the one-way propagation delay \nis 100 milliseconds. Assume that processing times at the sender and receiver are zero \nand the transmission time of acknowledgements is also zero. Which one of the \nfollowing options gives the minimum size of 𝑊 (in number of frames) required to \nachieve 100% link utilization? \n  \n(A) 10 \n(B) 21 \n(C) 20 \n(D) 11",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MCQ",
+    "correct_answer": "B",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-46",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 46,
+    "raw_text": "Let 𝑓: ℝ → ℝ be defined as follows: \n𝑓(𝑥) = (\n|𝑥|\n2 − 𝑥) (𝑥 −\n|𝑥|\n2 ) \nWhich of the following statements is/are true? \n  \n(A) 𝑓 has a local maximum \n(B) 𝑓 has a local minimum \n(C) 𝑓′ is continuous over ℝ \n(D) 𝑓′ is not differentiable over ℝ",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;C;D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-47",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 47,
+    "raw_text": "Let 𝐺(𝑉, 𝐸) be a simple, undirected graph. A vertex cover of 𝐺 is a subset  \n𝑉′ ⊆ 𝑉 such that for every (𝑢, 𝑣) ∈ 𝐸, 𝑢 ∈ 𝑉′or 𝑣 ∈ 𝑉′. Let the size of the smallest \nvertex cover in 𝐺 be 𝑘.  Let 𝑆 be any vertex cover of size 𝑘.  \nFor a vertex 𝑣 ∈ 𝑉, which of the following constraints will always ensure that  \n𝑣 ∈ 𝑆 ? \n  \n(A) The degree of 𝑣 is at least 𝑘 + 1 \n(B) The vertex 𝑣 is on a path of length 𝑘 + 1 \n(C) The vertex 𝑣 is on a cycle of length 𝑘 + 1 \n(D) The vertex 𝑣 is a part of a clique of size 𝑘",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-48",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 48,
+    "raw_text": "Consider a Boolean function F with the following minterm expression: \n𝐹(𝑃, 𝑄, 𝑅, 𝑆) =  ∑ 𝑚 (1, 2, 3, 4, 5, 7, 10, 12, 13, 14) \nWhich of the following options is/are the minimal sum-of-products expression(s)  \nof F ? \n  \n(A) 𝑃̅𝑆 + 𝑄𝑅̅ +  𝑃̅𝑄̅𝑅 + 𝑄̅𝑅𝑆̅ \n(B) 𝑃̅𝑆 + 𝑄𝑅̅ +  𝑃̅𝑄̅𝑅 + 𝑃𝑅𝑆̅ \n(C) 𝑃̅𝑆 + 𝑄𝑅̅ +  𝑃𝑄𝑆̅ + 𝑃𝑅𝑆̅ \n(D) 𝑃̅𝑆 + 𝑄𝑅̅ +  𝑃𝑄𝑆̅ + 𝑄̅𝑅𝑆̅",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-49",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 49,
+    "raw_text": "Let 𝐺(𝑉, 𝐸) be a simple, undirected, edge-weighted graph with unique edge weights. \nWhich of the following statements about the minimum spanning trees (MST)  \nof 𝐺 is/are true? \n  \n(A) In every cycle 𝐶 of 𝐺, the edge with the largest weight in 𝐶 is not in any MST \n(B) In every cycle 𝐶 of 𝐺, the edge with the smallest weight in 𝐶 is in every MST \n(C) For every vertex 𝑣 ∈ 𝑉, the edge with the largest weight incident on 𝑣 is not in any \nMST \n(D) For every vertex 𝑣 ∈ 𝑉, the edge with the smallest weight incident on 𝑣 is in every \nMST",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-50",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 50,
+    "raw_text": "Consider the following pseudocode for depth -first search (DFS) algorithm which \ntakes a directed graph 𝐺(𝑉, 𝐸) as input, where 𝑑[𝑣] and 𝑓[𝑣] are the discovery time \nand finishing time, respectively, of the vertex 𝑣 ∈ 𝑉. \n𝐷𝐹𝑆(𝐺): \n   𝑢𝑛𝑚𝑎𝑟𝑘 𝑎𝑙𝑙 𝑣 ∈ 𝑉 \n   𝑡 ← 0 \n   𝑓𝑜𝑟 𝑒𝑎𝑐ℎ 𝑣 ∈ 𝑉 \n        𝑖𝑓 𝑣  𝑖𝑠  𝑢𝑛𝑚𝑎𝑟𝑘𝑒𝑑 \n              𝑡 ← 𝐸𝑥𝑝𝑙𝑜𝑟𝑒(𝐺, 𝑣, 𝑡) \n        𝑒𝑛𝑑 𝑖𝑓 \n   𝑒𝑛𝑑 𝑓𝑜𝑟 \n𝐸𝑥𝑝𝑙𝑜𝑟𝑒(𝐺, 𝑣, 𝑡):    \n    𝑚𝑎𝑟𝑘 𝑣      \n     𝑡 ← 𝑡 + 1 \n     𝑑[𝑣] ← 𝑡 \n     𝑓𝑜𝑟 𝑒𝑎𝑐ℎ (𝑣, 𝑤) ∈ 𝐸 \n            𝑖𝑓 𝑤 𝑖𝑠 𝑢𝑛𝑚𝑎𝑟𝑘𝑒𝑑 \n                   𝑡 ← 𝐸𝑥𝑝𝑙𝑜𝑟𝑒(𝐺, 𝑤, 𝑡) \n            𝑒𝑛𝑑 𝑖𝑓 \n     𝑒𝑛𝑑 𝑓𝑜𝑟 \n     𝑡 ← 𝑡 +  1 \n     𝑓[𝑣] ← 𝑡 \n     𝑟𝑒𝑡𝑢𝑟𝑛 𝑡 \nSuppose that the input directed graph 𝐺(𝑉, 𝐸) is a directed acyclic graph (DAG). \nFor an edge (𝑢, 𝑣) ∈ 𝐸, which of the following options will NEVER be correct? \n  \n(A) 𝑑[𝑢] < 𝑑[𝑣] < 𝑓[𝑣] < 𝑓[𝑢] \n(B) 𝑑[𝑣] < 𝑑[𝑢] < 𝑓[𝑢] < 𝑓[𝑣] \n(C) 𝑑[𝑣] < 𝑓[𝑣] < 𝑑[𝑢] < 𝑓[𝑢] \n(D) 𝑑[𝑢] < 𝑑[𝑣] < 𝑓[𝑢] < 𝑓[𝑣]",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-51",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 51,
+    "raw_text": "Let 𝐿1 and 𝐿2 be two languages over a finite alphabet, such that 𝐿1 ∩ 𝐿2 and 𝐿2 are \nregular languages.  \nWhich of the following statements is/are always true? \n  \n(A) 𝐿1 is regular \n(B) 𝐿1 ∪ 𝐿2 is regular \n(C) 𝐿2  is context-free \n(D) 𝐿1 is context-free",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "C",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-52",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 52,
+    "raw_text": "Consider the following context-free grammar 𝐺. \n                     𝑆 → 𝑎𝑏𝑎𝐴𝐵𝐴𝑏𝑏𝑎 \n                     𝐴 → 𝑎𝑎𝐵𝐵𝐴𝑏 | 𝑏𝐵𝑎𝑏𝑎𝑎  \n                     𝐵 → 𝑎𝐵𝑏 | 𝑎𝑏 \nIn the above grammar, 𝑆 is the start symbol, 𝑎 and 𝑏 are terminal symbols, and 𝐴 and \n𝐵 are non-terminal symbols. \nLet 𝐿(𝐺) be the language generated by the grammar 𝐺. For a string 𝑠 ∈ 𝐿(𝐺), let \n𝑛1(𝑠) be the number of 𝑎’s in 𝑠 and 𝑛2(𝑠) be the number of 𝑏’s in 𝑠. \nWhich of the following statements is/are true? \n  \n(A) There is a string 𝑠 ∈ 𝐿(𝐺) such that 𝑛1(𝑠) < 𝑛2(𝑠) \n(B) For every string 𝑠 ∈ 𝐿(𝐺), 𝑛1(𝑠) ≥ 𝑛2(𝑠) \n(C) There is a string 𝑠 ∈ 𝐿(𝐺) such that 𝑛1(𝑠) > 2𝑛2(𝑠)  \n(D) For every string 𝑠 ∈ 𝐿(𝐺), 𝑛1(𝑠) ≤ 2𝑛2(𝑠)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-53",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 53,
+    "raw_text": "Consider the following two s yntax-directed definitions SDD1 and SDD2 for type \ndeclarations. \n𝐷 is the start symbol, and 𝑖𝑛𝑡, 𝑓𝑙𝑜𝑎𝑡 and 𝑖𝑑 are the three terminals. The non-terminal \n𝑉1 is the same as 𝑉 and the non-terminal 𝐷1 is the same as 𝐷. Here, the subscript is \nused to differentiate the grammar symbols on the two sides of a production.  The \nfunction 𝑝𝑢𝑡 updates the symbol table with the type information for an identifier.  \nLet P and Q be the languages specified by grammars G1 and G2, respectively. \nWhich of the following statements is/are true? \nSDD1 \nGrammar \n(G1) \nSemantic Rules \n \n𝐷 → 𝑇 𝑉 𝐷. 𝑡𝑦𝑝𝑒 =  𝑇. 𝑡𝑦𝑝𝑒 \n𝑉. 𝑡𝑦𝑝𝑒 =  𝑇. 𝑡𝑦𝑝𝑒 \n𝑇 →  𝑖𝑛𝑡 𝑇. 𝑡𝑦𝑝𝑒 =  𝑖𝑛𝑡 \n𝑇 →  𝑓𝑙𝑜𝑎𝑡 𝑇. 𝑡𝑦𝑝𝑒 =  𝑓𝑙𝑜𝑎𝑡 \n𝑉 → 𝑉1 𝑖𝑑 \n \n𝑉1. 𝑡𝑦𝑝𝑒 = 𝑉. 𝑡𝑦𝑝𝑒 \n𝑝𝑢𝑡(𝑖𝑑. 𝑒𝑛𝑡𝑟𝑦, 𝑉. 𝑡𝑦𝑝𝑒) \n𝑉 →  𝑖𝑑 𝑝𝑢𝑡(𝑖𝑑. 𝑒𝑛𝑡𝑟𝑦, 𝑉. 𝑡𝑦𝑝𝑒) \n \nSDD2 \nGrammar \n(G2) \nSemantic Rules \n \n𝐷 → 𝐷1 𝑖𝑑 \n \n𝐷. 𝑡𝑦𝑝𝑒 = 𝐷1. 𝑡𝑦𝑝𝑒 \n𝑝𝑢𝑡(𝑖𝑑. 𝑒𝑛𝑡𝑟𝑦, 𝐷1. 𝑡𝑦𝑝𝑒) \n𝐷 →  𝑇 𝑖𝑑 \n \n𝐷. 𝑡𝑦𝑝𝑒 =  𝑇. 𝑡𝑦𝑝𝑒 \n𝑝𝑢𝑡(𝑖𝑑. 𝑒𝑛𝑡𝑟𝑦, 𝑇. 𝑡𝑦𝑝𝑒) \n𝑇 → 𝑖𝑛𝑡 𝑇. 𝑡𝑦𝑝𝑒 =  𝑖𝑛𝑡 \n𝑇 →  𝑓𝑙𝑜𝑎𝑡 𝑇. 𝑡𝑦𝑝𝑒 =  𝑓𝑙𝑜𝑎𝑡 \n \n  \n(A) The languages P and Q are the same \n(B) SDD2 is S-attributed and contains only synthesized attributes \n(C) SDD1 is L-attributed and contains only inherited attributes \n(D) The specifications of SDD1 and SDD2 are such that the same entries get added to \nthe symbol table",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;B;D",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-54",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 54,
+    "raw_text": "Consider a system that has a cache memory unit and a memo ry management unit \n(MMU). The address input to the cache memory is a physical address. The MMU \nhas a translation lookaside buffer (TLB). Assume that when a page is evicted from \nthe main memory, the corresponding blocks in the cache are marked as invalid. \nFor a given memory reference, which of the following sequences of events can \nNEVER happen? \n  \n(A) TLB miss, Page table hit, Cache hit \n(B) TLB hit, Page table miss, Cache hit \n(C) TLB miss, Page table miss, Cache hit \n(D) TLB miss, Page table miss, Cache miss",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;C",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-55",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 55,
+    "raw_text": "An undirected, unweighted , simple graph 𝐺(𝑉, 𝐸) is said to be 2 -colorable if there \nexists a function 𝑐: 𝑉 → {0, 1} such that for every (𝑢, 𝑣) ∈ 𝐸, 𝑐(𝑢) ≠ 𝑐(𝑣). \nWhich of the following statements about 2-colorable graphs is/are true? \n  \n(A) If 𝐺 is 2-colorable, then 𝐺 may contain cycles of odd length \n(B) If 𝐺 is 2-colorable, then 𝐺 may contain cycles of even length \n(C) An optimal algorithm for testing whether 𝐺 is 2-colorable runs in time Θ(|𝑉| + |𝐸|), \nif 𝐺 is represented as an adjacency list \n(D) An optimal algorithm for testing whether 𝐺 is 2-colorable runs in time Θ(|𝐸| log|𝑉|), \nif 𝐺 is represented as an adjacency list",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "B;C",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-56",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 56,
+    "raw_text": "An ISP having an address block 202.16.0.0/15 assigns a block of 6000 IP addresses \nto a client, using the classless internet domain routing (CIDR) super -netting \napproach. Which of the following address blocks can be assigned by the ISP?  \n  \n(A) 202.16.0.0/19 \n(B) 202.17.64.0/19 \n(C) 202.16.32.0/19 \n(D) 202.17.24.0/19",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "MSQ",
+    "correct_answer": "A;B;C",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-57",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 57,
+    "raw_text": "Let 𝐺 be an undirected graph, which is a path on 8 vertices. The number of matchings \nin 𝐺 is ______. (answer in integer)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "34 to 34",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-58",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 58,
+    "raw_text": "Let 𝑋 be a random variable which takes values in the set {1, 2, 3, 4, 5, 6, 7, 8}. \nFurther, Pr(𝑋 = 1) = Pr(𝑋 = 2) = Pr(𝑋 = 5) = Pr(𝑋 = 7) =\n1\n6  and  \n Pr(𝑋 = 3) = Pr(𝑋 = 4) = Pr(𝑋 = 6) = Pr(𝑋 = 8) =\n1\n12 .  \nThe expected value of 𝑋, denoted by 𝐸[𝑋], is equal to ___________. (rounded off \nto two decimal places)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "4.24 to 4.26",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-59",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 59,
+    "raw_text": "Consider a hard disk with a rotational speed of 15000 rpm. The time to move the \nread/write head from a track to its adjacent track is 1 millisecond. Initially, the head \nis on track 0. The number of sectors per track is 400. The secto r size is 1024 bytes. \nIt is necessary to transfer data from 10 randomly located sectors in each of the \nfollowing tracks in the order: 5, 12 and 7.  \nThe total time for the data transfer (in milliseconds) from the hard disk is _________. \n(rounded off to one decimal place)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "77.3 to 77.3",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-60",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 60,
+    "raw_text": "The EX stage of a pipelined processor performs the memory read operations for \nLOAD instructions, and the operations for the arithmetic and logic instructions. Let  \n𝑡𝐸𝑋 denote the time taken by the EX stage to perform the operation for an instruction. \nFor each instruction type, the values of  𝑡𝐸𝑋 and M (the number of instructions of that \ntype in a sequence of 100 instructions for a program P), are given in the table below. \nThe duration of the pipeline clock cycle is 1 nanosecond. Assume that the latch time \nfor the interstage buffers in the pipeline is negligible. \n \n \n \n \n \n \n \nWhen program P is executed, the number of clock cycles for which the pipeline is \nstalled due to structural hazards in the EX stage is ______. (answer in integer) \nInstruction 𝑡𝐸𝑋 in \nnanoseconds \n𝑀 \n \nLOAD 1.8 15 \nIMUL 1.5 10 \nIDIV 2.5 5 \nFADD 1.7 10 \nFSUB 1.7 5 \nFMUL 2.8 15 \nFDIV 3.2 5 \nAll other \ninstructions \nLess than \n1.0 \n35",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "95 to 95",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-61",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 61,
+    "raw_text": "Consider the recursive functions represented by the following code segment: \nint bar(int n){ \n     if (n == 1) return 0; \n     else return 1 + bar(n/2); \n} \nint foo(int n){ \n     if (n == 1) return 1; \n     else return 1 + foo(bar(n)); \n} \n \nThe smallest positive integer n for which foo(n) returns 5 is ______. (answer in \ninteger) \nNote: Ignore syntax errors (if any) in the function.",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "65536 to 65536",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-62",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 62,
+    "raw_text": "The following sequence corresponds to the preorder traversal of a binary search  \ntree 𝑇: \n50, 25, 13, 40, 30, 47, 75, 60, 70, 80, 77 \nThe position of the element 60 in the postorder traversal of 𝑇 is ______. (answer in \ninteger) \nNote: The position begins with 1.",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "7 to 7",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-63",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 63,
+    "raw_text": "Consider the following program snippet. Assume that the program compiles and runs \nsuccessfully. Further, assume that the fork() system call is always successful in \ncreating a process. \nint main () { \n   int i;  \n   for (i = 0; i < 3; i++){ \n      if (fork() == 0){ \n        continue; \n      } \n      break; \n   } \n   printf(\"Hello!\"); \n   return 0; \n} \n \nThe total number of times that the printf statement gets executed is ________. \n(answer in integer)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "4 to 4",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-64",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 64,
+    "raw_text": "Consider a CPU that has  to execute two types of processes. The first type,  \nActuators (A), requires a CPU burst of 6 seconds. The second type, Controllers (C), \nrequires a CPU burst of 8 seconds. A new process of type A arrives at time 𝑡 = 10, \n20, 30, 40, and 50 (in seconds). Similarly, a new process of type C arrives at time 𝑡 = \n11, 22, 33, 44, and 55 (in seconds). The CPU scheduling policy is First Come First \nServe (FCFS). The first process of type A starts running at 𝑡 = 10 seconds. The \naverage waiting time (in seconds) for the 10 processes is ___________. (rounded off \nto one decimal place)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "9.5 to 9.5",
+    "marks": 2.0
+  },
+  {
+    "question_id": "gate-cs1-2026-65",
+    "year": 2026,
+    "paper": "CS-1",
+    "question_number": 65,
+    "raw_text": "Consider a relational database schema with a relation 𝑅(𝐴, 𝐵, 𝐶, 𝐷). If {𝐴, 𝐵} and \n{𝐴, 𝐶} are the only two candidate keys of the relation 𝑅, then the number of superkeys \nof relation 𝑅 is ______. (answer in integer)",
+    "source": {
+      "type": "official_pyq",
+      "url": "https://gate2026.iitg.ac.in/doc/download/2026/QPs/CS1.pdf"
+    },
+    "question_type": "NAT",
+    "correct_answer": "6 to 6",
+    "marks": 2.0
+  }
+]
