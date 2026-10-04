@@ -1,0 +1,1212 @@
+GATE 2020 IT Delhi
+
+Graduate Aptitude Test in Engineering 2020
+
+Home
+
+Organising Institute
+
+Information Brochure GATE International Pre Examination Important Dates FAQs Centact Us
+
+CS: Computer Sc. and Information Technology
+
+GA - General Aptitude
+
+Q1 - Q5 carry one mark each.
+
+Q.No. 1
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 2
+(A)
+(B)
+
+(C)
+(D)
+
+Q.No. 3
+
+(A)
+(B)
+(C)
+(D)
+
+Q.No. 4
+
+(A)
+(B)
+(C)
+(D)
+
+Q.No. 5
+
+Raman is confident of speaking English six months as he has been practising
+regularly__ the last three weeks.
+
+during, for
+
+for, since
+
+for, in
+
+within, for
+
+His knowledge of the subject was excellent but his classroom performance was
+extremely poor
+good
+
+desirable
+praiseworthy
+
+Select the word that fits the analogy:
+
+Cook : Cook :: Fly:
+Flyer
+
+Flying
+
+Flew
+
+Flighter
+
+The dawn of the 21st century witnessed the melting glaciers oscillating between giving too
+much and too little to billions of people who depend on them for fresh water. The UN
+climate report estimates that without deep cuts to man-made emissions, at least 30% of the
+northern hemisphere’s surface permafrost could melt by the end of the century. Given this
+situation of imminent global exodus of billions of people displaced by rising seas, nation-
+states need to rethink their carbon footprint for political concerns, if not for environmental
+ones.
+
+Which one of the following statements can be inferred from the given passage?
+
+Nation-states do not have environmental concerns.
+Nation-states are responsible for providing fresh water to billions of people.
+
+Billions of people are responsible for man-made emissions.
+Billions of people are affected by melting glaciers.
+
+(A)
+(B)
+(Cc)
+(D)
+
+There are multiple routes to reach from node | to node 2, as shown in the network.
+
+The cost of travel on an edge between two nodes is given in rupees. Nodes ‘a’, *b’, ‘ce’, ‘d’,
+‘e’, and ‘f are toll booths. The toll price at toll booths marked ‘a’ and ‘e’ is Rs. 200, and is
+Rs. 100 for the other toll booths. Which is the cheapest route from node | to node 2?
+1-a-c-2
+
+1-f-b-2
+
+1-b-2
+
+1-f-e-2
+
+Q6 - Q10 carry two marks each.
+
+Q.No. 6
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 7
+(A)
+(B)
+(C)
+(D)
+
+Q.No. 8
+
+Goods and Services Tax (GST) is an indirect tax introduced in India in 2017 that is
+imposed on the supply of goods and services, and it subsumes all indirect taxes except few.
+It is a destination-based tax imposed on goods and services used, and it is not imposed at
+the point of origin from where goods come. GST also has a few components specific to
+state governments, central government and Union Territories (UTs).
+
+Which one of the following statements can be inferred from the given passage?
+GST is imposed on the production of goods and services.
+
+GST includes all indirect taxes.
+
+GST does not have a component specific to UT.
+
+GST is imposed at the point of usage of goods and services.
+
+If P=3, R=27, T = 243, thenQ+S=
+40
+80
+90
+110
+
+The figure below shows an annular ring with outer and inner radii as 5 and a, respectively.
+The annular space has been painted in the form of blue colour circles touching the outer
+and inner periphery of annular space. If maximum 7” number of circles can be painted, then
+the unpainted area available in annular space is
+
+
+(A)
+
+(B)
+(Cc)
+
+(0)
+
+Q.No. 9
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 10
+
+(A)
+(B)
+(Cc)
+(D)
+
+n|(b? - a?) -=(b- a)?
+m[(b? — a”) —n(b —a)?]
+1 [co -—a’*)+ (6 - a)’|
+m[(b? — a2) + n(b —a)?]
+
+Two straight lines are drawn perpendicular to each other in X-Y plane. If @ and # are the
+acute angles the straight lines make with the X-axis, thena+ Bis.
+
+60°
+
+90°
+
+120°
+
+180°
+
+The total revenue of a company during 2014-2018 is shown in the bar graph. If the total
+expenditure of the company in each year is 500 million rupees, then the aggregate profit or
+
+loss (in percentage) on the total expenditure of the company during 2014-2018 is .
+
+900
+
+200 \
+
+eo
+© i
+2 '
+100
+0
+2014 2015 2016 2017 2018
+Year
+
+16.67 % profit
+16.67 % loss
+20 % profit
+20 % loss
+
+CS: Computer Sc. and Information Technology
+
+Q1 - Q25 carry one mark each.
+
+Q.No. 1
+
+(A)
+(B)
+(C)
+(D)
+
+Q.No. 2
+
+Consider the functions
+
+i. eo
+
+Il. x? —sinx
+
+I. = vxF+1
+Which of the above functions is/are increasing everywhere in [0,1]?
+Ill only
+Il only
+
+II and III only
+1 and III only
+
+For parameters aand 5, both of which are @(1), T(n)=T(n'")+1, and T(b)=1.
+Then 7(n) is
+
+(A) O(log, log, n)
+(8) O(log, 7)
+
+©) O(log, log, 2)
+(0) O(log, log, 7)
+
+QNo.3 Consider the following statements.
+
+I. Daisy chaining is used to assign priorities in attending interrupts.
+Il. When a device raises a vectored interrupt, the CPU does polling to identify
+the source of interrupt.
+III. In polling, the CPU periodically checks the status bits to know if any device
+needs its attention.
+IV. During DMA, both the CPU and DMA controller can be bus masters at the
+
+same time.
+
+Which of the above statements is/are TRUE?
+
+(a) 1 and II only
+(B) Land IV only
+(C) I and III only
+(D) IL only
+
+QNo.4 Consider the following data path diagram.
+
+BUS
+r v
+TEMP1
+MAR MDR IR Pc RO
+Ri
+TEMP2 ALU
+To Memory Rw
+
+Consider an instruction: RO © R1 + R2. The following steps are used to execute
+it over the given data path. Assume that PC is incremented appropriately. The
+
+subscripts r and w indicate read and write operations, respectively.
+
+R2,, TEMP1,, ALUasa, TEMP2w
+R1,, TEMP 1
+
+PC,;, MARw, MEMr
+
+TEMP2,, ROw
+
+MDR,, IRw
+
+wR YN
+
+Which one of the following is the correct order of execution of the above steps?
+(A) 2, 1,.4,5,3
+(B) 1, 2, 4,3, 5
+(C) 3,352, La
+(0) 3.5915 2,4
+
+Q.No.5 The preorder traversal of a binary search tree is 15, 10, 12, 11, 20, 18, 16, 19.
+
+Which one of the following is the postorder traversal of the tree?
+
+a) 10, 11, 12, 15, 16, 18, 19, 20
+ie) 11, 12, 10, 16, 19, 18, 20, 15
+© 20, 19, 18, 16, 15, 12, 11, 10
+) 19, 16, 18, 20, 11, 12, 10, 15
+
+Q.No.6 What is the worst case time complexity of inserting n? elements into an AVL-tree
+
+with n elements initially?
+
+(A) O(n*)
+(8) O(n?)
+(©) Q(n?log n)
+(0) O(n?)
+
+Q.No.7 Which one of the following regular expressions represents the set of all binary
+
+strings with an odd number of 1’s?
+
+@) —— ((+1)°1(0 + 1)"1)"10"
+) — (0"10"10*)"0"
+@ — 10°(0"10"10")"
+©) (0°10"10")"10"
+
+QNo.8 Consider the following statements.
+
+I. If L, UL, is regular, then both L, and Lz must be regular.
+
+Il. The class of regular languages is closed under infinite union.
+
+Which of the above statements is/are TRUE?
+
+(A) I only
+
+(8) II only
+
+(C) Both | and II
+(D) Neither I nor II
+
+QNo.9 Consider the following statements.
+
+I. Symbol table is accessed only during lexical analysis and syntax analysis.
+Il. Compilers for programming languages that support recursion necessarily
+need heap storage for memory allocation in the run-time environment.
+Ill. Errors violating the condition ‘any variable must be declared before its
+
+use’ are detected during syntax analysis.
+
+Which of the above statements is/are TRUE?
+
+(A) I only
+
+(B) I and III only
+
+(©) II only
+
+(D) None of I, II, and III
+
+Q.No. 10
+
+Consider the language L= {a"|n>0}U {a"b"|n>0} and the following
+
+statements.
+
+I. Lis deterministic context-free.
+Il. L is context-free but not deterministic context-free.
+
+Ill. Z is not LL(A) for any k.
+
+Which of the above statements is/are TRUE?
+
+(A) I only
+
+(B) Il only
+
+() I and III only
+(D) IL only
+
+QNo.11 Consider allocation of memory to a new process. Assume that none of the existing
+holes in the memory will exactly fit the process’s memory requirement. Hence, a
+new hole of smaller size will be created if allocation is made in any of the existing
+
+holes. Which one of the following statements is TRUE?
+
+(A) The hole created by first fit is always larger than the hole created by next fit.
+(B) The hole created by worst fit is always larger than the hole created by first fit.
+(©) The hole created by best fit is never larger than the hole created by first fit.
+(D) The hole created by next fit is never larger than the hole created by best fit.
+
+Q.No.12 Consider the following statements about process state transitions for a system
+
+using preemptive scheduling.
+
+I. A running process can move to ready state.
+II. A ready process can move to running state.
+Ill. A blocked process can move to running state.
+
+IV. A blocked process can move to ready state.
+
+Which of the above statements are TRUE?
+
+(A) 1, II, and II only
+(8) II and III only
+
+() I, Il, and IV only
+(0) I, IL, IL, and IV
+
+Q.No. 13
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 14
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 15
+
+(A)
+(B)
+(C)
+(D)
+
+Q.No. 16
+
+Consider a relational database containing the following schemas.
+
+Catalogue Suppliers
+sno | pno cost sno | sname location
+S1 Pl 150 S1__ | M/s Royal furniture Delhi
+SI P2 50 S2__| M/s Balaji furniture Bangalore
+Sl P3 100 S3__| M/s Premium furniture Chennai
+$2 P4 200 Parts
+S2 PS 250
+= a oes pno | pname part_spec
+83 p2 150 Pl_| Table Wood
+$3 PS 300 P2 | Chair Wood
+S3 P4 250 P3__| Table Steel
+P4_| Almirah Steel
+PS | Almirah Wood
+
+The primary key of each table is indicated by underlining the constituent fields.
+
+SELECT s.sno, s.sname
+FROM Suppliers s, Catalogue c
+WHERE s.sno = c.sno AND
+cost > (SELECT AVG (cost)
+FROM Catalogue
+WHERE pno = ‘P4’
+GROUP BY pno);
+
+The number of rows returned by the above SQL query is
+4
+
+5
+0
+2
+
+Which one of the following is used to represent the supporting many-one
+
+relationships of a weak entity set in an entity-relationship diagram?
+
+Diamonds with double/bold border
+Rectangles with double/bold border
+
+Ovals with double/bold border
+Ovals that contain underlined identifiers
+
+Consider the following statements about the functionality of an IP based router.
+
+I. A router does not modify the IP packets during forwarding.
+II. It is not necessary for a router to implement any routing protocol.
+Ill. A router should reassemble IP fragments if the MTU of the outgoing link is
+larger than the size of the incoming IP packet.
+
+Which of the above statements is/are TRUE?
+land II only
+
+Ionly
+IL and HI only
+IL only
+
+What is the worst case time complexity of inserting n elements into an empty
+
+linked list, if the linked list needs to be maintained in sorted order?
+
+(A)
+(B)
+(Cc)
+
+(D)
+
+Q.No. 17
+
+Q.No. 18
+
+Q.No. 19
+
+Q.No. 20
+
+Q.No. 21
+
+Q.No. 22
+
+Q.No. 23
+
+Q.No. 24
+
+O(n)
+O(nlogn)
+Q(n?)
+0(1)
+
+Let & be the set of all binary relations on the set {1,2,3}. Suppose a relation is
+chosen from R at random. The probability that the chosen relation is reflexive
+
+(round off to 3 decimal places) is
+
+Let G be a group of 35 elements. Then the largest possible size of a subgroup of G
+
+other than G itself is
+
+A multiplexer is placed between a group of 32 registers and an accumulator to
+regulate data movement such that at any given point in time the content of only
+one register will move to the accumulator. The minimum number of select lines
+
+needed for the multiplexer is
+
+If there are m input lines and 7 output lines for a decoder that is used to uniquely
+
+address a byte addressable 1 KB RAM, then the minimum value of m + 7 is é
+
+A direct mapped cache memory of | MB has a block size of 256 bytes. The cache
+has an access time of 3 ns and a hit rate of 94%. During a cache miss, it takes
+20 ns to bring the first word of a block from the main memory, while each
+subsequent word takes 5 ns. The word size is 64 bits. The average memory access
+
+time in ns (round off to 1 decimal place) is
+Consider the following C program.
+
+#include <stdio.h>
+int main() {
+int a[4](5]={{1, 2, 3, 4, 5},
+{6, 7, 8, 9, 10},
+{ll, 12, 13, 14, 25},
+{1L6, 17, 18. 4 19, 20}};
+printf ("td\n", *(* (at+**at+2) +3))7
+
+return (0);
+
+The output of the program is
+
+Consider a double hashing scheme in which the primary hash function is
+h,(k) =k mod 23, and the secondary hash function is /,(k)=1+(k mod 19).
+Assume that the table size is 23. Then the address returned by probe 1 in the probe
+sequence (assume that the probe sequence begins at probe 0) for key value k =90
+
+is
+
+Q.No. 25
+
+Consider the following grammar.
+
+S—>aSB\|d
+B= b
+
+The number of reduction steps taken by a bottom-up parser while accepting the
+
+string aaadbbb is
+
+Assume that you have made a request for a web page through your web browser
+to a web server. Initially the browser cache is empty. Further, the browser is
+configured to send HTTP requests in non-persistent mode. The web page contains
+text and five very small images. The minimum number of TCP connections
+
+required to display the web page completely in your browser is
+
+Q26 - Q55 carry two marks each.
+
+Q.No. 26
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 27
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 28
+
+Which of the following languages are undecidable? Note that (M) indicates
+
+encoding of the Turing machine M.
+L, = {(M)| L(M) = 9}
+Lz = {(M,w,q)| M on input w reaches state q in exactly 100 steps}
+L3 = {(M)| L(M) is not recursive}
+
+L4 = {(M)| L(M) contains at least 21 members}
+L,,L3, and L4 only
+L, and L3 only
+Lz and L3 only
+Lz, L3, and Ly only
+
+Let A and B be two n X n matrices over real numbers. Let rank(M) and det(M)
+denote the rank and determinant of a matrix M, respectively. Consider the
+
+following statements.
+
+I. rank(AB) = rank(A) rank(B)
+
+I. det(AB) = det(A) det(B)
+
+Ill. rank(A + B) < rank(A) + rank(B)
+IV. det(A + B) < det(A) + det(B)
+
+Which of the above statements are TRUE?
+I and II only
+
+Land IV only
+IL and HI only
+Ill and IV only
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+Q.No. 29
+
+(A)
+(B)
+(C)
+(D)
+
+Q.No. 30
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 31
+
+(A)
+(B)
+(C)
+(D)
+
+Consider the Boolean function z(a, b,c).
+
+5h
+
+Which one of the following minterm lists represents the circuit given above?
+
+z= ¥.013.7
+
+z= 45.6.7)
+ze V.245,6.7)
+
+z= ¥.23,5)
+
+Consider three registers RI, R2, and R3 that store numbers in IEEE-754 single
+precision floating point format. Assume that R1 and R2 contain the values (in
+hexadecimal notation) 0x42200000 and 0xC1200000, respectively.
+
+If R3= *. what is the value stored in R3?
+
+0x40800000
+0xC0800000
+0x83400000
+0xC8500000
+
+A computer system with a word length of 32 bits has a 16 MB byte-addressable
+main memory and a 64 KB, 4-way set associative cache memory with a block size
+of 256 bytes. Consider the following four physical addresses represented in
+
+hexadecimal notation.
+Al = 0x42C8A4, A2=0x546888, A3 =0x6A289C, A4 = 0x5E4880
+
+Which one of the following is TRUE?
+
+A1 and A4 are mapped to different cache sets.
+A2 and A3 are mapped to the same cache set.
+A3 and A4 are mapped to the same cache set.
+A1 and A3 are mapped to the same cache set.
+
+Let G = (V,E) be a weighted undirected graph and let T be a Minimum
+Spanning Tree (MST) of G maintained using adjacency lists. Suppose a new
+weighted edge (u,v) € V x V is added to G. The worst case time complexity of
+
+determining if T is still an MST of the resultant graph is
+O(IE| + IVI)
+
+O(IE||V |)
+
+O(IE| log |V|)
+
+ev)
+
+Q.No. 32
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 33
+
+(A)
+(B)
+(C)
+(D)
+
+Q.No. 34
+
+(A)
+
+(B)
+(Cc)
+(D)
+
+Q.No. 35
+
+Consider the following languages.
+Ly = {wxyx | w,x,y € (0 + 1)*}
+
+Lz = {xy |x,y € (a+ b)*, |x| = ly|,x # y}
+
+Which one of the following is TRUE?
+
+L, is regular and L, is context-free.
+
+L, is context-free but not regular and L» is context-free.
+Neither L, nor L> is context-free.
+
+L, is context-free but L2 is not context-free.
+
+Consider the productions A > PQ and A> XY. Each of the five non-terminals A,
+P, Q, X, and Y has two attributes: s is a synthesized attribute, and i is an inherited
+
+attribute. Consider the following rules.
+Rule 1: P.i= Ai +2, QU= Pit A.i, and A.s = P.s + Q.s
+Rule 2: X.i=A.i+ Y.s and Y.i = X.s + Ai
+
+Which one of the following is TRUE?
+
+Both Rule | and Rule 2 are L-attributed.
+Only Rule | is L-attributed.
+
+Only Rule 2 is L-attributed.
+Neither Rule 1 nor Rule 2 is L-attributed.
+
+Each of a set of n processes executes the following code using two semaphores
+a and b initialized to 1 and 0, respectively. Assume that count is a shared
+
+variable initialized to 0 and not used in CODE SECTION P.
+
+CODE SECTION P
+
+wait(a); count=count+1;
+if (count==n) signal(b);
+
+signal(a); wait(b); signal(b);
+
+CODE SECTION Q
+
+What does the code achieve?
+It ensures that no process executes CODE SECTION Q before every process has
+
+finished CODE SECTION P.
+
+It ensures that at most two processes are in CODE SECTION Q at any time.
+It ensures that all processes execute CODE SECTION P mutually exclusively.
+It ensures that at most n—1 processes are in CODE SECTION P at any time.
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 36
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+Q.No. 37
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+Q.No. 38
+
+Consider the following five disk access requests of the form (request id, cylinder
+
+number) that are present in the disk scheduler queue at a given time.
+(P, 155), (Q, 85), (R, 110), (S, 30), (T, 115)
+
+Assume the head is positioned at cylinder 100. The scheduler follows Shortest
+
+Seek Time First scheduling to service the requests.
+
+Which one of the following statements is FALSE?
+
+T is serviced before P.
+
+Q is serviced after S, but before T.
+
+The head reverses its direction of movement between servicing of Q and P.
+R is serviced before P.
+
+Consider a relational table R that is in 3NF, but not in BCNF. Which one of the
+
+following statements is TRUE?
+
+R has a nontrivial functional dependency X¥ — A, where X is not a superkey
+and A isa prime attribute.
+
+R has a nontrivial functional dependency X — A, where X is not a superkey
+and A is anon-prime attribute and X is not a proper subset of any key.
+
+R has a nontrivial functional dependency X — A, where X is not a superkey
+and A is anon-prime attribute and X is a proper subset of some key.
+
+A cell in R holds a set instead of an atomic value.
+
+Consider a schedule of transactions T, and T>:
+
+T, | RA RC WD WB | Commit
+T2 RB | WB RD WC Commit
+
+Here, RX stands for “Read(X)” and WX stands for “Write(X)”. Which one of the
+
+following schedules is conflict equivalent to the above schedule?
+
+T, RA | RC} WD | WB Commit
+Tz, | RB | WB} RD WC Commit
+T, |RA|RC| WD} WB Commit
+T2 RB | WB} RD | WC Commit
+T, |RA|RC| WD WB Commit
+T2 RB | WB | RD WC Commit
+T; RA | RC | WD | WB | Commit
+Tz | RB | WB} RD} WC Commit
+
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 39
+
+(A)
+(B)
+(C)
+
+(D)
+
+Q.No. 40
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 41
+
+(A)
+(B)
+(Cc)
+(D)
+
+Q.No. 42
+
+An organization requires a range of IP addresses to assign one to each of its 1500
+computers. The organization has approached an Internet Service Provider (ISP)
+for this task. The ISP uses CIDR and serves the requests from the available IP
+address space 202.61.0.0/17. The ISP wants to assign an address space to the
+organization which will minimize the number of routing entries in the ISP’s router
+using route aggregation. Which of the following address spaces are potential
+
+candidates from which the ISP can allot any one to the organization?
+
+I. 202.61.84.0/21
+I. 202.61.104.0/21
+Hl. — 202.61.64.0/21
+
+IV. 202.61.144.0/21
+Land II only
+
+II and III only
+
+IIL and IV only
+
+Land IV only
+
+Which one of the following predicate formulae is NOT logically valid?
+
+Note that W is a predicate formula without any free occurrence of x.
+Vx(p(x) VW) = vx p(x) VW
+
+3x(p(x) AW) = Ax p(x) AW
+
+Vx(p(x) — W) = vx p(x) 9 W
+
+ax(p(x) > W) = vx p(x) 9 W
+
+Let G=(V,E)be a directed, weighted graph with weight functionw: ER.
+For some function f:V +R, for each edge (u,v)e¢£,define w'(u,v) as
+
+w(u,v)+ f(u)— fv).
+
+Which one of the options completes the following sentence so that it is TRUE?
+“The shortest paths in G under w are shortest paths under w! too,
+
+for every f:V > R
+
+if and only if Vue V, f(u) is positive
+
+if and only if VueV, f(u) is negative
+
+if and only if f(w) is the distance from s to u in the graph obtained by adding a
+
+new vertex s to G and edges of zero weight from s to every vertex of G
+
+In a balanced binary search tree with n elements, what is the worst case time
+complexity of reporting all elements in range [a,b]? Assume that the number of
+
+reported elements is k.
+O(log n)
+
+O(logn + k)
+
+O(k log n)
+
+O(nlogk)
+
+The number of permutations of the characters in LILAC so that no character
+
+appears in its original position, if the two L’s are indistinguishable, is
+
+Q.No. 43
+
+Q.No. 44
+
+Q.No. 45
+
+Q.No. 46
+
+Q.No. 47
+
+Q.No. 48
+
+Consider a non-pipelined processor operating at 2.5 GHz. It takes 5 clock cycles
+to complete an instruction. You are going to make a 5-stage pipeline out of this
+processor. Overheads associated with pipelining force you to operate the pipelined
+processor at 2 GHz. In a given program, assume that 30% are memory
+instructions, 60% are ALU instructions and the rest are branch instructions.
+5% of the memory instructions cause stalls of 50 clock cycles each due to cache
+misses and 50% of the branch instructions cause stalls of 2 cycles each. Assume
+that there are no stalls associated with the execution of ALU instructions. For this
+program, the speedup achieved by the pipelined processor over the non-pipelined
+
+processor (round off to 2 decimal places) is
+
+A processor has 64 registers and uses 16-bit instruction format. It has two types of
+instructions: I-type and R-type. Each I-type instruction contains an opcode, a
+register name, and a 4-bit immediate value. Each R-type instruction contains an
+opcode and two register names. If there are 8 distinct I-type opcodes, then the
+
+maximum number of distinct R-type opcodes is
+
+For n> 2,let a € {0,1}" be a non-zero vector. Suppose that x is chosen
+uniformly at random from {0,1}". Then, the probability that Y7., a;x; is an odd
+
+number is
+
+Consider the following C functions.
+
+int funl(int n) { ant £un2 (int xn): 4
+static int i = 0; static int i = 0;
+if (n> 0) { if (n> 0) {
+
+++i; i= i+ funl(n);
+funl(n-1); fun2(n-1);
+} }
+return (i); return (i);
+} }
+
+The return value of fun2 (5) is
+
+Consider the array representation of a binary min-heap containing 1023 elements.
+The minimum number of comparisons required to find the maximum in the heap
+
+is
+
+Q.No. 49
+
+Q.No. 50
+
+Q.No. 51
+
+Q.No. 52
+
+Q.No. 53
+
+Consider the following C functions.
+
+int tob(int b, int* arr) { int pp(int a,int b) {
+int: i: int arr[20];
+for(i=0; b>O; i++) { int i, tot = 1, ex, len;
+if(b%2) arr[i]=1; ex = a;
+else arr[i]=0; len = tob(b,arr);
+b = b/2; for(i=0; i<len; i++) {
+} if (arr[i]==1)
+return (i); tot = tot * ex;
+ex = ex * ex;
+; }
+return (tot) ;
+}
+
+The value returned by pp (3,4) is
+
+Consider a graph G = (V,E), where V = {v4, V2, ..., Vigo}. E = {(v, w)|1 Si <
+j S100}, and weight of the edge (vj, ;) is |i—j|. The weight of minimum
+
+spanning tree of G is
+
+Consider the following set of processes, assumed to have arrived at time 0.
+Consider the CPU scheduling algorithms Shortest Job First (SJF) and Round
+Robin (RR). For RR, assume that the processes are scheduled in the order
+Pi Py, Pry Py.
+
+Processes y a4
+
+me)
+Ps)
+Pas)
+
+Burst time (inms)| 8 | 7 | 2 | 4
+
+If the time quantum for RR is 4 ms, then the absolute value of the difference
+between the average turnaround times (in ms) of SJF and RR (round off to 2
+
+decimal places) is
+Consider the following language.
+
+L = {x € {a, b}*| number of a’s in x is divisible by 2 but not divisible by 3}
+The minimum number of states ina DFA that accepts L is
+
+Graph G is obtained by adding vertex s to K,, and making s adjacent to every
+
+vertex of K,,. The minimum number of colours required to edge-colour G
+
+is
+
+Q.No. 54
+
+Q.No. 55
+
+Consider a paging system that uses I-level page table residing in main memory
+and a TLB for address translation. Each main memory access takes 100 ns and
+TLB lookup takes 20 ns. Each page transfer to/from the disk takes 5000 ns.
+Assume that the TLB hit ratio is 95%, page fault rate is 10%. Assume that for
+20% of the total page faults, a dirty page has to be written back to disk before the
+required page is read in from disk. TLB update time is negligible. The average
+
+memory access time in ns (round off to 1 decimal places) is
+
+Consider a database implemented using B+ tree for file indexing and installed on
+a disk drive with block size of 4 KB. The size of search key is 12 bytes and the
+size of tree/disk pointer is 8 bytes. Assume that the database has one million
+records. Also assume that no node of the B+ tree and no records are present
+initially in main memory. Consider that each record fits into one disk block. The
+minimum number of disk accesses required to retrieve any record in the database
+
+is
+
+Consider a TCP connection between a client and a server with the following
+specifications: the round trip time is 6 ms, the size of the receiver advertised
+window is 50 KB, slow-start threshold at the client is 32 KB, and the maximum
+segment size is 2 KB. The connection is established at time t = 0. Assume that
+there are no timeouts and errors during transmission. Then the size of the
+congestion window (in KB) at time t + 60 ms after all acknowledgements are
+
+processed is
+
+Copyright : GATE 2020, IIT Delhi
+
+GATE 2020 IT Delhi
+
+Organising Institute
+
+Graduate Aptitude Test in Engineering 2020
+
+Home Information Brochure GATE International Pre Examination Important Dates FAQs Contact Us
+
+Answer Key - CS: Computer Sc. and Information Technology
+
+Q.No. Session Que.Type |Sec. Name |Key Marks
+1 6 MCQ GA D 1
+2 6 MCQ GA A 1
+3 6 MCQ GA A 1
+4 6 MCQ GA D 1
+5 6 MCQ GA B 1
+6 6 MCQ GA D 2
+7 6 MCQ GA & 2
+8 6 MCQ GA A 2
+9 6 MCQ GA B 2
+10 6 MCQ GA & 2
+1 6 MCQ & A 1
+2 6 MCQ cs A 1
+3 6 MCQ & G 1
+4 6 MCQ cs G 1
+5 6 MCQ cs B 1
+6 6 MCQ cs & 1
+7 6 MCQ cs MTA 1
+8 6 MCQ cs D 1
+9 6 MCQ cs D 1
+10 6 MCQ & & 1
+11 6 MCQ cs € 1
+12 6 MCQ cs G 1
+13 6 MCQ cs A 1
+14 6 MCQ cs A 1
+15 6 MCQ cs D 1
+16 6 MCQ cs & 1
+17 6 NAT cs 0.125 to 0.125 1
+18 6 NAT cs 7to7 1
+19 6 NAT cs 5 to5 1
+20 6 NAT cs 1034 to 1034 1
+1 6 NAT cs weeks OR 13.5 to
+
+22 6 NAT cs 19 to 19 1
+23 6 NAT cs 13 to 13 1
+24 6 NAT cs 7to7 1
+25 6 NAT cs 6 to6 1
+26 6 MCQ cs A 2
+27 6 MCQ cs G 2
+28 6 MCQ cs B 2
+29 6 MCQ cs B 2
+30 6 MCQ cs B 2
+34 6 MCQ cs D 2
+32 6 MCQ cs A 2
+
+
+33 6 MCQ cs B
+
+34 6 MCQ cs A
+
+35 6 MCQ cs B
+
+36 6 MCQ cs A
+
+37 6 MCQ cs A
+
+38 6 MCQ cs B
+
+39 6 MCQ cs Cc
+
+40 6 MCQ cs A
+
+41 6 MCQ cs B
+
+42 6 NAT cs 12 to 12
+
+43 6 NAT cs 2.15 to 2.18
+44 6 NAT cs 14 to 14
+
+45 6 NAT cs 0.5 to 0.5
+46 6 NAT cs 55 to 55
+
+47 6 NAT cs 511 to 511
+48 6 NAT cs 81 to 81
+
+49 6 NAT cs 99 to 99
+
+50 6 NAT cs 5.25 to 5.25
+51 6 NAT cs 6 to6
+
+52 6 NAT cs 7to7
+
+53 6 NAT cs 154.5 to 155.5
+54 6 NAT cs 4to4
+
+55 6 NAT cs 44 to 44
+
+Copyright : GATE 2020, IIT Delhi
+
+

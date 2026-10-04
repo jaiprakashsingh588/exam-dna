@@ -1,0 +1,1003 @@
+DUEL CS
+
+CS : COMPUTER SCIENCE AND INFORMATION TECHNOLOGY
+
+Duration: Three Hours Maxuuum Marks: 100
+
+Read the following instructions carefully.
+
+|. This question paper contains 24 pages including blank pages for rough work. Please check ull pages
+and report discrepancy, if any.
+
+in
+
+Write your registration number. your name and name of the examination centre at the specified
+locations on the right half of the Gptical Respanse Sheet (ORS).
+
+3. Using HB pencil, darken the appropriate bubble under each digit of your registration number and the
+letters corresponding to your paper code,
+
+4. All questions in this paper are of objective lype.
+
+5. Questions must be answered on the ORS by darkening the appropnate bubble (marked A, B, C, D)
+using HB pencil ugainst the question number on the left hand side of the ORS. For cach question
+darken the bubble of the correct answer. In case you wish lo change an answer. erase the old
+answer completely, More than one answer bubbled against a question will be treated as an incorrect
+
+response.
+6. There are a total of 65 questions carrying 100 marks.
+7. Questions Q.1 - Q.25 will carry L-mark each, and questions Q.26 - Q.55 will carry 2-marks each.
+
+8. Questions Q.48 - Q.5L (2 pairs) are common data questions and question pais (Q.52. Q.53) and
+(Q.54. Q.55) ure linked answer questions. The answer to the second question of the linked answer
+questions depends on the answer lo the first question of the pair. If the first question in the tinked pair
+is wrongly answered or is un-attempted, then the answer to the second question in the pair will not be
+evaluated.
+
+9, Questions Q.56 - Q.65 belong to General Aptitude (GA). Questions Q.56 - Q.60 will carry 1-mark
+each. and questions Q.41 - Q.65 will carn: 2.marks cach. The GA questions will begin on a fresh
+page starting from page 15.
+
+10, Un-attempted questions will carry zero marks.
+
+11. Wrong answers will cary NEGATIVE marks. For Q.1 - Q.25 and Q.56 - Q.60, 4 mark will be
+deducted for each wrong answer. For Q.26 - Q.51 and Q.61 — Q.65, % mark will be deducted for each
+wrong answer. The question pairs (Q.52, Q.53). and (Q.54, Q.55) are questions with linked answers.
+There will be negative marks only for wrong answer to Lhe first question of the linked answer question
+pair i.e. for Q.52 and Q.54, % mark will be deducted for each wrong answer. There is no negative
+marking for Q.$3 and Q.55.
+
+12, Calculator (without data connectivity) is alowed in the examination hall.
+(3. Charts. graph sheets or tables are NOT allowed in the examination hall.
+
+14. Rough work can be done on the question paper itself. Additionally, blank pages are provided at the
+end of the question paper for rough work.
+
+US a 24
+
+Zola
+
+Cs
+
+Q.1 — Q.25 carry one mark each.
+
+Ql
+
+Q.2
+
+Q3
+
+Q4
+
+Qs
+
+Q.6
+
+Q7
+
+Q8
+
+Let G =(V, £) be a graph. Define (CG) = Yi xd. where /, is the number of vertices of degree d
+Z
+
+in G. If S and T are two different trees with &($) = (7). then
+
+(A)|S1= 27] (BYS}=[Th-1 (| Sf=|7| (D} {S|=|71+1
+
+Newton-Raphson method is used to compute a root of the equation a°-13=0 with 3.5 as the
+
+initial value. The approximation after one iteration is
+
+(A) 3.575 (B) 3.677 (C) 3.667 (D) 3.607
+
+What is the possible number of reflexive relations on a set of 5 clements?
+
+(Ay 2° (B) 2'* (c) 2” (D) 2°
+
+Consider the set S = (1, @, ar }, where @ and tw" are cube roots of unity. If * denotes the
+
+multiplication operation, the structure {§, *} forms
+
+(A) a group (B) a ring (C) an integral domain (D) a field
+
+] In
+What is the value of in(1-+ 2
+(A)0 (B) ec (Cc) et? (D) 1
+
+The minterm expansion of f(?,Q,R8)= PQ + OR + PR is
+
+(A) m+m,+m,+m, (B) mt, +28, +771, + ri,
+(C) mi, +m, +m, +m, (D) mt, +m, + i, ty
+
+A main memory unil with a capacity of 4 megabytes is built using 1M x 1-bii DRAM chips. Each
+DRAM chip has 1K rows of cells with [K cells in each row. The time taken for a single refresh
+operation is 100 nanoseconds. The Lime required to perform one refresh operation on all the cells in
+the memory unit is
+
+(A) 100 nanoseconds (B) 100*2'" nanoseconds
+(C) 100*2” nanoseconds (D) 3200*2” nanoseconds
+
+P is a 16-bit signed integer. The 2's complement representation of P is (F87B)\5. The 2’s
+complement representation of 87? is
+
+(A) (C3D8)i¢ (B) (87B)i, (C) (F878)i6 (D) (987B)i5
+
+cs
+
+10 cs
+Q9 — The Boolean expression for the output _f of the multiplexer shown below is
+R————*+) 0
+R——-——+]1 f
+R——+2
+R———+|3 , 0
+1
+P Q
+(A) PBECOR (B) PBQORBR ~—s (C) P+ Q+R (D) P+Q+R
+Q.10 In a binary tree with n nodes, every node has an odd number of descendants. Every node is
+considered to be its own descendant, What is the number of nodes in the tree that have exactly one
+child?
+(AYO (B) i (C) (a-DR (D) n-1
+Q.1L What does the following program print?
+#inelude <stdio.h>
+void f{int *p, int *q}{
+P= a
+*p = 2;
+}
+ant i=0, j=1;
+int maini}{
+f£t&ei, &3);
+orint£("td tdi\n*, i, jh;
+return 0;
+}
+{A} 2 2 (B) 21 (cc) Ol (D) 02
+Q.12 Two alternative packages A and B ure available for processing a database having 10° records.
+Package A requires 0.000] 1? time units and package B requires 10 nlog,, 2 lime units to process
+nrecords, What is the srnallest value of k for which package B will be preferred over A?
+(A) 12 (B) 10 (C) 6 (D) 5
+Q.13 Which data structure in a compiler is used for managing information about variables and their
+attributes?
+(A) Abstract syntax tree (1B) Symbol table
+(C) Semantic stack {1} Parse table
+Q.l4 Which languages necessarily need heap allocation in the runtime environment?
+(A) Those thai support recursion.
+(B) Those that use dynamic scoping.
+(C} Those that allow dynamic data structures.
+(D) Those that use global variables.
+Pa 324
+
+an
+
+CN
+
+Q.15
+
+Q.16
+
+Q.7
+
+QA8
+
+Q.19
+
+One of the header fields in an iP datagram is the Time-to-Live (TTL) field. Which of the following
+Slalerments best explains the need for this field?
+
+{A} It can be used to prioritize packels.
+
+(B) it can be used to reduce delays.
+
+(C) It can be used to optimize throughput.
+(D) [t can be used to prevent packet looping.
+
+Which one of the follow ing is not a client-server application?
+
+(A) Internet chat (B) Web browsing
+
+(C) E-mail (D) Ping
+
+Let L1 be a recursive language. Let L2 and 13 be languages that are recursively enumerable but not
+recursive. Which of the following statements is not necessarily true?
+
+(A) L2 — L] is recursively enumerable.
+(B} L1—- L3 is recursively enumerabie.
+(C) L2 f) L3 is recursively enumerable.
+(D) L2 J L3 ts recursively enumerable.
+
+Consider a B*-tree in which the maximum number of keys in a node is 5. What is the minimum
+number of keys in any non-reot node?
+
+(A) 1 (By 2 (C) 3 (D} 4
+A telational schema for a train reservation database is given below.
+
+Passenger (pid, prame, age}
+Reservation({pid, class, tid)
+
+Table: Passenger ‘Table: Reservation
+pid | pname age pid class tid
+0 ‘Sachin’ 65 0 ‘AC’ 8200
+| [‘Rahur [66 1 [| -AC 8201
+2 ‘Sourav’ | 67 2 ‘SC 8201
+3 ‘Anil’ 09 5 ‘AC’ 8203
+
+! “Sct 8204
+3 ‘AC 8202
+
+What pids are retumed by the following SQL query for the above instance of the tables?
+
+SELECT pid
+
+FROM Reservation
+
+WHERE class = ‘AC’ AND
+EXISTS (SELECT
+
+Passenger
+
+age > 65 AND
+
+Passenger.pid = Reservation-pid)
+
+x
+
+{A) 1.0 tBy 4.2 (C} 1,3 (D) 1.5
+
+eh
+
+“aa
+
+2010
+
+cs
+
+Q.20
+
+Q21
+
+Q.2
+
+Q.23
+
+Q.24
+
+Which of the following concurrency control protocols ensure both conflict serializability and
+freedom from deadlock?
+
+[. 2-phase locking
+I. Time-stamp ordering
+
+{A) l only (B} 1] only (C) Both land I (D) Neither [ nar II
+
+The cyclomutic complexity of each of the modules A and B shown below is LO. What is the
+cyclomatic complexity of the sequential integration shown on the right hand side’?
+
+¥
+| | :
+A 8 }
+| B
+¥
+(A) 19 (B) 21 (C) 20 (D} 10
+
+What is the appropriate pairing of ilems in the wo columns listing various activities encountered in
+4 software life cycle?
+
+P. Requirements Capture |, Module Development and Integration
+Q. Design 2. Domain Analysis
+
+R. Implementation 3. Structural and Behavioral Modeling
+S. Maintenance 4, Performance Tuning
+
+(A) P-3 Q-2 R+4S-1 (B)P-2Q-3R-1S4 9 (C) P-3Q-2R-154 (D)P-2Q-3R45S-1
+
+Consider the methods used by processes PI and P2 for accessing their critical sections whenever
+needed, as given below. The initial values of shared boolean variables $1 and S2 are randomly
+assigned.
+
+Method used by PI Method used by P2
+while (Sl == $2); while {S1 != $2);
+Critical Section Critical Section
+Sl = &2:; 82 = not{Sl);
+
+Which one of the following statements describes the properties achieved?
+
+(A) Mutual exclusion but not progress
+(B) Progress but not mutual exclusion
+
+{C) Neither mutual exclusion nor progress
+(D) Both mutual exclusion and progress
+
+A system uses FIFO policy for page replacement. I has 4 page frames with no pages loaded to
+begin with. The system first accesses 100 distinc! pages in same order and then accesses the same
+100 puges but now in the reverse order. How many page faults will occur?
+
+{A} 196 {13} 192 (7) 197 (D) 195
+
+cs
+
+324
+
+2010
+
+Cs
+
+0.25
+
+Q.26 -
+
+Q.26
+
+Q.29
+
+Q.30
+
+Which of the following statements are true?
+
+I, Shortest remaining time first scheduling may cause starvation
+IL Preemptive scheduling may cause starvation
+TIL Round robin is beter than FCFS in terms of response time
+
+(A) Lonly (B) [and It only (C} Mand Il only (D) 1. and
+
+Q.55 carry two marks each.
+
+Consider a company that assembles computers. The probability of a faulty assembly of any
+computer is p. The company therefore subjects cach computer to a testing process. This testing
+process gives the correct result for any computer with a probability of g¢. What is the probability of
+a computer being declared faulty’?
+
+(A) pq+(1-p)(1-9) (B) (L-@)p (C) (l-p)y {D) pq
+
+What is the probability that a divisor of 10” is 4 multiple of 10% ?
+{A) 1/625 (B) 4/625 (C) 12/625 {D) 16/625
+
+The degree sequence of a simple graph is the sequence of the degrees of the nodes in the graph in
+decreasing order. Which of the following sequences can not be the degree sequence of any graph?
+
+L 7.6,5,4.4,3,2,1
+I 6,6.6.6.3.3,2,2
+WI. 7,6,6,4.4. 3,2.2
+IV. 8.7, 7,6.4,2. 11
+(A) Land TI {B) ll and 1V (C) IV only (D) Hand IV
+
+Consider the following matrix
+
+I
+
+A=
+
+x y
+
+If the eigenvalues of A are 4 and 8, then
+
+(A)x=4,y= 10 (B)x=S.y=8 (C) x=-3,y=9 (D) x=-4, y= 10
+
+Suppose the predicate F(x. ¥,) is used lo represent the statement that person x can fool person y at
+lime #. Which one of the statements below expresses best the meaning of the formula
+WxS park (x, y,)?
+
+(A) Everyone can fool some person al some time.
+(B) No one can fool everyone all the time.
+
+(C) Everyone cannot fool some person all the time.
+(D) No one can fool some persan al some time.
+
+US
+
+wit
+
+2010 cs
+
+Q.35 What is the boolean expression for the output f of the combinational logic circuit of NOR gates
+given below?
+
+ov
+
+7O
+
+ty a!
+
+(A) G+R {B) P+Q (C) P+R (D) P+Q+R
+
+Q.32 In the sequential circuit shown below, if the initial value of the outpui Q,Q, is 00, what are the
+
+next four values of OQ, ?
+
+rary
+o
+2
+4
+
+co]
+
+Clock
+
+Q% Qy
+
+(A) 11,10,01,00 (B) 10,12,01,00 (C) 10,60,01,11 (D) 11,10,00,01
+
+FEZ +a we aeasine Ta
+
+210
+
+CS
+
+0.3
+
+Q.34
+
+Q.35
+
+A S-slage pipelined processor has Instruction Fetch (IF), Instruction Decode (ID). Operand Fetch
+(OF), Perform Operation (PO) and Write Operand (WO) stages. The IE. ID. OF and WO stages
+take | clock cycle each for any instruction. The PO stage takes 1 clock cycle for ADD and SUB
+instructions. 3 clock cycles for MUL instruction, and 6 clock eycles for DIV instruction
+respectively. Operand forwarding is used in the pipeline. What is the number of clock cycles
+needed to execute the following sequence of instructions?
+
+Instruction Meaning of instruction
+fy. MUL R3, Ro. Ry Ri Ro™Ry
+4: DIV: Rs, Rs. Ry Rs RYRa
+i; ADD R:. Rs. Re R; ~~ Rs+R;
+i; SUB Ry, Ra Ry Rs —R,-R,
+{A) 13 (B) 15 (C) 17 (D) 19
+The weight of a sequence @,,4,.....@,., of real numbers is defined as a, +@,/2+...+@,_,/2°'.
+
+A subsequence of a sequence is obtained by deleting some elements from the sequence. keeping the
+order of the remaining clements the same. Let X denote the maximum possible weight of a
+
+subsequence af dy.d,....4,, and Y the maximum possible weight of a subsequence of
+),8y,-..4,.,. Then X is equal to
+
+(A) max(¥.a, + 1) (B) max(¥, a, + ¥/2} {C) max( Yo, +27) (D) a, + ¥/2
+What is the value printed by the following © program?
+#include <stdio.h>
+
+int {int *a, int n)}
+
+{
+if (n <= 0} return 0;
+else if (*a % 2 == 0) return ta + f(a+1,n-1);
+else return ta - f{a+l,n-1);
+}
+int main( }
+{
+ante af) = (12, 7. 13. 4, 11, 6);
+printfi"sd", fla,6));
+return 0;
+}
+(A) -9 (B)5 (C) 15 (LD) 19
+
+cs
+
+wh
+
+
+zu10
+
+Cs
+
+Q.30
+
+Q37
+
+Q.38
+
+Q.39
+
+The following C function takes a singly-linked list as input argument. It modifies the list by moving
+the last clement to the front of the list and returns the modified fist. Some part of the code is lett
+blank.
+
+typedef struct node {
+int value;
+struct node *next;
+} Node;
+
+Node *move_to_front(Node *head) {
+Node *p, *q;
+if (thead = = NULL) || (head->next = = NULL}) return head;
+q = NULL; p = head;
+while (p->next != NULL} {
+Qsp:
+P = p->next;
+
+return head;
+}
+
+Choose the correct alternative to replace the blank line.
+
+(A)q = NULL; p->next = head; head = p;
+(B)q->next = NULL; head = p; p->next = head;
+(C)head = p; p->next = q: q->next = NULL;
+(D}qg->next = NULL; p->next = head; head = p;
+
+The program below uses six temporary variables a, b, c, d, @, £.
+
+aez=il
+b= 10
+c = 20
+dsa+hb
+ezrcrd
+f=cre
+bect+e
+e=brtef
+d=5 +e
+
+return d + £
+
+Assuming that all operations take their operands from registers, what is the minimum number of
+registers needed lo execute this program without spilling?
+
+(A)2 (3B) 3 (C) 4 (D) 6
+
+The grammar S -+ aSa | bs Jc is
+
+(A) LL(1) but not LR(1) (B) LR(1) but not LL(1)
+(C} Both LL(1) and LRG} (D} Neither L141) nor ERI)
+
+Let L= {w € (@ + 7)*{w bas even number of [5], ic. fis the set of all bit strings with even
+number of 1s. Which one of the regular expressions below represents £7
+
+CA) (O* 1041) (8) o* ClO" 1a*)* (> O* CLO" 140" (D) 0* tC10" 1410"
+
+cS
+
+piney
+
+MMHG
+
+Ch
+
+Q.40
+
+Qal
+
+Q.42
+
+Q.43
+
+Consider the languages £) = {O'1) | f# 7}, £2= 401 | i= jf}, £7 ={0) | #=27 41}.
+
+14 = (O'V | §#2/ }. Which one of the following statements is true?
+
+(A) Only £2 is context free.
+
+(B} Only £2 and £3 are context free.
+(C) Only Lf and £2 are conteat free.
+(D) All are context free.
+
+Let w be any string of length n in (0,(}". Let £ be the set of all substrings of w. What is the
+minimum number of states in a non-deterministic finite automaton that accepts £7
+
+(A} nel {B)n {C) n+] {D) pel
+
+Consider the following schedule for transactions Tl, T2 and T3:
+
+Tl T2 Tm
+Read ( X )
+Read ( ¥}
+Read ( ¥)
+Write ( ¥)
+Write (X}
+Write (X)
+Read ( X )
+Wrile { X)
+
+Which ane of the schedules below is the correct serialization of the above?
+
+(A) TL T3 > T2 {B)T2 + Tl + T3
+
+(C)T2 ~T3~-T1 (D)T3 > Tl + T2
+
+The following functional dependencies hold for relations R(A, 8, C) and S(B, D, E)-
+BoA,
+
+AoC
+
+The relation R contains 200 tuples and the relation $ contains 100 tuples. What is the maximum
+number of tuples possible in the natural join Rt S$?
+
+(A) 100 (B) 200 (C) 300 (D) 2000
+
+Ch
+
+HW24
+
+2010 cs
+Q.44 The following program is to be tested for statement coverage:
+begin
+if {a == b) {S1; exit;}
+else if {¢ == da) {52;}
+else {S3; exit; }
+54;
+end
+The test cases T1. T2. 13 and T4 given below are expressed in terms of the properties satisfied by
+the values of variables a, b, c and d. The exact values are nol given.
+Tl: a, b, c and d are all equal
+T2: a, b, ¢ and d are all distinct
+T3: a = bande !=d
+T+ a != bandc=d
+Which of the test suites given below ensures coverage of statements $1, $2, $3 and $4?
+(A) TL. 72, T3 (B) T2, T4 (C) T3, T4 (D) Tl, T2, T4
+Q.45 The following program consists of 3 concurrent processes and 3 binary semaphores. The
+semaphores are initialized as SO=i, Sl={), $2=0.
+Process PO Process P] Process P2
+while (true) { wait {Sl}; wait (S2)
+wait (SO); reiease ($0); release (S50);
+print ‘0’;
+release ($1);
+release (S2);
+}
+How many times will process PO print ‘0°?
+(A) At ieast twice (B} Exactly twice (C) Exactly thrice (D) Exactly once
+Q.46 A system has 7 resources Ro.&,.;. and & processes Py,..?,... The implementation of the resource
+request logic of each process P;, is as follows:
+if (it2==0; {
+if ¢i<xn) request Rj ;
+LE (i+2 < n) request Bj.z:
+}
+else [
+i£ (isn) request Ri:
+if (i+2<n} request k,.. 3:
+}
+In which one of the following situations is a deadlock possible?
+(A)n = 40, = 26 (B)n=2).k= 12 {C) a= 20,4 = 10 (D)n=41,k=19
+Q.47 Suppose computers A and B have IP addresses L0U,105.1.113 and 10,105.19] respectively and they
+
+both use the same netmask N. Which of the values of N given below should not be used if A and B
+should belong to the same network?
+
+(A) 255.255.255.0 (B) 255.255.255.128 —(C) 289.255.255.192 (D) 255.255.255.224
+
+C$
+
+14424
+
+201g
+
+CS
+
+Common Data Questions
+
+Common Data for Questions 48 and 49:
+
+A computer system has an L1 cache, an L2 cache. and a main memory unit connected as shown below,
+The block size in L) cache is 4 words. The block size in L2 cache is 16 words. The memory access times
+are 2 nanoseconds. 20 nanoseconds and 200 nanoseconds for LI] cache..L2 cache and main memory unit
+
+tespectively.
+Data Bus Data Bus
+Lt ‘ oy 12 Main
+Cache Cache -— . Memory
+4 wards 4 words
+Q48 When there is a miss in L] cache and a hit in L2 cache, a block is transferred from L2 cache to
+
+Q.49
+
+LI cache. What is the time taken for this transfer?
+(A) 2 nanoseconds -(B) 20 nanoseconds = (C) 22 nanoseconds (D) 88 nanoseconds
+
+When there is a miss in both LI cache and L2 cache, first a block is transferred from main memory
+ta L2 cache, and then a block is transferred from L2 cache to L] cache. What is the total time taken
+for these transfers?
+
+(A) 222 nanoseconds (B) 888 nanoseconds
+(C) 902 nanoseconds (19) 968 nanoseconds
+
+Common Data for Questions 50 and 51:
+
+Consider a complete undirected graph with vertex set (0.1.2.3,4]. Entry Wj in the matrix W below is the
+weight of the edge {i,j}.
+
+Q.50
+
+O51
+
+4)
+
+a 4
+
+0
+
+l
+We=|8 12
+
+1
+
+4
+
+mw a S
+ny ony ff
+on ws
+
+Whal is (he minimum possible weight of a spanning tree 7 in this graph such that vertex 0 is a leaf
+node in the tree 7?
+
+(A)7 (B)8 (KI (D) 10
+
+What is the minimum possible weight of a path ? from vertex | to vertex 2 in this graph such that P
+contains al most 3 edges?
+
+{A)7 (B)8 (C) 9 {D) 10
+
+C8
+
+12/34
+
+Quit
+
+cs
+
+Linked Answer Questions
+
+Statement for Linked Answer Questions 52 and 53:
+
+A hash table of length 10 uses open addressing with hash function A(k) = & mod /0, and tinear
+probing. After inserting 6 values into an empty hash table, the table is as shown below.
+
+Q
+
+Ll
+
+2 42
+3 23
+4 Ra
+3 $2
+6 46
+7 33
+8
+9
+
+Q.52 Which one of the following choices gives a possible order in which the key values could have been
+
+Q.53
+
+inserted in the table?
+
+(A) 46, 42, 34, 52.
+
+52, 23, 33
+(B) 34, 42, 23, 52,
+
+23,
+
+23.
+
+4,52, 23,3
+3, 52, 33. 46
+(C) 46, 34, 42, 23. 52, 3.
+(D) 42, 46, 33, 23. 34.5
+
+tw
+
+How many different insertion sequences of the key values using the same hash function and linear
+prabing will result in the hash table shown above?
+
+(A} 10 : (B) 20 (C) 30 (D) 40
+
+Cs
+
+1 ¥24
+
+2010 cs
+Statement for Linked Answer Questions 54 and 55:
+
+Consider a network with 6 routers RL to R6 connected with links having weights as shown in the
+
+Sasa gee gr a a
+<P
+
+Q.54 All the routers use the distance vector based routing algorithm to update their routing tables. Each
+router starts with ils rouling table initialized to contain an entry for each neighbour with the weight
+of the respective connecting link. After all the rouling tables stabilize, how many links in the
+network wil} never be used for carrying any data?
+
+{A} 4 (B) 3 (C)2 (D) 1
+
+Q.55 Suppose the weights of all unused links in the previous question are changed (o 2 and the distance
+vector algonthm is used again until all routing tables stabilize. How many links will now remain
+unnsed?
+
+{A)O {B) 1 {C)2 {D) 3
+
+CS 14/24
+
+210
+
+General Aptitude (GA) Questions
+
+Q.56 -
+
+Q.56
+
+Q57
+
+Q.58
+
+Q.59
+
+Q.60
+
+Q.61 -
+
+Q.61
+
+Q.60 carry one mark each.
+
+Choose the most appropriate word from the aptions given below to complete the following
+sentence:
+His rather casual remarks on politics _ his lack of seriousness about the subject.
+
+(A) masked
+(B) belied
+
+(C)} betrayed
+{D) suppressed
+
+Which of the following options is the closest in meaning to the word below:
+Circuitous
+
+(A) cyclic
+(B) indirect
+(C) confusing
+{D) crooked
+
+Choose the most appropriate word from the options given below to complete the following
+sentence:
+
+If we manage to our natural resources, we would leave a better planet for
+our children.
+
+(A) uphold
+{B) restrain
+{C) cherish
+(D) conserve
+
+25 persons are in a room. 15 af them play hockey, 17 of them play football and 10 of them play
+both hockey and football. Then the number of persons playing neither hockey nor football is:
+
+(A)2 (B) 17 () 13 (D) 3
+
+The question below consists of a pair af related words followed by four pairs of words. Select the
+
+pair that best expresses the relation in the original pair.
+Unemployed : Worker
+
+(A) fallow : land
+
+(B) unaware ;: sleeper
+(C) wit : jester
+
+{D) renovated : house
+
+Q.65 carry two marks each.
+
+If 137 + 276 = 435 how much is 731 + 672?
+{A) 534 {B) 1403 (C) 1623 {D) 1513
+
+cs
+
+Weld
+
+201
+
+Cs
+
+Q.62
+
+0.63
+
+Q.04
+
+0.65
+
+Hari (F1), Gita (G). Irfan (1) and Saira (S} are siblings (i.e. brothers and sisters). AH were born on
+1" January, The age difference between any two successive siblings (that is born one after unother)
+is less than 3 years, Given the following facts:
+i. Hari's age + Gita's age > Irfan's age + Saira’s age.
+ii. The age difference between Gita and Saira is | year. However, Gita is not the
+oldest and Saira is not the youngest.
+
+iii. There are no twins.
+
+In what order were they born (oldest first)?
+
+(A) HSIG (B) SGHI (C) IGSH (D) IHSG
+
+Modern warfare has changed from large scale clashes of armies to suppression of civilian
+populations. Chemical agents that do their work silently appear to be suited to such warfare;
+and regretfully, there exist people in military establishments who think that chemical agents
+are useful tools for their cause,
+
+Which of the following statements best sums up the meaning of the above passage:
+
+(A} Modern warfare has resulted in civil strife.
+
+{B) Chemical agents are useful in modern warfare.
+
+(€) Use of chemical agents in warfare would be undesirable.
+
+(D) People in military establishments like to use chemical agents in war.
+
+5 skilled workers can build a wall in 20 days; 8 semi-skilled workers can build a wall in 25 days:
+10 unskilled workers can build a wall in 30 days. If a team has 2 skilled, 6 semi-skilled and
+5 unskilled workers, how long will it take to build the wail?
+
+{A) 20 days {B) 18 days (C} 16 days (D) 15 days
+
+Given digits 2. 2, 3, 3, 3. 4, 4, 4, 4 how many distinct 4 digit numbers greater than 3000 can be
+formed?
+
+(A) 50 (B} SL {C) $2 (D) 34
+
+END OF THE QUESTION PAPER
+
+Cs
+
+Le]
+
+2010 cs
+
+Space for Rough Work
+
+cs ° , 17724
+
+2010
+
+CS
+
+Space for Rough Work
+
+co
+
+C8
+
+oe os
+
+Space for Rough Work
+
+sare
+
+PRG
+
+Cs
+
+Space for Rough Work
+
+cs
+
+224
+
+2010 cs
+
+Space for Rough Work
+
+cs 2124
+
+2010
+
+cs
+
+Space for Rough Work
+
+2224
+
+2010
+
+cs
+
+Space for Rough Work
+
+cS
+
+ES
+
+2010
+
+cs
+
+Space for Rough Work
+
+cs
+
+Mot
+

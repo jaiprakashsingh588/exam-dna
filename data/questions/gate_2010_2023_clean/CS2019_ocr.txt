@@ -1,0 +1,995 @@
+GATE 2019 General Aptitude (GA) Set-6
+
+Q. 1-Q.5 carry one mark each.
+
+Ql
+
+Q2
+
+Q3
+
+Q4
+
+Qs
+
+The expenditure on the project ___as_ follows: equipment Rs.20 lakhs, salaries Rs.12
+lakhs, and contingency Rs.3 lakhs.
+
+(A) break down (B) break (C) breaks down (D) breaks
+
+The search engine’s business model around the fulcrum of trust.
+
+(A) revolves (B) plays (C) sinks (D) bursts
+
+Two cars start at the same time from the same location and go in the same direction. The
+speed of the first car is 50 km/h and the speed of the second car is 60 km/h. The number of
+hours it takes for the distance between the two cars tobe 20kmis__.
+
+(A)1 (B)2 (©) 3 (D) 6
+
+Ten friends planned to share equally the cost of buying a gift for their teacher. When two of
+them decided not to contribute, each of the other friends had to pay Rs 150 more. The cost
+of the gift was Rs. .
+
+(A) 666 (B) 3000 (C) 6000 (D) 12000
+A court is to a judge as is to a teacher.
+(A) a student (B)apunishment (C) asyllabus (D) aschool
+
+Q. 6-Q. 10 carry two marks each.
+
+Q6
+
+The police arrested four criminals — P, Q, R and S. The criminals knew each other. They
+made the following statements:
+
+P says “Q committed the crime.”
+
+Q says “S committed the crime.”
+
+R says “I did not do it.”
+
+S says “What Q said about me is false.”
+
+Assume only one of the arrested four committed the crime and only one of the statements
+made above is true. Who committed the crime?
+
+(A)P (B)R (© s (D) Q
+
+GA
+
+13
+
+GATE 2019 General Aptitude (GA) Set-6
+
+Q.7 In the given diagram, teachers are represented in the triangle, researchers in the circle and
+administrators in the rectangle. Out of the total number of the people, the percentage of
+administrators shall be in the range of
+
+Teachers
+10
+70
+
+20 Administrators
+
+20
+Researchers |
+40
+(A) 0 to 15 (B) 16 to 30 (C) 31 to 45 (D) 46 to 60
+
+Q8 “A recent High Court judgement has sought to dispel the idea of begging as a disease —
+which leads to its stigmatization and criminalization — and to regard it as a symptom. The
+underlying disease is the failure of the state to protect citizens who fall through the social
+security net.”
+
+Which one of the following statements can be inferred from the given passage?
+
+(A) Beggars are lazy people who beg because they are unwilling to work
+
+(B) Beggars are created because of the lack of social welfare schemes
+
+(C) Begging is an offence that has to be dealt with fimmly
+
+(D) Begging has to be banned because it adversely affects the welfare of the state
+
+Q9 Ina college, there are three student clubs. Sixty students are only in the Drama club, 80
+students are only in the Dance club, 30 students are only in the Maths club, 40 students
+are in both Drama and Dance clubs, 12 students are in both Dance and Maths clubs, 7
+students are in both Drama and Maths clubs, and 2 students are in all the clubs. If 75%
+of the students in the college are not in any of these clubs, then the total number of
+students in the college is
+
+(A) 1000 (B) 975 (C) 900 (D) 225
+
+GA 2B
+
+GATE 2019 General Aptitude (GA) Set-6
+
+Q.10 Three of the five students allocated to a hostel put in special requests to the warden. Given the floor
+plan of the vacant rooms, select the allocation plan that will accommodate all their requests.
+
+Request by X: Due to pollen allergy, I want to avoid a wing next to the garden.
+
+Request by Y: I want to live as far from the washrooms as possible, since I am very sensitive to smell.
+
+Request by Z: I believe in Vaastu and so want to stay in the South-west wing.
+The shaded rooms are already occupied. WR is washroom.
+
+(A)
+WR
+5
+E 3
+oO
+Z Entrance
+S
+§
+WR 3
+= ie)
+©
+WR Zz
+|
+3
+E 8
+eo)
+Entrance
+Ss |Y
+Ss
+3
+WE eo)
+
+END OF THE QUESTION PAPER
+
+@®)
+
+(D)
+
+x
+
+5
+
+a)
+
+8
+
+io)
+
+Entrance
+¥
+
+§
+
+7
+
+8
+
+ie)
+
+§
+
+7
+
+S
+
+io)
+
+Entrance
+Y
+
+bj
+
+7
+
+8
+
+io)
+
+GA
+
+3/3
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Ql
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+A certain processor uses a fully associative cache of size 16 kB. The cache block size is 16
+bytes. Assume that the main memory is byte addressable and uses a 32-bit address. How
+many bits are required for the Tag and the /ndex fields respectively in the addresses generated
+by the processor?
+
+(A) 24 bits and 0 bits (B) 28 bits and 4 bits
+(C) 24 bits and 4 bits (D) 28 bits and 0 bits
+
+The chip select logic for a certain DRAM chip in a memory system design is shown below.
+Assume that the memory system has 16 address lines denoted by A1s to Ao. What is the range
+of addresses (in hexadecimal) of the memory system that can get enabled by the chip select
+
+(CS) signal?
+
+Ass
+Ay rs
+Ay ———( cs
+A.—————_()
+Ay eS
+(A) C800 to CFFF (B) CA00 to CAFF
+(C) C800 to C8FF (D) DA00 to DFFF
+
+Which one of the following kinds of derivation is used by LR parsers?
+
+(A) Leftmost (B) Leftmost in reverse
+(C) Rightmost (D) Rightmost in reverse
+
+In 16-bit 2’s complement representation, the decimal number —28 is:
+
+(A) 1111 11110001 1100 (B) 0000 0000 1110 0100
+(C) 1111 1111 1110 0100 (D) 1000 0000 1110 0100
+
+Let U = {1,2,...,n}. Let A = {(x,X)|x € X,X © U}. Consider the following two statements
+on |A|.
+
+1 |A| = n2"-4
+
+I. |A| = Yke1 k(”)
+Which of the above statements is/are TRUE?
+
+(A) Only I (B) Only II
+(C) Both I and I (D) Neither I nor II
+
+cs
+
+is
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Q6
+
+Q7
+
+Q8
+
+Q9
+
+Q.10
+
+Which one of the following is NOT a valid identity?
+
+(A) (x ® y) ®z = x ®(y ®z) (B) (x+y) ®z = x ®(y+z)
+(Cx @y =xty, ifxy=0 (D)x ®y = (xy+x’y’)’
+
+If L is a regular language over 2 = {a,b}, which one of the following languages is NOT
+regular ?
+
+(A) L «LF = {xy |x € L,y® € L}
+
+(B) {ww | w € L}
+
+(C) Prefix (L) = {x € Z*|Ay € X* such that xy C L}
+(D) Suffix (L) = {y € X*|Ax € &* such that xy € L}
+
+Consider Z = X — Y, where X, Y and Z are all in sign-magnitude form. X and Y are each
+represented in n bits. To avoid overflow, the representation of Z would require a minimum
+of:
+
+(A) nbits (B) n— 1 bits
+(C) n+ 1 bits (D) n+ 2 bits
+
+Let X be a square matrix. Consider the following two statements on X.
+I. X is invertible.
+I. Determinant of X is non-zero.
+
+Which one of the following is TRUE?
+
+(A) Limplies II; II does not imply I.
+
+(B) I implies [; I does not imply IL.
+
+(C) I does not imply I; II does not imply I.
+(D) Land II are equivalent statements.
+
+Let G be an arbitrary group. Consider the following relations on G:
+
+R,: Va,b € G, a Ryb ifand only if dg € G such that a = g 4bg
+R2:Va,b € G, a Rob if and only ifa = b+
+
+Which of the above is/are equivalence relation/relations?
+
+(A) R; and R2 (B) R, only (C) R2 only (D) Neither R,; nor Rz
+
+cs
+
+2/5
+
+GATE 2019 Computer Science and Information Technology Set-2
+
+Q.11 Consider the following two statements about database transaction schedules:
+
+E Strict two-phase locking protocol generates conflict serializable schedules that
+are also recoverable.
+IL. Timestamp-ordering concurrency control protocol with Thomas’ Write Rule can
+
+generate view serializable schedules that are not conflict serializable.
+
+Which of the above statements is/are TRUE?
+(A) I only (B) I only (C) Both I and I (D) Neither I nor II
+
+Q.12 Let G be an undirected complete graph on n vertices, where n > 2. Then, the number of
+different Hamiltonian cycles in G is equal to
+
+(A) n! (B) (n— 1)! (Cd (D) 1)!
+Zz
+Q.13 . x4-81
+Compute lim ee
+(A)1 (B) 53/12
+(C) 108/7 (D) Limit does not exist
+
+Q.14 Which one of the following statements is NOT correct about the B+ tree data structure used
+for creating an index of a relational database table?
+
+(A) B+ Tree is a height-balanced tree
+
+(B) Non-leaf nodes have pointers to data records
+
+(C) Key values in each node are kept in sorted order
+(D) Each leaf node has a pointer to the next leaf node
+
+24+3k p10 12k
+,
+
+Q.15 For 2 = {a,b}, let us consider the regular language L = {x |x =a orx =
+k => 0}. Which one of the following can be a pumping length (the constant guaranteed by
+the pumping lemma) for L ?
+
+(A) 3 (B) 5 (C9 (D) 24
+
+Q.16 Which of the following protocol pairs can be used to send and retrieve e-mails (in that order)?
+
+(A) IMAP, POP3 (B) SMTP, POP3
+(C) SMTP, MIME (D) IMAP, SMTP
+
+cs 3/15
+
+GATE 2019 Computer Science and Information Technology Set-2
+
+Q.17 The following C program is executed on a Unix/Linux system:
+
+#include <unistd.h>
+int main()
+{
+int i;
+for (i=0; i<10; i++)
+if (i%2 == 0) fork();
+return 0;
+
+}
+
+The total number of child processes created is
+
+Q.18 Consider the following C program:
+
+#include <stdio.h>
+
+int jumble(int x, int y){
+x=2*xty;
+return x;
+
+int main(){
+int x=2, y=5;
+y=jumble(y,x);
+x= jumble(y,x);
+print£(“td \n”, x);
+return 0;
+
+}
+
+The value printed by the program is
+
+Q.19 Consider the grammar given below:
+
+S— Aa
+A—BD
+B-ble
+D—dle
+
+Let a, b, d, and $ be indexed as follows:
+
+a |b |d |$
+Zz it
+
+Compute the FOLLOW set of the non-terminal B and write the index values for the symbols
+in the FOLLOW set in the descending order. (For example, if the FOLLOW set is {a, b, d,
+$}, then the answer should be 3210)
+
+Answer:
+
+cs 4/15
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Q.20
+
+Q21
+
+Q.22
+
+Q.23
+
+Q.24
+
+An array of 25 distinct elements is to be sorted using quicksort. Assume that the pivot
+element is chosen uniformly at random. The probability that the pivot element gets placed in
+the worst possible location in the first round of partitioning (rounded off to 2 decimal places)
+is
+
+The value of 3°! mod5 is
+
+Two numbers are chosen independently and uniformly at random from the set {1,2,..., 13}.
+The probability (rounded off to 3 decimal places) that their 4-bit (unsigned) ‘Tiinary
+representations have the same most significant bit is
+
+Consider three concurrent processes P1, P2 and P3 as shown below, which access a shared
+variable D that has been initialized to 100.
+
+Pl EZ P3
+
+D=D+20 D=D_50 D=D+10
+
+The processes are executed on a uniprocessor system running a time-shared operating
+system. If the minimum and maximum possible values of D after the three processes have
+completed execution are X and Y respectively, then the value of Y — X is
+
+Consider the following C program:
+
+#include <stdio.h>
+
+int main(){
+int arr[]={1,2,3,4,5,6,7,8,9,0,1,2,5}, *ip=arrt+4;
+print£(“%d\n”, ip[1]);
+return 0;
+
+}
+
+The number that will be displayed on execution of the program is
+
+cs
+
+S/S
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Q.25
+
+Q.26
+
+Q27
+
+Consider a sequence of 14 elements: A=[-5,-10, 6,3, —1, -2, 13, 4,—9, -1, 4, 12, -3, 0}.
+The subsequence sum S(i,j) = ek A[k] . Determine the maximum of S(i,j),
+where 0 <i <j < 14. (Divide and conquer approach may be used.)
+
+Answer:
+
+Consider the following C function.
+
+void convert(int n){
+if(n<0)
+printf(“%d”",n);
+else {
+convert (n/2);
+printf£(“%d”,n%2);
+
+}
+
+Which one of the following will happen when the function convert is called with any
+positive integer n as argument?
+
+(A) It will print the binary representation of n and terminate
+
+(B) It will print the binary representation of n in the reverse order and terminate
+(C) It will print the binary representation of n but will not terminate
+
+(D) It will not print anything and will not terminate
+
+Consider the following C program:
+
+#include <stdio.h>
+
+int r(){
+static int num=7;
+return num--;
+
+}
+
+int main() {
+for (r()sr()ir())
+print£(“%d”,r());
+return 0;
+
+}
+
+Which one of the following values will be displayed on execution of the programs?
+
+(A) 41 (B) 52 (C) 63 (D) 630
+
+cs
+
+6/15
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Q.28 Consider three machines M, N, and P with IP addresses 100.10.5.2, 100.10.5.5, and
+
+Q29
+
+Q.30
+
+Q31
+
+100.10.5.6 respectively. The subnet mask is set to 255.255.255.252 for all the three
+machines. Which one of the following is true?
+
+(A) M,N, and P all belong to the same subnet
+(B) Only M and N belong to the same subnet
+
+(C) Only N and P belong to the same subnet
+
+(D) M,N, and P belong to three different subnets
+
+Suppose that in an IP-over-Ethernet network, a machine X wishes to find the MAC address
+of another machine Y in its subnet. Which one of the following techniques can be used for
+this?
+
+(A) X sends an ARP request packet to the local gateway’s IP address which then finds the
+MAC address of Y and sends to X
+
+(B) X sends an ARP request packet to the local gateway’s MAC address which then finds
+the MAC address of Y and sends to X
+
+(C) X sends an ARP request packet with broadcast MAC address in its local subnet
+
+(D) X sends an ARP request packet with broadcast IP address in its local subnet
+
+Consider three 4-variable functions fi, f, and £3, which are expressed in sum-of-minterms as
+fi =X (0, 2, 5, 8, 14), h= 22, 3, 6,8,14,15, £=2@,7, 11,14
+
+For the following circuit with one AND gate and one XOR gate, the output function f can be
+
+expressed as:
+
+f, —
+
+& AND =) :
+(A) 2(7, 8, 11)
+
+(B) £2, 7,8, 11, 14)
+(C) Z@, 14)
+) XO, 2, 3, 5, 6, 7, 8, 11, 14, 15)
+
+Which one of the following languages over » = {a, b} is NOT context-free’?
+
+(A) {ww® |w € {a, b}}
+
+(B) {wa"b"wF |w € {a, b}*,n = 0}
+(C) {wa"w* b” |w € {a, b}’,n = 0}
+(D) {a"b' | i € {n, 3n, 5n},n = 0}
+
+cs
+
+TAS
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Q.32
+
+Q.33
+
+Q.34
+
+Q.35
+
+Let the set of functional dependencies F = {QR > S, R > P, S > Q} hold on a relation
+schema X = (PQRS). X is not in BCNF. Suppose X is decomposed into two schemas Y and
+Z, where Y = (PR) and Z = (QRS).
+
+Consider the two statements given below.
+
+i Both Y and Z are n BCNF
+IL Decomposition of X into Y and Z is dependency preserving and lossless
+
+Which of the above statements is/are correct?
+
+(A) Both I and II (B) I only (C) ILonly (D) Neither I nor II
+
+Assume that in a certain computer, the virtual addresses are 64 bits long and the physical
+addresses are 48 bits long. The memory is word addressible. The page size is 8 kB and the
+word size is 4 bytes. The Translation Look-aside Buffer (TLB) in the address translation path
+has 128 valid entries. At most how many distinct virtual addresses can be translated without
+any TLB miss?
+
+(A) 16x22 (B) 256x2!° (C) 4x22 (D) 8x2”
+
+Consider the following sets:
+Sl. Sct of all recursively cnumerable languages over the alphabet {0,1}
+S2. Set of all syntactically valid C programs
+S3. Set of all languages over the alphabet {0,1}
+S4. Set of all non-regular languages over the alphabet {0,1}
+
+Which of the above sets are uncountable?
+
+(A) SI and $2 (B) $3 and $4 (C) S2and $3 (D) SI and S4
+
+Consider the first order predicate formula g:
+Vx [(Vz z|x > ((z =x) V(z = 1))) > AW (W> Xx) A(Vz z|wW > ((W =z) V(z = 1)))]
+Here ‘a|b’ denotes that ‘a divides b’, where a and b are integers. Consider the following
+sets:
+
+Sl. {1,2,3, ..., 100}
+
+S2. Set of all positive integers
+
+S3. Set of all mtegers
+
+Which of the above sets satisfy @?
+(A) S1 and S2 (B) S1 and S3 (C) S2 and $3 (D) S1, S2 and $3
+
+cs
+
+8/15
+
+GATE 2019 Computer Science and Information Technology Set-2
+
+Q.36 Consider the following grammar and the semantic actions to support the inherited type
+declaration attributes. Let X;,X2, X3, X4, X5, and Xg be the placeholders for the non-
+terminals D, T, L or Li in the following table:
+
+Production rule Semantic action
+
+D-TL X1.type = X2.type
+
+T- int T.type = int
+
+T = float T.type = float
+
+L= Ii, 1d X3.type = X4.type
+addType(id.entry, Xs5.type)
+
+Lid addType(id.entry, X¢.type)
+
+Which one of the following are the appropriate choices for X;, X, X3 and X4?
+
+(A) Xy =L,X =T,X3 =1,,X,=L (B) X, =7,X_ =L,X3 =1,,X,=T
+(C) X, =L,X> =L, X3 =14,X,=T (D) X, =T ,X_ =L, X3 =T, X= Ly
+
+Q.37 There are n unsorted arrays: 41, 42, ..., An. Assume that n is odd. Each of Ai, A2, ..., An
+contains 7 distinct elements. There are no common elements between any two arrays. The
+worst-case time complexity of computing the median of the medians of A1, 42, ..., An is
+
+(A) O(n) (B) O(7 log 7) (C) O00) (D) 20? log n)
+
+Q.38 Let G be any connected, weighted, undirected graph.
+
+I. G has a unique minimum spanning tree, if no two edges of G have the same weight.
+Il. G has a unique minimum spanning tree, if, for every cut of G, there is a unique
+minimum-weight edge crossing the cut.
+
+Which of the above two statements is/are TRUE?
+(A) Ionly (B) Il only (C) Both I and I (D) Neither I nor II
+
+cs 9/15
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Q.39
+
+Q.40
+
+Q41
+
+Q42
+
+Consider the following snapshot of a system running n concurrent processes. Process i is
+holding X; mstances of a resource R, 1 < i < n. Assume that all instances of R are
+currently in use. Further, for all i, process i can place a request for at most Y; additional
+instances of R while holding the X; instances it already has. Of the n processes, there are
+exactly two processes p and q such that Y, = Y, = 0. Which one of the following
+
+conditions guarantees that no other process apart from p and q can complete execution?
+
+(A) Xp + Xq <M {(¥, |1<k <n,k¥p,k4#q}
+(B) X, + X,< Max {¥, |1<k<n,k#p,k#q}
+(C) Min (X, ,Xq) => Min {% | 1 <k <n,k¥p,k¥q}
+(D) Min (X,,Xq) < Max {¥, |1<k <n, k+p,k+q}
+
+Consider the following statements:
+
+I. The smallest element in a max-heap is always at a leaf node
+
+Il. The second largest element in a max-heap is always a child of the root node
+I. A max-heap can be constructed from a binary search tree in ©(n) time
+IV. A binary search tree can be constructed from a max-heap in O(n) time
+Which of the above statements are TRUE?
+
+(B) L, I and IV
+
+(A) L, land I
+
+(C)L, Mand IV
+
+(D) I, Wand IV
+
+Consider the following four processes with arrival times (in milliseconds) and their length
+
+of CPU bursts (in milliseconds) as shown below:
+
+Process Pl P2 Le) P4
+Arrival time 0 1 3 4
+CPU burst time 3 1 3 Z
+
+These processes are run on a single processor using preemptive Shortest Remaining Time
+
+First scheduling algorithm. If the average waiting time of the processes is 1 millisecond,
+
+then the value of Z is
+
+The index node (inode) of a Unix-like file system has 12 direct, one single-indirect and one
+double-indirect pointers. The disk block size is 4 kB, and the disk block address is 32-bits
+long. The maximum possible file size is (rounded off to 1 decimal place)
+
+cs
+
+GB.
+
+10/15
+
+GATE 2019
+
+Computer Science and Information Technology Set-2
+
+Q.43
+
+Q44
+
+Q.45
+
+Q.46
+
+Q47
+
+Q.48
+
+Consider the augmented grammar given below:
+
+sios
+S— (L) | id
+L->LS|S
+
+Let Ip = CLOSURE ({[S' — *S]}). The number of items in the set GOTO (Ib , ( ) is:
+
+Consider the following matrix:
+12 4 8
+R= 13 9 2
+1 4 16 64
+1. & 25 125
+
+The absolute value of the product of Eigen values of R is
+
+A certain processor deploys a single-level cache. The cache block size is 8 words and the
+
+word size is 4 bytes. The memory system uses a 60-MHz clock. To service a cache miss, the
+
+memory controller first takes 1 cycle to accept the starting address of the block, it then takes
+
+3 cycles to fetch all the eight words of the block, and finally transmits the words of the
+
+requested block at the rate of 1 word per cycle. The maximum bandwidth for the memory
+
+system when the program running on the processor issues a series of read operations is
+x 10° bytes/sec.
+
+Let T be a full binary tree with 8 leaves. (A full binary tree has every level full.) Suppose
+two leaves a and b of T are chosen uniformly and independently at random. The expected
+value of the distance between a and b in T (i.e., the number of edges in the unique path
+between a and b) is (rounded off to 2 decimal places)
+
+Suppose Y is distributed uniformly in the open interval (1,6). The probability that the
+polynomial 3x? + 6xY + 3Y + 6 has only real roots is (rounded off to 1 decimal place)
+
+Let = be the set of all bijections from {1,...,5} to {1,...,5}, where id denotes the identity
+function, i.e. id(j) =j,Vj. Let ° denote composition on functions. For a string x =
+X4XQe Xm EX", n=O, let w(x) = xX 0X2 O+ OX.
+
+Consider the language L = {x € E*| 2(x) = id}. The minimum number of states in any
+DFA accepting L is
+
+cs
+
+11/15
+
+GATE 2019 Computer Science and Information Technology Set-2
+
+Q.49 Consider that 15 machines need to be connected in a LAN using 8-port Ethernet switches.
+Assume that these switches do not have any separate uplink ports. The minimum number of
+switches needed is
+
+Q.50 What is the minimum number of 2-input NOR gates required to implement a 4-variable
+function expressed in sum-of-minterms form as f= > (0, 2, 5, 7, 8, 10, 13, 15)? Assume that
+all the inputs and their complements are available. Answer: ‘
+
+Q.51 A relational database contains two tables Student and Performance as shown below:
+
+Student Performance
+Roll_no. | Student_name Roll_no. | Subject_code | Marks
+
+1 Amit 1 A 86
+2 Priya 1 B 95
+3 Vinit 1 a 90
+4 Rohan 2 A 89
+5 Smita 2 Cc 92
+
+3 c 80
+
+The primary key of the Student table is Roll_no. For the Performance table, the columns
+Roll _no. and Subject_code together form the primary key. Consider the SQL query given
+below:
+
+SELECT S.Student_name, sum(P.Marks)
+FROM Student S, Performance P
+WHERE P.Marks > 84
+
+GROUP BY S.Student_name;
+
+The number of rows retumed by the above SQL query is
+
+Q.52 Consider the following C program:
+
+#include <stdio.h>
+int main(){
+float sum = 0.0, j = 1.0, i = 2.0;
+while (i/j > 0.0625) {
+a= J + iP
+sum = sum + i/j;
+printf£("%f\n", sum);
+}
+
+return 0;
+
+}
+
+The number of times the variable sum will be printed, when the above program is executed,
+is
+
+cs 12/15
+
+GATE 2019 Computer Science and Information Technology Set-2
+
+Q.53 Consider the following C program:
+
+#include <stdio.h>
+int main()
+{
+int a[] = {2, 4, 6, 8, 10};
+int i, sum = 0, *b =a + 4;
+for (i = 0; i < 5; it+)
+sum = sum + (*b — i) — *(b— i);
+printf (“%d\n”, sum);
+return 0;
+
+}
+
+The output of the above C program is
+
+Q.54 In an RSA cryptosystem, the value of the public modulus parameter n is 3007. If it is also
+
+known that @(n) = 2880, where ¢() denotes Euler’s Totient Function, then the prime factor
+of n which is greater than 50 is
+
+Q.55 Consider the following relations P(X,Y,Z), Q(X, Y,T) and R(Y,V).
+
+P Q R
+x Y Z x ¥ = y Vv
+x1 | YI | Zl X2 | Yl | 2 Yl {| Vi
+x1 | v1 | Z2 Xl | Y2 | 5 Y3 | V2
+x2 | y2 | Z2 X1 | Yl | 6 Y2 | V3
+x2 | v4 /z4 X3 | Y3 | 1 Y2 | V2
+
+How many tuples will be returned by the following relational algebra query?
+
+| |, @er-nv nnvavay (P x R)) = [ |, cer=nv narsay (Qx R))
+
+Answer: ‘
+
+cs 13/15
+
+Q.No. Type Section Key Marks
+1 McQ GA Cc 1
+2 MCQ GA A 1
+3 McQ GA B 1
+4 McQ GA c 1
+5 MCQ GA D 1
+6 MCQ GA B 2
+7 MCQ GA C 2
+8 McQ GA B 2
+9 McQ GA Cc 2
+10 McQ GA D 2
+1 McQ CS D 1
+2 McQ cS A 1
+3 McQ cS D 1
+4 MCQ cs c 1
+5 MCQ cs Cc 1
+6 MCQ cs B 1
+7 MCQ cs B 1
+8 McQ cs Cc 1
+9 McQ cs D 1
+10 McQ cs B 1
+za | MCQ cs Cc 1
+12 MCQ cs CORD 1
+13 MCQ cs Cc 1
+
+
+Q.No. Type Section Key Marks
+14 McQ cs B 1
+15 MCQ cs D 1
+16 McQ cs B 1
+Ly NAT cs 31 to 31 a
+18 NAT cS 26 to 26 1
+19 NAT cs 31 fo. 31 nT
+20 NAT cs 0.08 to 0.08 1
+21 NAT cS 2to2 1
+22 NAT cS 0.502 to 0.504 1
+23 NAT cs 80 to 80 1
+24 NAT CS 6to6 1
+25 NAT cS 29 to 29 a
+26 McQ cS D 2
+27 MCQ cs B 2
+28 MCQ cs Cc Z
+29 MCQ cs c 2
+30 MCQ cs A 2
+31 McQ cs Cc 2
+32 McQ cs Cc 2
+33 McQ cs B z
+34 MCQ cs B 2
+35 MCQ cs Cc 2
+36 MCQ cs A Z
+
+
+Q.No. Type Section Key Marks
+37 McQ cs Cc 2
+38 MCQ cs C 2
+39 McQ cs A 2
+40 MCQ cs A 2
+41 NAT cS 2to2 2
+42 NAT cs 3.7 to 3.8 OR 4.0 to 4.1 2
+43 NAT cs 5fo05 2
+44 NAT cS 12 to 12 2
+45 NAT cS 160 to 160 2
+46 NAT cs 4.25 to 4.25 2
+47 NAT CS 0.8 to 0.8 2
+48 NAT cS 120 to 120 Z
+49 NAT cs 3to3 2
+50 NAT cs 3 to3 2
+51 NAT cs 5to5 2
+52 NAT cs 5to5 2
+53. NAT cs 10 to 10 2
+54 NAT cs 97 to 97 2
+55 NAT cs idiot 2
+
+

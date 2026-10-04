@@ -1,0 +1,146 @@
+[
+  {
+    "year": 2010,
+    "paper": "CS",
+    "filename": "CS2010.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2011,
+    "paper": "CS",
+    "filename": "CS2011.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2012,
+    "paper": "CS",
+    "filename": "CS2012.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2013,
+    "paper": "CS",
+    "filename": "CS2013.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2014,
+    "paper": "CS",
+    "filename": "CS2014.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2015,
+    "paper": "CS",
+    "filename": "CS2015.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2016,
+    "paper": "CS",
+    "filename": "CS2016.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2017,
+    "paper": "CS-1",
+    "filename": "CS1-2017.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2017,
+    "paper": "CS-2",
+    "filename": "CS2-2017.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2018,
+    "paper": "CS",
+    "filename": "CS2018.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2019,
+    "paper": "CS",
+    "filename": "CS2019.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2020,
+    "paper": "CS",
+    "filename": "CS2020.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2021,
+    "paper": "CS-1",
+    "filename": "CS1-2021.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2021,
+    "paper": "CS-2",
+    "filename": "CS2-2021.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2022,
+    "paper": "CS",
+    "filename": "CS2022.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  },
+  {
+    "year": 2023,
+    "paper": "CS",
+    "filename": "CS2023.pdf",
+    "pdf_exists": true,
+    "ocr_exists": true,
+    "source_status": "official_site_linked_bulk_archive",
+    "answer_key_status": "not_verified"
+  }
+]

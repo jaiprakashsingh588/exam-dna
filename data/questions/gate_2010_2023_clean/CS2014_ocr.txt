@@ -1,0 +1,3234 @@
+SESSION - 1
+
+GATE 2014: General Instructions during Examination
+
+1. Total duration of the GATE examination is 180 minutes.
+
+2. The clock will be set at the server. The countdown timer at the top right corner of
+screen will display the remaining time available for you to complete the examination.
+When the timer reaches zero, the examination will end by itself. You need not
+terminate the examination or submit your paper.
+
+3. Any useful data required for your paper can be viewed by clicking on the Useful
+Common Data button that appears on the screen.
+
+4. Use the scribble pad provided to you for any rough work. Submit the scribble pad at
+the end of the examination.
+
+5. You are allowed to use a non-programmable type calculator, however, sharing of
+calculators is not allowed.
+
+6. The Question Palette displayed on the right side of screen will show the status of
+each question using one of the following symbols:
+
+1 | You have not visited the question yet.
+You have not answered the question.
+«a You have answered the question.
+@ You have NOT answered the question, but have marked the question for review.
+
+4
+© You have answered the question, but marked it for review.
+
+The Marked for Review status for a question simply indicates that you would like to look at
+that question again. If a question is answered, but marked for review, then the answer will
+be considered for evaluation unless the status is modified by the candidate.
+
+Navigating to a Question:
+
+7. To answer a question, do the following:
+
+a. Click on the question number in the Question Palette to go to that question
+directly.
+
+b. Select an answer for a multiple choice type question by clicking on the bubble
+placed before the 4 choices, namely A, B, C and D. Use the virtual numeric
+keypad to enter a number as answer for a numerical type question.
+
+c. Click on Save & Next to save your answer for the current question and then go
+to the next question.
+
+d. Click on Mark for Review & Next to save your answer for the current question
+and also mark it for review, and then go to the next question.
+
+Caution: Note that your answer for the current question will not be saved, if you navigate
+to another question directly by clicking on a question number without saving the answer to
+the previous question.
+
+You can view all the questions by clicking on the Question Paper button. This feature is
+provided, so that if you want you can just see the entire question paper at a glance.
+
+Answering a Question :
+
+8. Procedure for answering a multiple choice (MCQ) type question:
+a. Choose one answer from the 4 options (A,B,C,D) given below the question,
+click on the bubble placed before the chosen option.
+b. To deselect your chosen answer, click on the bubble of the chosen option again
+or click on the Clear Response button.
+c. To change your chosen answer, click on the bubble of another option.
+d. To save your answer, you MUST click on the Save & Next button.
+
+9. Procedure for answering a numerical answer type question:
+a. To enter a number as your answer, use the virtual numerical keypad.
+b. A fraction (e.g. -0.3 or -.3) can be entered as an answer with or without 'O'
+before the decimal point. As many as four decimal points, e.g. 12.5435 or
+0.003 or -932.6711 or 12.82 can be entered.
+c. To clear your answer, click on the Clear Response button.
+d. To save your answer, you MUST click on the Save & Next button
+10. To mark a question for review, click on the Mark for Review & Next button. /f an
+answer is selected (for MCQ) or entered (for numerical answer type) for a question
+that is Marked for Review, that answer will be considered in the evaluation unless
+
+the status is modified by the candidate.
+
+11. To change your answer to a question that has already been answered, first select
+that question for answering and then follow the procedure for answering that type of
+question.
+
+12. Note that ONLY Questions for which answers are saved or marked for review after
+answering will be considered for evaluation.
+
+Choosing a Section :
+
+13. Sections in this question paper are displayed on the top bar of the screen. Questions
+in a Section can be viewed by clicking on the name of that Section. The Section you
+are currently viewing will be highlighted.
+
+14. A checkbox is displayed for every optional Section, if any, in the Question Paper. To
+select the optional Section for answering, click on the checkbox for that Section.
+
+15. If the checkbox for an optional Section is not selected, the Save & Next button and
+the Mark for Review & Next button will NOT be enabled for that Section. You will
+
+only be able to see questions in this Section, but you will not be able to answer
+questions in the Section.
+
+16. After clicking the Save & Next button for the last question in a Section, you will
+automatically be taken to the first question of the next Section in sequence.
+
+17. You can move the mouse cursor over the name of a Section to view the answering
+status for that Section.
+
+Changing the Optional Section :
+
+18. After answering the chosen optional Section, partially or completely, you can change
+the optional Section by selecting the checkbox for a new Section that you want to
+attempt. A warning message will appear along with a table showing the number of
+questions answered in each of the previously chosen optional Sections and a
+checkbox against each of these Sections. Click on a checkbox against a Section that
+you want to reset and then click on the RESET button. Note that RESETTING a Section
+will DELETE all the answers for questions in that Section. Hence, if you think that you
+may want to select this Section again later, you will have to note down your answers
+for questions in that Section. If you do not want to reset the Section and want to
+continue answering the previously chosen optional Section, then click on the BACK
+button.
+
+19. If you deselect the checkbox for an optional Section in the top bar, the following
+warning message will appear: "Deselecting the checkbox will DELETE all the answers
+for questions in this Section. Do you want to deselect this Section?” If you want to
+deselect, click on the RESET button. If you do not want to deselect, click on the BACK
+button.
+
+20. You can shuffle between different Sections or change the optional Sections any
+number of times.
+
+GATE 2014 Examination
+CS: Computer Science & Information Technology
+
+Duration: 180 minutes Maximum Marks: 100
+
+Read the following instructions carefully.
+
+1.
+
+2
+
+10.
+
+11.
+
+12.
+13.
+
+To login, enter your Registration Number and password provided to you. Kindly go through the various
+symbols used in the test and understand their meaning before you start the examination.
+
+Once you login and after the start of the examination, you can view all the questions in the question
+paper, by clicking on the View All Questions button in the screen.
+
+This question paper consists of 2 sections, General Aptitude (GA) for 15 marks and the subject
+specific GATE paper for 85 marks. Both these sections are compulsory.
+
+The GA section consists of 10 questions. Question numbers 1 to 5 are of 1-mark each, while question
+numbers 6 to 10 are of 2-mark each.
+
+The subject specific GATE paper section consists of 55 questions, out of which question numbers 1 to
+25 are of 1-mark each, while question numbers 26 to 55 are of 2-mark each.
+
+Depending upon the GATE paper, there may be useful common data that may be required for
+answering the questions. If the paper has such useful data, the same can be viewed by clicking on the
+Useful Common Data button that appears at the top, right hand side of the screen.
+
+The computer allotted to you at the examination center runs specialized software that pennits only one
+answer to be selected for multiple-choice questions using a mouse and to enter a suitable number for
+the numerical answer type questions using the virtual keyboard and mouse.
+
+Your answers shall be updated and saved on a server periodically and also at the end of the
+examination. The examination will stop automatically at the end of 180 minutes.
+
+In each paper a candidate can answer a total of 65 questions carrying 100 marks.
+
+The question paper may consist of questions of multiple choice type (MCQ) and numerical answer
+type.
+
+Multiple choice type questions will have four choices against A, B, C, D, out of which only ONE is the
+correct answer. The candidate has to choose the correct answer by clicking on the bubble (©) placed
+before the choice.
+
+For numerical answer type questions, each question will have a numerical answer and there will not be
+any choices. For these questions, the answer should be enteredby using the virtual keyboard that
+appears on the monitor and the mouse.
+
+All questions that are not attempted will result in zero marks. However, wrong answers for multiple
+choice type questions (MCQ) will result in NEGATIVE marks. For all MCQ questions a wrong
+answer will result in deduction of 4 marks for a 1-mark question and % marks fora 2-mark question.
+There is NO NEGATIVE MARKING for questions of NUMERICAL ANSWER TYPE.
+
+Non-programmable type Calculator is allowed. Charts, graph sheets, and mathematical tables are NOT
+allowed in the Examination Hall. You must use the Scribble pad provided to you at the examination
+centre for all your rough work. The Scribble Pad has to be retumed at the end of the examination.
+
+Declaration by the candidate:
+
+“T have read and understood all the above instructions. I have also read and understood clearly the
+instructions given on the admit card and shall follow the same. I also understand that in case I am found to
+violate any of these instructions, my candidature is liable to be cancelled. I also confirm that at the start of
+the examination all the computer hardware allotted to me are in proper working condition”.
+
+GATE 2014 SET-7 General Aptitude -GA
+
+Q.1- Q. 5 carry one mark each.
+
+Q.1
+
+Q.2
+
+Q.3
+
+Q4
+
+Q.5
+
+Which of the following options is the closest in meaning to the phrase underlined in the sentence
+below?
+
+It is fascinating to see life forms cope with varied environmental conditions.
+(A) adopt to (B) adapt to (C) adeptin (D) accept with
+
+Choose the most appropriate word from the options given below to complete the following
+sentence.
+
+He cou'd’not understand the judges awarding her the first prize, because he thought that her
+
+(A) superb (B) medium (C) mediocre (D) exhilarating
+
+Ina press meet on the recent scam, the minister said, "The buck stops here’. What did the minister
+convey by the statement?
+
+(A) He wants all the money (B) He will retum the money
+
+(C) He will assume final responsibility (D) He will resist all enquiries
+
+If (z +1/z)* = 98, compute (z? + 1/z?).
+
+The roots of ax* + bx + c = 0 arereal and positive. a, band are real. Then ax? + b|x| +c =0
+has
+
+(A) no roots (B) 2 real roots
+(C) 3 real roots (D)4 real roots
+
+Q.6- Q. 10 carry two marks each;
+
+Q.6
+
+The Palghat/Gap (or Palakkad Gap), a region about 30 km wide in the southem part of the Westem
+Ghats in India, is lower than the hilly terrain to its north and south. The exact reasons for the
+formation of this gap are not clear. It results in the neighbouring regions of Tamil Nadu getting
+more rainfallfrom the South West monsoon and the neighbouring regions of Kerala having higher
+summer temperatures.
+
+What can be inferred from this passage?
+
+(A);The Palghat gap is caused by high rainfall and high temperatures in southem Tamil Nadu and
+Kerala
+
+(B) The regions in Tamil Nadu and Kerala that are near the Palghat Gap are low-lying
+
+(C) The low terrain of the Palghat Gap has a significant impact on weather pattems in neighbouring
+parts of Tamil Nadu and Kerala
+
+(D) Higher summer temperatures result in higher rainfall near the Palghat Gap area
+
+12
+
+GATE 2014 SET- 7 General Aptitude -GA
+
+Q.7
+
+Q8
+
+Q9
+
+Q.10
+
+Geneticists say that they are very close to confirming the genetic roots of psychiatric illnesses such
+as depression and schizophrenia, and consequently, that doctors will be able to eradicate these
+diseases through early identification and gene therapy.
+
+On which of the following assumptions does the statement above rely?
+
+(A) Strategies are now available for eliminating psychiatric illnesses
+
+(B) Certain psychiatric illnesses have a genetic basis
+
+(C) All human diseases can be traced back to genes and how they are expressed
+
+(D) In the future, genetics will become the only relevant field for identifying psychiatric illnesses
+
+Rounc-trip tickets to a tourist destination are eligible for a discount of 10% on the total fare. In
+addition, groups of 4 or more get a discount of 5% on the total fare. If the one way tie, Wal
+fare is Rs 100, a group of 5 tourists purchasing round-trip tickets will be charged Rs
+
+In a survey, 300 respondents were asked whether they own a vehicle or not If yes, they were
+further asked to mention whether they own a car or scooter or both. Their responses are tabulated
+below. What percent of respondents do not own. a scooter?
+
+Men .| Women
+
+Car
+Own vehicle Scooter
+Both
+Do not own vehicle
+
+34
+20
+46
+50
+
+S/ssjs
+
+When a point inside of a tetrahedron (a solid with four triangular surfaces) is connected by straight
+lines to its comers, how many (new) intemal planes,are created with these lines?
+
+END OF THE QUESTION PAPER
+
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.1- Q. 25 carry one mark each.
+
+Ql
+
+Q2
+
+Q3
+
+Q4
+
+Qs
+
+Consider the statement
+“Not all that glitters is gold”
+
+Predicate glitters(x) is true if x glitters and predicate gold(x) is true if x is gold. Which one of
+the following logical formulae represents the above statement?
+
+(A) Vx: glitters (x) > -gold(x)
+(B) Vx: gold (x) => glitters(x)
+
+(C) ax: gold (x) A- glitters (x)
+(D) 4x: glitters (x) A- gold (x)
+
+Suppose you break a stick of unit length at a point chosen uniformly at random. Then the expected
+length of the shorter stick is
+
+Let G=(V,E) be a directed graph where V is the set of vertices and E the set of edges. Then which
+one of the following graphs has the same stronglyconnected components as G ?
+
+(A) G, = (V, E,) where E, = {(u,v)|(u, v) € E}
+(B) Gz = (V, Ez) where Ez = {(u, v)|(v,u) € E}
+(C) G3 = (V,E3) where E3 = {(u, v)|there is apath of length < 2 fromu to v in E}
+
+(D) G4 = (V4, E) where V, is the’set of vertices in G which are not isolated
+
+Consider the following system of equations:
+
+3x + 2y
+4x + 72
+x +yt
+x - 2y 4+.7
+
+Nouou
+
+Ls
+1
+= 3
+z= 0
+
+The number of solutions for this system is
+
+Thewalue of the dot product of the eigenvectors corresponding to any pair of different eigenvalues
+of a 4-by-4 symmetric positive definite matrix is
+
+cs
+
+1/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.6 Let the function
+sin® cos @ tan@
+f(@) = sin("/¢) cos(™/g) tan("/¢)
+sin("/3) cos("/3) tan(“/3)
+where 0 € [-,4| and f'(@) denote the derivative of f with respect to @. Which of the following
+statements is/are TRUE?
+() There exists 0 € é4 such that f’(@) = 0.
+(11) There exists 0 € é4 such that f’(@) #0.
+(A) I only (B) II only (C) Both I and II (D) Neither nor IT
+Q.7_ Consider the following Boolean expression for F:
+F(P,Q,R,S) = PQ + PQR + PORS
+The minimal sum-of-products form of F is
+(A) PQ+QR+QS (B) P+Q+R+S (CY PHQ+RHS (D) PR+PRS+P
+Q.8 The base (or radix) of the number system such that the following equation holds is
+312 134
+l a
+Q.9 A machine has a 32-bit architecture, with 1-word long instructions. It has 64 registers, each of
+which is 32 bits long. Itneeds to support 45 instructions, which have an immediate operand in
+addition to two register operands. ‘Assuming that the immediate operand is an unsigned integer, the
+maximum value of the immediate operand is
+F onsider the following program in C language:
+Q.10 Consider the followi inC |
+#include <stdio.h>
+main ()
+{
+int i;
+inty*pi = &i;
+seanf (“%d”,pi);
+printf ("“%d\n”, i+5);
+}
+Which one of the following statements is TRUE?
+(A) Compilation fails.
+(B) Execution results in a run-time error.
+(C) On execution, the value printed is 5 more than the address of variable i.
+(D) On execution, the value printed is 5 more than the integer value entered.
+cs 24
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.1l
+
+Q.12
+
+Q.13
+
+Q.14
+
+Q.15
+
+Let G be a graph with n vertices and m edges. What is the tightest upper bound on the running time
+of Depth First Search on G, when G is represented as an adjacency matrix?
+
+(A) O(n) (B) O(n + m) (C) O(n?) (D) 0(m?)
+Consider a rooted n node binary tree represented using pointers. The best upper bound on the time
+
+required to determine the number of subtrees having exactly 4 nodes is O(n“ log? n). Then the
+value of a+ 10b is
+
+Consider the directed graph given below.
+
+Which one of the following is TRUE?
+
+(A) The graph does not have any topological ordering.
+(B) Both PQRS and SRQP are topological orderings.
+(C) Both PSRQ and SPRQ are topological orderings.
+(D) PSRQ is the only topological ordering.
+
+Let P be a quicksort program to sort numbers in ascending order using the first element as the
+pivot. Let t, and| tz be the numberof comparisons made by P for the inputs [1 2 3 4 5] and
+[4 1 5 3 2] respectively. Which one of the following holds?
+
+(A) t,=5 (B) t) <tz
+(C) ty > ty (D) t = te
+
+Which one of the following is TRUE?
+
+(A) The language L = {a"b" |n > 0} is regular.
+
+(B) The language L = {a" |n is prime} is regular.
+
+(C) The language L = {w|w has 3k + 1b’s for some k € N with x = {a,b}} is regular.
+(D) The language L = {ww |weX* with x = {0,1}} is regular.
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.16 Consider the finite automaton in the following figure.
+
+\o
+
+\1
+
+What is the set of reachable states for the input string 0011?
+
+(A) (40,91 G2}
+(B) {40,11}
+
+(C) {40 91, 92,93}
+(D) {43}
+
+Q.17 Which one of the following is FALSE?
+
+(A) A basic block is a sequence of instructions where control enters the sequence at the beginning
+
+and exits at the end.
+
+(B) Available expression analysis can beused for common subexpression elimination.
+
+(C) Live variable analysis can be used for dead code-elimination.
+
+(D)x =4*5 =x =20 is anexample of common subexpression elimination.
+
+Q.18 Match the following:
+
+1) Waterfall model
+
+2) Evolutionary, model
+3) Component-based software engineering
+
+4) Spiral development
+
+(A) 1-a, 2-b, 3-c, 4-d
+(C) 1-d, 2-b, 3-a, 4-c
+
+a) Specifications can be developed
+incrementally
+
+b) Requirements compromises are inevitable
+c) Explicit recognition of risk
+
+d) Inflexible partitioning of the project into
+stages
+
+(B) 1-d, 2-a, 3-b, 4-c
+(D) I-c, 2-a, 3-b, 4-d
+
+cs
+
+4/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.19
+
+Q.20
+
+Q21
+
+Q.22
+
+Suppose a disk has 201 cylinders, numbered from 0 to 200. At some time the disk arm is at cylinder
+100, and there is a queue of disk access requests for cylinders 30, 85, 90, 100, 105, 110, 135 and
+145. If Shortest-Seek Time First (SSTF) is being used for scheduling the disk access, the request for
+cylinder 90 is serviced after servicing number of requests.
+
+Which one of the following is FALSE?
+
+(A) User level threads are not scheduled by the kernel.
+(B) When a user level thread is blocked, all other threads of its process are blocked.
+
+(C) Context switching between user level threads is faster than context switching between kernel
+level threads.
+
+(D) Kernel level threads cannot share the code segment.
+
+Consider the relation scheme R = (£,F,G,H,1,J,K,L,M,N) and the set of functional dependencies
+({Z, F} > {G}, {F} > {1}, {£,H} > {K,L}, {kK} > {M}, {L} >°{N}} on RX. What is the key for
+R?
+
+(A) {E,F} (B) {E,F,H} (C) {EP H,K,L}  (D) {EF}
+Given the following statements:
+
+$1: A foreign key declaration can/always be replaced by an equivalent check
+assertion in SQL.
+
+$2: Given the table R (a,b, ¢) wheréja.and b together form the primary key,
+the following is ayvalid table definition.
+CREATE TABLE S (
+a INTEGER,
+d INTEGER,
+e INTEGER,
+PRIMARY KEY (d),
+FOREIGN, KEY (a) references R)
+
+Which one.of the following statements is CORRECT?
+(A) S1 is TRUE and S2 is FALSE.
+(B) Both S1 and_S2 are TRUE.
+
+(C),S1 is FALSE and S2 is TRUE.
+(D) BothyS1 and S2 are FALSE.
+
+cs
+
+5/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.23
+
+Q.24
+
+Consider the following three statements about link state and distance vector routing protocols, for a
+large network with 500 network nodes and 4000 links.
+
+[S1] The computational overhead in link state protocols is higher than in distance vector protocols.
+
+[S2] A distance vector protocol (with split horizon) avoids persistent routing loops, but not a link
+state protocol.
+
+[S3] After a topology change, a link state protocol will converge faster than a distance vector
+protocol.
+
+Which one of the following is correct about S1, S2, and S3 ?
+
+(A) S1, S2, and S3 are all true. (B) S1, S2, and S3 are all false.
+
+(C) SI and S2 are true, but S3 is false. (D) S1 and S3 are true, but S2 is false.
+
+Which of the following are used to generate a message digest by the network security protocols?
+
+(P) RSA (Q) SHA-1 (R) DES (S)MD5
+(A) P and R only (B) Q and R only
+(C) Qand S only (D) R and S only
+
+Q.25 Identify the correct order in which the following actions take place in an interaction between a web
+
+browser and a web server.
+
+1. The web browser requests a webpage using HTTP.
+2. The web browser establishes a TCP connection with the web server.
+3. The web server sends the requested webpage using HTTP.
+4. The web browser resolves the domain name using DNS.
+(A) 4,2,1,3 (B) 1,2,3,4 (C) 4,1,2,3 (D) 2,4,1,3
+
+Q. 26 - Q. 55 carry.two marks each.
+
+Q.26
+
+Q.27
+
+Q.28
+
+Consider,a token ring network with a length of 2 km having 10 stations including a monitoring
+station. The) propagation speed of the signal is 2 x 10® m/s and the token transmission time is
+ignored. If each station is allowed to hold the token for 2 psec, the minimum time for which the
+monitoring station should wait (in psec)before assuming that the token is lost is
+
+Let the size of congestion window of a TCP connection be 32 KB when a timeout occurs. The round
+trip time of the connection is 100 msec and the maximum segment size used is 2 KB. The time taken
+(in msec) by the TCP connection to get back to 32 KB congestion window is
+
+Consider a selective repeat sliding window protocol that uses a frame size of | KB to send data on a
+1.5 Mbps link with a one-way latency of 50 msec. To achieve a link utilization of 60%, the
+minimum number of bits required to represent the sequence number field is
+
+cs
+
+6/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.29 Consider the following four schedules due to three transactions (indicated by the subscript) using
+
+read and write on a data item x, denoted by r(x) and w(x) respectively. Which one of them is
+conflict serializable?
+
+(A) ri(x); %2(K) 7; Wilk); 3 (%) 7 We (x)
+(B) r2(x) 7X4 (X) 7; We (X) 73 (X) ; Wa (X)
+(C) v3 (x) ¢X2 (Xx) 7X1 (XK) We (x) 7 Wi (x)
+(D) v2 (x) 7 We (x) 7X3 (K) 7 L1 (XK) 7 Wr (Xx)
+
+Q.30 Given the following two statements:
+
+S1: Every table with two single-valued attributes is in INF, 2NF, 3NF
+and BCNF.
+
+$2: ABC, DE, E-C is a minimal cover for the set of functional
+dependencies ABC, DE, ABE, EC.
+
+Which one of the following is CORRECT?
+
+(A) S1 is TRUE and S2 is FALSE.
+(B) Both S1 and S2 are TRUE.
+(C) S1 is FALSE and 82 is TRUE.
+(D) Both S1 and S2 are FALSE.
+
+cs
+
+TW4
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q31
+
+Q.32
+
+Q33
+
+Q.34
+
+An operating system uses the Banker’s algorithm for deadlock avoidance when managing the
+allocation of three resource types X, Y, and Z to three processes PO, P1, and P2. The table given
+below presents the current system state. Here, the Allocation matrix shows the current number of
+resources of each type allocated to each process and the Max matrix shows the maximum number
+of resources of each type required by each process during its execution.
+
+Allocation
+Y Z
+
+PO
+Pl
+P2
+
+N wo
+WD CO] de
+wn al</ E
+wo wlN
+
+0 1
+2 0
+1 1
+
+There are 3 units of type X, 2 units of type Y and 2 units of type Z still available. The system is
+currently in a safe state. Consider the following independent requests for additional resources in the
+current state:
+
+REQI1: PO requests 0 units of X, 0 units of Y and 2 units of Z
+REQ2: P1 requests 2 units of X, 0 units of Y and 0 units of Z
+
+Which one of the following is TRUE?
+
+(A) Only REQI can be permitted.
+
+(B) Only REQ? can be permitted.
+
+(C) Both REQI and REQ? can be permitted,
+(D) Neither REQ1 nor REQ? can be permitted.
+
+Consider the following set of processes that need to’be scheduled on a single CPU. All the times are
+given in milliseconds.
+
+Process Name | ArrivalTime | Execution Time
+
+MOQ) wl >
+|] Nn] oOo} oO
+wl ARI Mla
+
+0
+
+Using, the shortest remaining time first scheduling algorithm, the average process turnaround time
+(in msec) is ‘
+
+Assume.that there are 3 page frames which are initially empty. If the page reference string is 1, 2, 3,
+4,2, 1, 5, 3, 2, 4, 6, the number of page faults using the optimal replacement policy is
+
+A canonical set of items is given below
+S—L.>R
+QR.
+On input symbol < the set has
+
+(A) a shift-reduce conflict and a reduce-reduce conflict.
+(B) a shift-reduce conflict but not a reduce-reduce conflict.
+(C) a reduce-reduce conflict but not a shift-reduce conflict.
+
+(D) neither a shift-reduce nor a reduce-reduce conflict.
+
+cs
+
+8/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.35 Let L be a language and L be its complement. Which one of the following is NOT a viable
+possibility?
+(A) Neither L nor L is recursively enumerable (r.e.).
+(B) One of L and L is r.e. but not recursive; the other is not r.e.
+(C) Both L and L are r.e. but not recursive.
+(D) Both L and L are recursive.
+Q.36 Which of the regular expressions given below represent the following DFA?
+0 0 1
+1
+IT) 0*1(1+00*1)*
+Tl) 0*1*1+11*0*1
+TIT) (0+1)*1
+(A) I and II only (B) I and Iihonly
+(C) II and III only (D) IIL, and III
+. ere are 5 bags labeled 1 to 5. the coins in/a given bag have the same weight. Some bags
+Q.37 Th 5 bags labeled 1 to 5. All the coins i iven bag hi h ight. S b
+have coins of weight 10 gm, others have coins of weight 11 gm. I pick 1, 2, 4, 8, 16 coins
+respectively from bags | to 5. Theirtotal weight comes out to 323 gm. Then the product of the
+labels of the bags having 11 gmcoinsis/ _.
+cs
+
+9/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.38 Suppose a polynomial time algorithm is discovered that correctly computes the largest clique in a
+given graph. In this scenario, which one of the following represents the correct Venn diagram of the
+complexity classes P, NP and NP Complete (NPC)?
+
+(A) (B)
+CQ)
+NPC
+
+(D)
+
+(C)
+
+_— P=NP=NPC
+
+O6
+
+Q.39 The minimum number of comparisons required to find the minimum and the maximum of 100
+numbers is
+
+Q.40 Consider a hash table with 9 slots. The hash function is h(k) = kmod9. The collisions are
+resolved by chaining. The following 9 keys are inserted in the order: 5, 28, 19, 15, 20, 33, 12, 17,
+10. The maximum, minimum, and average chain lengths in the hash table, respectively, are
+
+(A) 3,0, and 1
+
+(B) 3,3, and 3
+(C) 4,0, and 1
+(D) 3, Ojand2
+
+cs 10/14
+
+GATE 2014 SET-1
+
+COMPUTER — CS
+
+Q41
+
+Q.42
+
+Q.43
+
+Consider the following C function in which size is the number of elements in the array E:
+
+int MyX(int *E, unsigned int size)
+
+int Y = 0;
+int Z;
+int i, j, k;
+
+for(i = 0; i < size; i++)
+Y=yY+ Elil;
+for(i = 0; i < size; i++)
+for(j = i; j < size; j++)
+{
+Z= 0;
+for(k = i; k <= j; k++)
+Z=2Z + E([k];
+if (Z > Y)
+Y= Z;
+
+}
+
+return Y;
+
+}
+
+The value returned by the function MyX is the
+
+(A) maximum possible sum of elements in any sub-array of array E.
+
+(B) maximum element in any sub-array of atray E.
+
+(C) sum of the maximum elements in allipossible sub-arrays of array E.
+
+(D) the sum of all the elements in the array E.
+
+Consider the following pseudo code. What is the total number of multiplications to be performed?
+
+D=2
+for i =.1 to njdo
+for jJ\= i ton do
+for,k = j +1 ton do
+D=D* 3
+
+(A) Half of the product of the 3 consecutive integers.
+
+(B) One-third of the product of the 3 consecutive integers.
+
+(C) One-sixth of the product of the 3 consecutive integers.
+
+(D) None of the above.
+
+Consider a 6-stage instruction pipeline, where all stages are perfectly balanced.Assume that there is
+no cycle-time overhead of pipelining. When an application is executing on this 6-stage pipeline, the
+speedup achieved with respect to non-pipelined execution if 25% of the instructions incur 2
+
+pipeline stall cycles is
+
+cs
+
+11/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.44
+
+Q.45
+
+Q.46
+
+QA4A7
+
+Q.48
+
+An access sequence of cache block addresses is of length N and contains n unique block addresses.
+The number of unique block addresses between two consecutive accesses to the same block address
+is bounded above by k. What is the miss ratio if the access sequence is passed through a cache of
+associativity A > k exercising least-recently-used replacement policy?
+
+(A) n/N (B) 1/N (C) V/A (D) kin
+
+Consider the 4-to-1 multiplexer with two select lines S$, and Sg given below.
+
+0——- 9
+ttl 4-to-1 >F
+R——+} 2 Multiplexer
+R—3
+Si So
+
+P Q
+
+The minimal sum-of-products form of the Boolean expression for the output F of the multiplexer is
+
+(A) PQ+QR+PQR
+
+(B) PQ+PQR+PQR+PQR
+(C) PQR+PQR+QR+PQR
+(D) PQR
+
+The function f (x)= x sin x satisfies the following equation: f(x) + f(x) + tcosx = 0. The
+value of t is
+
+A function f (x) is,continuous in the interval [0,2]. It is known that f(0) = f(2) = —1 and
+f @) = 1. Which one of the following statements must be true?
+
+(A) Thereexists a y in the interval (0,1) such that f(y) = f(y + 1)
+(B) For every y in the interval (0,1), f(y) = f(2 - y)
+(GC) The maximum value of the function in the interval (0,2) is 1
+
+(D) There exists a y in the interval (0,1) such that f(y) = —f(2 —y)
+
+Four fair six-sided dice are rolled. The probability that the sum of the results being 22 is X/i296:
+The value of X is
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.49
+
+Q.50
+
+Q51
+
+Q.52
+
+Q.53
+
+A pennant is a sequence of numbers, each number being | or 2. An n-pennant is a sequence of
+numbers with sum equal to n. For example, (1,1,2) is a 4-pennant. The set of all possible 1-pennants
+is {(1)}, the set of all possible 2-pennants is {(2), (1,1)}and the set of all 3-pennants is {(2,1),
+(11,1), (1,2)}. Note that the pennant (1,2) is not the same as the pennant (2,1). The number of 10-
+pennants is :
+
+Let S denote the set of all functions f:{0,1}* > {0,1}. Denote by N the number of functions
+from S to the set {0,1}. The value of log, log2 N is
+
+Consider an undirected graph G where self-loops are not allowed. The vertex set of G is {(i, /)"S
+i< 12,1 <j < 12}. There is an edge between (a, b) and (c,d) if |a—c| < 1 and |b —d| <1.
+The number of edges in this graph is :
+
+An ordered n-tuple (d,, dz, ...,d,) with dy => dz > ++: = dy is called graphic if there,exists a simple
+undirected graph with n vertices having degrees d,, dz, ...,d, respectively" Which of the following
+6-tuples is NOT graphic?
+
+(AVC, 1,1,1,1,) (B) 2, 2, 2, 2, 242)
+(C) (, 3, 3, 1, 0, 0) (D) (3, 2, 1, 1, 1,0)
+
+Which one of the following propositional logic formulas is TRUE,when exactly two of p, q, and r
+are TRUE?
+
+(A) ((p og) Ar) V(PAqA~r)
+(B)(~ Pe gaAr)vV(pAqar~r)
+©(@>qQAr)v@MAqA~7r)
+(D)(~ Pe QAr)AMAGA~r)
+
+cs
+
+13/14
+
+GATE 2014 SET-1 COMPUTER — CS
+
+Q.54 Given the following schema:
+employees(emp-id, first-name, last-name, hire-date,
+dept-id, salary)
+departments (dept-id, dept-name, manager-id, location-id)
+
+You want to display the last names and hire dates of all latest hires in their respective departments
+in the location ID 1700. You issue the following query:
+
+SQL>SELECT last-name, hire-date
+FROM employees
+WHERE (dept-id, hire-date) IN
+(SELECT dept-id, MAX (hire-date)
+FROM employees JOIN departments USING (dept-id)
+WHERE location-id = 1700
+GROUP BY dept-id);
+
+What is the outcome?
+
+(A) It executes but does not give the correct result.
+(B) It executes and gives the correct result.
+(C) It generates an error because of pairwise comparison.
+
+(D) It generates an error because the GROUP BY clause cannot be used with table joins in a sub-
+query.
+
+Q.55 Consider two processors P, and P, executing the same instruction set. Assume that under identical
+conditions, for the same input, a program running on P, takes 25% less time but incurs 20% more
+CPI (clock cycles per instruction),as compared to the program running on P,. If the clock frequency
+of P; is 1GHz, then the clock frequency of P2 (in GHz) is
+
+END OF THE QUESTION PAPER
+
+cs 14/14
+
+GATE 2014
+Answer Keys for CS - Computer Science and Information Technology
+
+Section | Q. No. SES ION“2 Section | Q. No. SESSION =}
+
+Key / Range Marks Key / Range | Marks
+GA 1 B 1 cs 24 C 1
+GA 2 C 1 cS 25 A 1
+GA 3 C 1 cs 26 28 to 30 2
+GA 4 96 to 96 1 ies) 27 1100 to 1300 2
+GA 5 D 1 cs 28 5to5 2
+GA 6 C 2 ies) 29 D 2
+GA 7 B 2 cS 30 A 2
+GA 8 850 to 850 2 ies) 31 B 2
+GA 9 48 to 48 2 ies) 32 7.2 to 7.2 2
+GA 10 6to6 2 cs 33 7to7 2
+ies) 1 D 1 cs 34 D 2
+cs 2 0.24 to 0.27 1 ies) 35 C 2
+cS 3 B 1 ies) 36 B 2
+cs 4 1to1 1 cs 37 12 to 12 2
+cs 5 O0toO 1 cs 38 D 2
+ies) 6 C 1 cs 39 147.1 to 148.1 2
+cs 7 A 1 cs 40 A 2
+cs 8 5to5 1 cS 41 A 2
+cs 9 16383 to 16383 1 cs 42 C 2
+cs 10 D 1 cs 43 4to4 2
+ies) 11 C 1 ies) 44 A 2
+cs 12 1to1 1 cs 45 A 2
+cs 13 C 1 ies) 46 -2 to -2 2
+cs 14 C 1 cs 47 A 2
+cs 15 C 1 cs 48 10 to 10 2
+cs 16 A 1 cS 49 88.9 to 89.1 2
+cS 17 D 1 cs 50 16 to 16 2
+cs 18 B 1 ies) 51 506 to 506 2
+cs 19 3 to3 1 cs 52 C 2
+cs 20 D 1 ies) 53 B 2
+cs 21 B 1 cS 54 B 2
+cS 22 D 1 ies) 55 1.6 to 1.6 2
+cs 23 D 1
+
+
+SESSION - 2
+
+GATE 2014: General Instructions during Examination
+
+1. Total duration of the GATE examination is 180 minutes.
+
+2. The clock will be set at the server. The countdown timer at the top right corner of
+screen will display the remaining time available for you to complete the examination.
+When the timer reaches zero, the examination will end by itself. You need not
+terminate the examination or submit your paper.
+
+3. Any useful data required for your paper can be viewed by clicking on the Useful
+Common Data button that appears on the screen.
+
+4. Use the scribble pad provided to you for any rough work. Submit the scribble pad at
+the end of the examination.
+
+5. You are allowed to use a non-programmable type calculator, however, sharing of
+calculators is not allowed.
+
+6. The Question Palette displayed on the right side of screen will show the status of
+each question using one of the following symbols:
+
+1 | You have not visited the question yet.
+You have not answered the question.
+«a You have answered the question.
+@ You have NOT answered the question, but have marked the question for review.
+
+4
+© You have answered the question, but marked it for review.
+
+The Marked for Review status for a question simply indicates that you would like to look at
+that question again. If a question is answered, but marked for review, then the answer will
+be considered for evaluation unless the status is modified by the candidate.
+
+Navigating to a Question:
+
+7. To answer a question, do the following:
+
+a. Click on the question number in the Question Palette to go to that question
+directly.
+
+b. Select an answer for a multiple choice type question by clicking on the bubble
+placed before the 4 choices, namely A, B, C and D. Use the virtual numeric
+keypad to enter a number as answer for a numerical type question.
+
+c. Click on Save & Next to save your answer for the current question and then go
+to the next question.
+
+d. Click on Mark for Review & Next to save your answer for the current question
+and also mark it for review, and then go to the next question.
+
+Caution: Note that your answer for the current question will not be saved, if you navigate
+to another question directly by clicking on a question number without saving the answer to
+the previous question.
+
+You can view all the questions by clicking on the Question Paper button. This feature is
+provided, so that if you want you can just see the entire question paper at a glance.
+
+Answering a Question :
+
+8. Procedure for answering a multiple choice (MCQ) type question:
+a. Choose one answer from the 4 options (A,B,C,D) given below the question,
+click on the bubble placed before the chosen option.
+b. To deselect your chosen answer, click on the bubble of the chosen option again
+or click on the Clear Response button.
+c. To change your chosen answer, click on the bubble of another option.
+d. To save your answer, you MUST click on the Save & Next button.
+
+9. Procedure for answering a numerical answer type question:
+a. To enter a number as your answer, use the virtual numerical keypad.
+b. A fraction (e.g. -0.3 or -.3) can be entered as an answer with or without 'O'
+before the decimal point. As many as four decimal points, e.g. 12.5435 or
+0.003 or -932.6711 or 12.82 can be entered.
+c. To clear your answer, click on the Clear Response button.
+d. To save your answer, you MUST click on the Save & Next button
+10. To mark a question for review, click on the Mark for Review & Next button. /f an
+answer is selected (for MCQ) or entered (for numerical answer type) for a question
+that is Marked for Review, that answer will be considered in the evaluation unless
+
+the status is modified by the candidate.
+
+11. To change your answer to a question that has already been answered, first select
+that question for answering and then follow the procedure for answering that type of
+question.
+
+12. Note that ONLY Questions for which answers are saved or marked for review after
+answering will be considered for evaluation.
+
+Choosing a Section :
+
+13. Sections in this question paper are displayed on the top bar of the screen. Questions
+in a Section can be viewed by clicking on the name of that Section. The Section you
+are currently viewing will be highlighted.
+
+14. A checkbox is displayed for every optional Section, if any, in the Question Paper. To
+select the optional Section for answering, click on the checkbox for that Section.
+
+15. If the checkbox for an optional Section is not selected, the Save & Next button and
+the Mark for Review & Next button will NOT be enabled for that Section. You will
+
+only be able to see questions in this Section, but you will not be able to answer
+questions in the Section.
+
+16. After clicking the Save & Next button for the last question in a Section, you will
+automatically be taken to the first question of the next Section in sequence.
+
+17. You can move the mouse cursor over the name of a Section to view the answering
+status for that Section.
+
+Changing the Optional Section :
+
+18. After answering the chosen optional Section, partially or completely, you can change
+the optional Section by selecting the checkbox for a new Section that you want to
+attempt. A warning message will appear along with a table showing the number of
+questions answered in each of the previously chosen optional Sections and a
+checkbox against each of these Sections. Click on a checkbox against a Section that
+you want to reset and then click on the RESET button. Note that RESETTING a Section
+will DELETE all the answers for questions in that Section. Hence, if you think that you
+may want to select this Section again later, you will have to note down your answers
+for questions in that Section. If you do not want to reset the Section and want to
+continue answering the previously chosen optional Section, then click on the BACK
+button.
+
+19. If you deselect the checkbox for an optional Section in the top bar, the following
+warning message will appear: "Deselecting the checkbox will DELETE all the answers
+for questions in this Section. Do you want to deselect this Section?” If you want to
+deselect, click on the RESET button. If you do not want to deselect, click on the BACK
+button.
+
+20. You can shuffle between different Sections or change the optional Sections any
+number of times.
+
+GATE 2014 Examination
+CS: Computer Science & Information Technology
+
+Duration: 180 minutes Maximum Marks: 100
+
+Read the following instructions carefully.
+
+1.
+
+2
+
+10.
+
+11.
+
+12.
+13.
+
+To login, enter your Registration Number and password provided to you. Kindly go through the various
+symbols used in the test and understand their meaning before you start the examination.
+
+Once you login and after the start of the examination, you can view all the questions in the question
+paper, by clicking on the View All Questions button in the screen.
+
+This question paper consists of 2 sections, General Aptitude (GA) for 15 marks and the subject
+specific GATE paper for 85 marks. Both these sections are compulsory.
+
+The GA section consists of 10 questions. Question numbers 1 to 5 are of 1-mark each, while question
+numbers 6 to 10 are of 2-mark each.
+
+The subject specific GATE paper section consists of 55 questions, out of which question numbers 1 to
+25 are of 1-mark each, while question numbers 26 to 55 are of 2-mark each.
+
+Depending upon the GATE paper, there may be useful common data that may be required for
+answering the questions. If the paper has such useful data, the same can be viewed by clicking on the
+Useful Common Data button that appears at the top, right hand side of the screen.
+
+The computer allotted to you at the examination center runs specialized software that pennits only one
+answer to be selected for multiple-choice questions using a mouse and to enter a suitable number for
+the numerical answer type questions using the virtual keyboard and mouse.
+
+Your answers shall be updated and saved on a server periodically and also at the end of the
+examination. The examination will stop automatically at the end of 180 minutes.
+
+In each paper a candidate can answer a total of 65 questions carrying 100 marks.
+
+The question paper may consist of questions of multiple choice type (MCQ) and numerical answer
+type.
+
+Multiple choice type questions will have four choices against A, B, C, D, out of which only ONE is the
+correct answer. The candidate has to choose the correct answer by clicking on the bubble (©) placed
+before the choice.
+
+For numerical answer type questions, each question will have a numerical answer and there will not be
+any choices. For these questions, the answer should be enteredby using the virtual keyboard that
+appears on the monitor and the mouse.
+
+All questions that are not attempted will result in zero marks. However, wrong answers for multiple
+choice type questions (MCQ) will result in NEGATIVE marks. For all MCQ questions a wrong
+answer will result in deduction of 4 marks for a 1-mark question and % marks fora 2-mark question.
+There is NO NEGATIVE MARKING for questions of NUMERICAL ANSWER TYPE.
+
+Non-programmable type Calculator is allowed. Charts, graph sheets, and mathematical tables are NOT
+allowed in the Examination Hall. You must use the Scribble pad provided to you at the examination
+centre for all your rough work. The Scribble Pad has to be retumed at the end of the examination.
+
+Declaration by the candidate:
+
+“T have read and understood all the above instructions. I have also read and understood clearly the
+instructions given on the admit card and shall follow the same. I also understand that in case I am found to
+violate any of these instructions, my candidature is liable to be cancelled. I also confirm that at the start of
+the examination all the computer hardware allotted to me are in proper working condition”.
+
+GATE 2014 SET- 8 General Aptitude -GA
+
+Q.1- Q. 5 carry one mark each.
+
+Q.1
+
+Q.2
+
+Q3
+
+Q4
+
+Q.5
+
+Choose the most appropriate phrase from the options given below to complete the following
+sentence.
+
+India is a post-colonial country because
+
+(A) it was a former British colony
+
+(B) Indian Information Technology professionals have colonized the world
+(C) India does not follow any colonial practices
+
+(D) India has helped other countries gain freedom
+
+Who was coming to see us this evening?
+
+(A) you said (B) did you say
+
+(C) did you say that (D) had you said
+Match the columns.
+
+Column 1 Column 2
+
+1) eradicate P) misrepresent
+
+2) distort Q) soak completely
+
+3) saturate R) use
+
+4) utilize S) destroy utterly
+
+(A) 1:S, 2:P, 3:Q, 4:R (B) 1:P, 2:Q, 3:R, 4:S
+(C) 1:Q, 2:R, 3:S, 4:P (D).1:S, 2:P, 3:R, 4:Q
+
+What is the average of all multiples of 10 from 2 to 198?
+
+(A) 90 (B) 100 (C) 110 (D) 120
+The value of || 12 +V12+V12+4 --- is
+(A) 3.464 (B) 3.932 (C) 4.000 (D) 4.444
+
+Q.6- Q. 10 carry twomarks each.
+
+Q.6
+
+The old city of Koenigsberg, which had a German ngjority population before World War 2, is now
+called Kaliningrad. After the events of the war, Kaliningrad is now a Russian territory and has a
+predominantly Russian population. It is bordered by the Baltic Sea on the north and the countries of
+Poland to the south and west and Lithuania to the east respectively. Which of the statements below
+can be inferred from this passage?
+
+(A) Kaliningrad was historically Russian in its ethnic make up
+
+(B) Kaliningrad is a part of Russia despite it not being contiguous with the rest of Russia
+(C) Koenigsberg was renamed Kaliningrad, as that was its original Russian name
+
+(D) Poland and Lithuania are on the route from Kaliningrad to the rest of Russia
+
+12
+
+GATE 2014 SET- 8 General Aptitude -GA
+
+Q.7 The number of people diagnosed with dengue fever (contracted from the bite of a mosquito) in
+north India is twice the number diagnosed last year. Municipal authorities have concluded that
+measures to control the mosquito population have failed in this region.
+
+Which one of the following statements, if true, does not contradict this conclusion?
+
+(A) A high proportion of the affected population has retumed from neighbouring countries where
+dengue is prevalent
+
+(B) More cases of dengue are now reported because of an increase in the Municipal Office’s
+administrative efficiency
+
+(C) Many more cases of dengue are being diagnosed this year since the introduction of a new and
+effective diagnostic test
+
+(D) The number of people with malarial fever (also contracted from mosquito bites) has increased
+this year
+
+Q8 If xisreal and|x? — 2x + 3| = 11, then possible values of | — x? + x? — x| include
+(A) 2,4 (B) 2, 14 (C) 4, 52 (D), 14, 52
+
+Q.9  Theratio of male to female students in a college for five years is plottediin the following line graph.
+If the number of female students doubled in 2009, by what percent did the number of male students
+increase in 2009?
+
+3.5 "4 4
+
+5 3
+
+ct
+
+2
+
+@ 2.5
+
+©
+
+G 2
+
+£45
+
+2
+
+[J
+
+E 1
+
+a}
+
+£05
+
+c |
+
+a
+
+0 7* ™
+2008 2009 2010 2011 2012
+Q.10 _Atwhat time between 6 a.m. and 7 a.m. will the minute hand and hour hand of a clock make an
+angle'closest to 60°?
+(A) 6:22 a.m. (B) 6:27 a.m.
+(O)6: 38 a.m. (D) 6:45 a.m.
+END OF THE QUESTION PAPER
+GA 2/2
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.1- Q. 25 carry one mark each.
+
+Ql
+
+Q.2
+
+Q.3
+
+Q.4
+
+Q.5
+
+Q.6
+
+The security system at an IT office is composed of 10 computers of which exactly four are
+working. To check whether the system is functional, the officials inspect four of the computers
+picked at random (without replacement). The system is deemed functional if at least three of the
+four computers inspected are working. Let the probability that the system is deemed functional be
+denoted by p. Then 100p =
+
+Each of the nine words in the sentence "The quick brown fox jumps over the lazy
+dog” is written on a separate piece of paper. These nine pieces of paper are kept in a box. One of
+the pieces is drawn at random from the box. The expected length of the,word drawn is
+. (The answer should be rounded to one decimal places)
+
+If the matrix A is such that
+
+then the determinant of A is equal to
+
+A non-zero polynomial f(x) of degree 3 has roots atx = 1,x = 2 andx = 3. Which one of the
+following must.be TRUE?
+
+) FFA) <0
+B) f@FA) > 0
+C) fO)=sf(4) > 0
+
+(A
+(
+(
+(D) f@) + fA) < 0
+
+The dual of a Boolean function F(x,,X3,...,X,,+, °, '), written as F?, is the same expression
+as that of F with + and - swapped. F is said to be self-dual if F = F?. The number of self-dual
+functions with n Boolean variables is
+
+(A) 2” (B) 2"-1 (C) 22" (D) 22"
+
+cs
+
+1/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.7 Let k = 2”. A circuit is built by giving the output of an n-bit binary counter as input to an
+n-to-2” bit decoder. This circuit is equivalent to a
+(A) k-bit binary up counter.
+(B) k-bit binary down counter.
+(C) k-bit ring counter.
+(D) k-bit Johnson counter.
+Q.8 Consider the equation (123); = (x8), with x and y as unknown. The number of possible solutions is
+Q.9 A 4-way set-associative cache memory unit with a capacity of 16 KB is built using a block size of 8
+words. The word length is 32 bits. The size of the physical address space is 4 GB. The number of
+bits forthe TAG fieldis
+Q.10 Consider the function func shown below:
+int func(int num) {
+int count = 0;
+while (num) {
+count++;
+num>>= 1;
+}
+return (count) ;
+}
+The value retumed by fune(435)is
+Q.11 Suppose n and p are unsigned int variables in aC program. We wish to set p to C3.
+If n is large, which one of the following statements is most likely to set p correctly?
+(AY pe=n* (n-1) * (n-2) / 6;
+(B) pe=n* (n-1) / 2 * (n-2) / 3;
+(Cc) pe=an* (n-1) / 3 * (n-2) / 2;
+(D) p=n* (n-1) * (n-2) / 6.0;
+cs 2/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.12
+
+QO,13
+
+Q.14
+
+Q.15
+
+Q.16
+
+A priority queue is implemented as a Max-Heap. Initially, it has 5 elements. The level-order
+traversal of the heap is: 10, 8, 5, 3, 2. Two new elements 1 and 7 are inserted into the heap in that
+order. The level-order traversal of the heap after the insertion of the elements is:
+
+(A) 10, 8, 7, 3, 2, 1,5 (B) 10, 8, 7, 2, 3, 1,5
+(C) 10, 8, 7, 1, 2, 3,5 (D) 10, 8, 7,5, 3, 2,1
+
+Which one of the following correctly determines the solution of the recurrence relation with
+T(1) =1?
+
+T(n) = 2T (*) +logn
+
+(A) @(n) (B) O(n logn) (C) O(n?) (D) O(log n)
+
+Consider the tree arcs of a BFS traversal from a source node,W,in an unweighted, connected,
+undirected graph. The tree T formed by the tree arcs is a data structure for computing
+
+A) the shortest path between every pair of vertices.
+B) _ the shortest path from w to every vertex in the graph.
+
+) _ the shortest paths from w to only those nodes that areleaves of T.
+D) _ the longest path in the graph.
+
+If L; ={a"| n > 0} and L2=={b™| n = 0}, consider
+(I) Ly-L2 is a regular language
+
+(II) LiL ={a"b"|n = 0}
+
+Which one of the following is CORRECT?
+
+(A) Only (1) (B) Only (ID)
+(C) Both (1) and (II) (D) Neither (I) nor (II)
+
+Let A <,, B denotes that language A is mapping reducible (also known as many-to-one reducible)
+to language B. Which one of the following is FALSE?
+
+(A) IfA <,, B and B is recursive then A is recursive.
+
+(B) IfA <,, B andA is undecidable then B is undecidable.
+
+(C)IfA <,, B and B is recursively enumerable then A is recursively enumerable.
+(
+
+D)IfA <,, B and B is not recursively enumerable then A is not recursively enumerable.
+
+cs
+
+3/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.17
+
+Q.18
+
+Q.19
+
+Q.20
+
+Q.21
+
+Consider the grammar defined by the following production rules, with two operators « and +
+S—T*P
+T—U|T*U
+P>Q+P/Q
+Q- Id
+U— Id
+Which one of the following is TRUE?
+
+(A) + is left associative, while = is right associative
+(B) + is right associative, while * is left associative
+(C) Both + and » are right associative
+
+(
+
+D) Both + and « are left associative
+
+Which one of the following is NOT performed during compilation?
+
+(A) Dynamic memory allocation (B) Type checking
+(C) Symbol table management (D) Inline expansion
+
+Which one of the following is TRUE?
+
+(A) The requirements document also describes. how the requirements that are listed in the document
+are implemented efficiently.
+
+(B) Consistency and completeness of functional requirements are always achieved in practice.
+
+(C) Prototyping is a method of requirements validation.
+
+(D) Requirements review is carried out to find the errors in system design.
+
+A FAT (file allocation table) based file system is being used and the total overhead of each entry in
+the FAT is 4 bytes in size. Given a 100 x 10° bytes disk on which the file system is stored and data
+block sizeis 10° bytes, the maximum size of a file that can be stored on this disk in units of 10°
+
+bytes is
+
+cs
+
+4/15
+
+GATE 2014
+
+SET-2
+
+COMPUTER - CS
+
+Q.22
+
+Q.23
+
+Q.24
+
+Q.25
+
+Given an instance of the STUDENTS relation as shown below:
+
+StudentID StudentName StudentE mail StudentA ge CPI
+2345 Shankar shankar@ math X 9.4
+1287 Swati swati@ee 19 9.5
+7853 Shankar shankar@ cse 19 9.4
+9876 Swati swati@ mech 18 9.3
+8765 Ganesh ganesh@ civil 19 8.7
+
+For (StudentName, Students ge) to be a key for this instance, the value X should NOT be
+equal to i
+
+Which one of the following is TRUE about the interior gateway routing protocols)» Routing
+Information Protocol (RIP) and Open Shortest Path First (OSPF)?
+
+(A) RIP uses distance vector routing and OSPF uses link state routing
+(B) OSPF uses distance vector routing and RIP uses link state routing
+(C) Both RIP and OSPF use link state routing
+
+(D) Both RIP and OSPF use distance vector routing
+
+Which one of the following socket A PI functions,converts an unconnected active TCP socket into a
+passive socket?
+
+(A) connect
+(B) bind
+(C) listen
+(D) accept
+
+In the diagram shownbelow, Livis an Ethemet LAN and L2 is a Token-Ring LAN. An IP packet
+originates from sender S and traverses to R, as shown. The links within each ISP and across the
+two ISPs, arepall point-to-point optical links. The initial value of the TTL field is 32. The
+
+maximum possiblewvalue’of the TTL field when R receives the datagram is
+
+cs
+
+5/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q. 26 - Q. 55 carry two marks each.
+
+Q.26 Consider the store and forward packet switched network given below. Assume that the bandwidth
+of each link is 10° bytes / sec. A user on host A sends a file of size 10° bytes to host B through
+routers R1 and R2 in three different ways. In the first case a single packet containing the complete
+file is transmitted from A to B. In the second case, the file is split into 10 equal parts, and these
+packets are transmitted from A to B. In the third case, the file is split into 20 equal parts and these
+packets are sent from A to B. Each packet contains 100 bytes of header information alongywith the
+user data. Consider only transmission time and ignore processing, queuing and propagation delays.
+Also assume that there are no errors during transmission. Let T1, T2 and T3 be the times, taken to
+transmit the file in the first, second and third case respectively. Which one of the following is
+
+CORRECT?
+A R1 az R2 B
+
+A)T1<T2<T3
+B)T1>T2 >T3
+C)T2 =1T3,T3<T1
+
+(
+(
+(
+(D) T1 =T3,T3 >T2
+
+Q.27  AnIP machine Q has a path to another IP machine H via three IP routers R1, R2, and R3.
+Q—R1—R2—R3—H
+
+H acts as an HTTP server, and Q connects to H via HTTP and downloads a file. Session layer
+encryption is usedywith DES as the shared key encryption protocol. Consider the following four
+pieces of information:
+
+[I1] The URL of the filedownloaded by Q
+[12] The-T.CP port numbers at Q and H
+[13] The IP addresses of Q and H
+
+[14] Thelink layer addresses of Q and H
+
+Whichvof 11, 12, 13, and 14 can an intruder learn through sniffing at R2 alone?
+
+cs 6/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.28 A graphical HTML browser resident at a network client machine Q accesses a static HTML
+webpage from a HTTP server S. The static HTML page has exactly one static embedded image
+which is also at S. Assuming no caching, which one of the following is correct about the HTML
+webpage loading (including the embedded image)?
+
+(A) Q needs to send at least 2 HTTP requests to S, each necessarily in a separate TCP
+connection to server S
+
+(B) Q needs to send at least 2 HTTP requests to S, but a single TCP connection to server S is
+sufficient
+
+(C) A single HTTP request from Q to S is sufficient, and a single TCP connection between Q
+and S is necessary for this
+
+(D) A single HTTP request from Q to S is sufficient, and this is possible without any. TCP
+connection between Q and S
+
+Q.29 Consider the following schedule S of transactions T1, T2, T3, T4:
+
+T1 T2 T3. T4
+Reads(X)
+Writes(X)
+Commit
+Writes(X)
+Commit
+Writes(Y)
+Reads(Z)
+Commit
+Reads(X)
+Reads(Y)
+Commit
+
+Which one ofthe following statements is CORRECT?
+
+A) S is conflict-serializable but not recoverable
+B) S is not conflict-serializable but is recoverable
+C)S is both conflict-serializable and recoverable
+
+D) S is neither conflict-serializable nor is it recoverable
+
+(
+(
+(
+(
+
+cs 75
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.30 Consider a join (relation algebra) between relations r (R) and s (S) using the nested loop method.
+
+There are 3 buffers each of size equal to disk block size, out of which one buffer is reserved for
+intermediate results. Assuming size (r(R) ) <size(s(S) ), the join will have fewer number of
+disk block accesses if
+
+(A) relation r (R) is in the outer loop.
+
+(B) relation s (S) is in the outer loop.
+
+(C) join selection factor between r (R) and s(S) is more than 0.5.
+(
+
+D) join selection factor between r (R) and s(S) is less than 0.5.
+
+Q.31 Consider the procedure below for the Producer-Consumer problem which uses semaphores:
+semaphore n = 0;
+semaphore s = 1;
+void producer () void consumer ())
+{ {
+while (true) while(true)
+{ {
+produce (); semWait (s) ;
+semWait (s); semWait(n) ;
+addToBuf fer () ; removeFromBuf fer () ;
+semSignal (s) ; semSignal (s) ;
+semSignal (n) ; consume () ;
+} }
+} }
+Which one of the following is TRUE?
+(A) The producer will be able to add an item to the buffer, but the consumer can never
+consume it.
+(B) The consumer will remove no more than one item from the buffer.
+(C) | Deadlock occurs if the consumer succeeds in acquiring semaphore s when the buffer is
+empty.
+(D) The starting value for the semaphore n must be 1 and not 0 for deadlock-free operation.
+cs 8/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.32 Three processes A, B and C each execute a loop of 100 iterations. In each iteration of the loop, a
+process performs a single computation that requires t, CPU milliseconds and then initiates a single
+1/O operation that lasts for t;, milliseconds. It is assumed that the computer where the processes
+execute has sufficient number of I/O devices and the OS of the computer assigns different I/O
+devices to each process. Also, the scheduling overhead of the OS is negligible. The processes have
+the following characteristics:
+
+Process id i tio
+A 100 ms 500 ms
+B 350 ms 500 ms
+Cc 200 ms 500 ms
+The processes A, B, and C are started at times 0, 5 and 10 milliseconds respectively, in a pure time
+sharing system (round robin scheduling) that uses a time slice of 50 milliseconds»,The time in
+milliseconds at which process C would complete its first I/O operationis,
+
+Q.33 A computer has twenty physical page frames which contain pages numbered 101 through 120.
+Now a program accesses the pages numbered 1, 2, ...,100 in that order, and repeats the access
+sequence THRICE. Which one of the following page replacement policies experiences the same
+number of page faults as the optimal page replacement policy for this program?
+
+(A) Least-recently-used (B) First-in-first-out
+(C) Last-in-first-out (D) Most-recently-used
+
+Q.34 For aC program accessing Xfi] [j] [k], the following intermediate code is generated by a
+compiler. Assume that the size of ananteger is 32 bits and the size of a character is 8 bits.
+tO = i * 1024
+tl = j * 32
+t2 = k «4
+t3 = t1 + t0
+t4 = t3 + t2
+t5 = X[t4]
+
+Which oneof the following statements about the source code for the C program is CORRECT?
+(A) x is declared as “int X[32] [32] [8]”.
+(B) xisdeclaredas “int X[4] [1024] [32]”.
+(C) xisdeclaredas “char X[4] [32] [8]”.
+(D) xXisdeclaredas “char X[32] [16] [2]”.
+cs 9/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.35 Let <M> be the encoding of a Turing machine as a string over ¥ = {0,1}. Let
+L ={<M> | MisaTuring machine that accepts a string of length 2014 }. Then, L is
+(A) decidable and recursively enumerable
+(B) undecidable but recursively enumerable
+(C) undecidable and not recursively enumerable
+(D) decidable but not recursively enumerable
+
+Q.36 Let L, ={w €{0,1}*|w has at least as many occurrences of (110)’s as (011)’s}. Let
+Lz = {w € {0,1}" | w has at least as many occurrences of (000)’s as,(11)’s}. Wohich one of the
+following is TRUE?
+
+(A) L;, is regular but not L,
+
+(B) Lz is regular but not L,
+
+(C) Both L, and Lz are regular
+(D) Neither L, nor Lz are regular
+
+Q.37 Consider two strings A = "qpqrr”,and B ="pqprqrp”. Let x be the length of the longest common
+subsequence (not necessarily contiguous), between A and B and let y be the number of such longest
+common subsequences between A and B.Thenx + 10y=__.
+
+Q.38 Suppose, QR, S, T are sorted sequences having lengths 20, 24,30, 35,50 respectively. They are
+to be mergedpinto“a single sequence by merging together two sequences at a time. The number of
+comparisons that will be needed in the worst case by the optimal algorithm fordoing thisis
+
+Cs 10/15
+
+GATE 2014
+
+SET-2
+
+COMPUTER - CS
+
+Q.39 Consider the expression tree shown. Each leaf represents a numerical value, which can either be 0
+or 1. Over all possible choices of the values at the leaves, the maximum possible value of the
+
+Q.40 Consider the following function
+
+Q.41
+
+expression represented by the treeis__
+
+0/1
+
+0/1
+
+double f (double x) {
+if( abs(x*x - 3)
+else return £ (x/2\+ 1.5/x);
+
+}
+
+Give a value g,(to 2 decimals) such that £ (q) will return q:
+
+0/1
+
+0/1
+
+0/1
+
+0/2
+
+0/1
+
+0/1
+
+< 0,01) return x;
+
+Suppose ‘asstack implementation supports an instruction REVERSE, which reverses the order of
+elements on the stack, in addition to the PUSH and POP instructions. Which one of the following
+
+statements is TRUE with respect to this modified stack?
+
+(A) A queue cannot be implemented using this stack.
+
+(B) A queue can be implemented where ENQUEUE takes a single instruction and DEQUEUE takes
+
+a sequence of two instructions.
+(C) A queue can be implemented where ENQUEUE takes a sequence of three instructions and
+
+DEQUEUE takes a single instruction.
+(D) A queue can be implemented where both ENQUEUE and DEQUEUE take a single instruction
+
+each.
+
+cs
+
+11/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.42 Consider the C function given below.
+int f(int j)
+{
+Static int i = 50;
+int k;
+if (i == j)
+{
+printf (“something”) ;
+k = £(i);
+return 0;
+}
+else return 0;
+}
+Which one of the following is TRUE?
+(A) The function returms 0 for all values of 3.
+(B) The function prints the string something forall values of 3.
+(C) The function returns 0 whenj = 50.
+(D) The function will exhaust the runtime stack or run,into aninfinite loop whenj = 50.
+Q.43 In designing a computer's cache systemjsthe cache block (or cache line) size is an important
+parameter. Which one of the following statements,is correct in this context?
+(A) A smaller block size implies better spatial locality
+(B) A smaller block size implies.a smaller cache tag and hence lower cache tag overhead
+(C) A smaller block size implies a larger cache tag and hence lower cache hit time
+(D) A smaller block:size incurs alower cache miss penalty
+Q.44 If the associativity of a processor cache is doubled while keeping the capacity and block size
+unchanged, which one of the following is guaranteed to be NOT affected?
+(A) Width of tag comparator (B) Width of set index decoder
+(C) Width of way selection multiplexor (D) Width of processor to main memory data bus
+Q.45 The value of a float type variable is represented using the single-precision 32-bit floating point
+format of IEEE-754 standard that uses 1 bit for sign, 8 bits for biased exponent and 23 bits for
+mantissa. A float type variable X is assigned the decimal value of —14.25. The representation of X
+in hexadecimal notation is
+(A) C1640000H (B) 416C0000H (C) 41640000H (D) C16C0000H
+cs 12/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.46
+
+Q.47
+
+Q.48
+
+Q.49
+
+Q.50
+
+In the Newton-Raphson method, an initial guess of x) = 2 is made and the sequence x9, x4, X2 ...
+is obtained for the function
+0.75x3 - 2x? -2x+4=0
+Consider the statements
+(1) x3 =0.
+(ID The method converges to a solution in a finite number of iterations.
+
+Which of the following is TRUE?
+
+(A) Only I (B) Only II (C) Both I and II (D) Neither I nor II
+
+The product of the non-zero eigenvalues of the matrix
+
+ROCOPR
+ORRRO
+OrRPRRO
+OrRPRRO
+ROC OR
+
+The probability that a given positive integer lying between 1 and 100 (both inclusive) is NOT
+divisible by 2, 3 or 5 is
+
+Consider the following relation on subsets of the set S of integers between 1 and 2014. For two
+distinct subsets. and V of S we say U < V if the minimum element in the symmetric difference of
+the two sets is in U;
+
+Consider the.following two statements:
+
+S1: There is.a subset of S that is larger than every other subset.
+S2: There is a subset of S that is smaller than every other subset.
+
+Which one of the following is CORRECT?
+
+(A) Both $1 and $2 are true
+
+(B) $1 is true and S2 is false
+(C) S2 is true and $1 is false
+(D) Neither $1 nor $2 is true
+
+cs
+
+13/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.51
+
+A cycle on n vertices is isomorphic to its complement. The value of n is
+
+Q.53
+
+Q.54
+
+Which one of the following Boolean expressions is NOT a tautology?
+
+A) (G@— b)A(b > c)) S (a Pc)
+B) (ac) > (~b > (@c))
+
+C) (@Abac) > (ceva)
+
+)
+
+(
+(
+(
+(
+
+D)a—-(b—a)
+
+SQL allows duplicate tuples in relations, and correspondingly defines the multiplicity of tuples in
+the result of joins. Which one of the following queries always gives the same answer as the nested
+query shown below:
+
+select * from R where a in (select S.a from S)
+
+(A) select R.* from R, S where R.a=S.a
+(B) select distinct R.* from R,S where R.a=S.a
+(C) select R.* from R, (select distinct a from S) as S1 where
+
+R.a=Sl.a
+
+(D) select R.* from R,S where R.a=S.a and is unique R
+
+cs
+
+14/15
+
+GATE 2014 SET-2 COMPUTER - CS
+
+Q.55 Consider a main memory system that consists of 8 memory modules attached to the system bus,
+which is one word wide. When a write request is made, the bus is occupied for 100 nanoseconds
+(ns) by the data, address, and control signals. During the same 100 ns, and for 500 ns thereafter, the
+addressed memory module executes one cycle accepting and storing the data. The (internal)
+operation of different memory modules may overlap in time, but only one request can be on the bus
+at any time. The maximum number of stores (of one word each) that can be initiated in 1
+
+millisecond is
+
+END OF THE QUESTION PAPER
+
+cs 15/15
+
+GATE 2014
+Answer Keys for CS - Computer Science and Information Technology
+
+Section | Q. No. SESSION = 2 Section | Q. No. BESIONH?
+
+Key / Range _ | Marks Key / Range Marks
+GA 1 A 1 cs 24 C 1
+GA 2 B 1 cs 25 26 to 26 1
+GA 3 A 1 cS 26 D 2
+GA 4 B 1 cs 27 C 2
+GA 5 C 1 cs 28 B 2
+GA 6 B 2 cs 29 C 2
+GA 7 D 2 cs 30 A 2
+GA 8 D 2 cS 31 C 2
+GA 9 140 to 140 2 cs 32 1000 to 1000 2
+GA 10 A 2 cs 33 D 2
+ies) 1 11.85 to 11.95 1 ies) 34 A 2
+cs 2 3.8 to 3.9 1 cs 35 B 2
+cS 3 36 to 36 1 cS 36 A 2
+cs 4 O0toO 1 cs 37 34 to 34 2
+cs 5 A 1 cs 38 358 to 358 2
+ies) 6 D 1 ies) 39 6to6 2
+cs 7 C 1 cs 40 1.72 to 1.74 2
+cs 8 3to3 1 cs 41 C 2
+cs 9 20 to 20 1 cs 42 D 2
+cs 10 9to9 1 cs 43 D 2
+ies) 11 B 1 ies) 44 D 2
+cs 12 A 1 cs 45 A 2
+cs 13 A 1 cs 46 A 2
+cs 14 B 1 cs 47 6to6 2
+cs 15 A 1 cs 48 0.259 to 0.261 2
+cs 16 D 1 cs 49 8to8 2
+cS 17 B 1 cS 50 A 2
+cs 18 A 1 cs 51 5to5 2
+cs 19 C 1 cs 52 6to6 2
+cs 20 99.55 to 99.65 1 cs 53 B 2
+cs 21 8 to8 1 cs 54 C 2
+cS 22 19 to 19 1 cS 55 10000 to 10000 2
+cs 23 A 1
+
+
+SESSION - 3
+
+GATE 2014: General Instructions during Examination
+
+1. Total duration of the GATE examination is 180 minutes.
+
+2. The clock will be set at the server. The countdown timer at the top right corner of
+screen will display the remaining time available for you to complete the examination.
+When the timer reaches zero, the examination will end by itself. You need not
+terminate the examination or submit your paper.
+
+3. Any useful data required for your paper can be viewed by clicking on the Useful
+Common Data button that appears on the screen.
+
+4. Use the scribble pad provided to you for any rough work. Submit the scribble pad at
+the end of the examination.
+
+5. You are allowed to use a non-programmable type calculator, however, sharing of
+calculators is not allowed.
+
+6. The Question Palette displayed on the right side of screen will show the status of
+each question using one of the following symbols:
+
+1 | You have not visited the question yet.
+You have not answered the question.
+«a You have answered the question.
+@ You have NOT answered the question, but have marked the question for review.
+
+4
+© You have answered the question, but marked it for review.
+
+The Marked for Review status for a question simply indicates that you would like to look at
+that question again. If a question is answered, but marked for review, then the answer will
+be considered for evaluation unless the status is modified by the candidate.
+
+Navigating to a Question:
+
+7. To answer a question, do the following:
+
+a. Click on the question number in the Question Palette to go to that question
+directly.
+
+b. Select an answer for a multiple choice type question by clicking on the bubble
+placed before the 4 choices, namely A, B, C and D. Use the virtual numeric
+keypad to enter a number as answer for a numerical type question.
+
+c. Click on Save & Next to save your answer for the current question and then go
+to the next question.
+
+d. Click on Mark for Review & Next to save your answer for the current question
+and also mark it for review, and then go to the next question.
+
+Caution: Note that your answer for the current question will not be saved, if you navigate
+to another question directly by clicking on a question number without saving the answer to
+the previous question.
+
+You can view all the questions by clicking on the Question Paper button. This feature is
+provided, so that if you want you can just see the entire question paper at a glance.
+
+Answering a Question :
+
+8. Procedure for answering a multiple choice (MCQ) type question:
+a. Choose one answer from the 4 options (A,B,C,D) given below the question,
+click on the bubble placed before the chosen option.
+b. To deselect your chosen answer, click on the bubble of the chosen option again
+or click on the Clear Response button.
+c. To change your chosen answer, click on the bubble of another option.
+d. To save your answer, you MUST click on the Save & Next button.
+
+9. Procedure for answering a numerical answer type question:
+a. To enter a number as your answer, use the virtual numerical keypad.
+b. A fraction (e.g. -0.3 or -.3) can be entered as an answer with or without 'O'
+before the decimal point. As many as four decimal points, e.g. 12.5435 or
+0.003 or -932.6711 or 12.82 can be entered.
+c. To clear your answer, click on the Clear Response button.
+d. To save your answer, you MUST click on the Save & Next button
+10. To mark a question for review, click on the Mark for Review & Next button. /f an
+answer is selected (for MCQ) or entered (for numerical answer type) for a question
+that is Marked for Review, that answer will be considered in the evaluation unless
+
+the status is modified by the candidate.
+
+11. To change your answer to a question that has already been answered, first select
+that question for answering and then follow the procedure for answering that type of
+question.
+
+12. Note that ONLY Questions for which answers are saved or marked for review after
+answering will be considered for evaluation.
+
+Choosing a Section :
+
+13. Sections in this question paper are displayed on the top bar of the screen. Questions
+in a Section can be viewed by clicking on the name of that Section. The Section you
+are currently viewing will be highlighted.
+
+14. A checkbox is displayed for every optional Section, if any, in the Question Paper. To
+select the optional Section for answering, click on the checkbox for that Section.
+
+15. If the checkbox for an optional Section is not selected, the Save & Next button and
+the Mark for Review & Next button will NOT be enabled for that Section. You will
+
+only be able to see questions in this Section, but you will not be able to answer
+questions in the Section.
+
+16. After clicking the Save & Next button for the last question in a Section, you will
+automatically be taken to the first question of the next Section in sequence.
+
+17. You can move the mouse cursor over the name of a Section to view the answering
+status for that Section.
+
+Changing the Optional Section :
+
+18. After answering the chosen optional Section, partially or completely, you can change
+the optional Section by selecting the checkbox for a new Section that you want to
+attempt. A warning message will appear along with a table showing the number of
+questions answered in each of the previously chosen optional Sections and a
+checkbox against each of these Sections. Click on a checkbox against a Section that
+you want to reset and then click on the RESET button. Note that RESETTING a Section
+will DELETE all the answers for questions in that Section. Hence, if you think that you
+may want to select this Section again later, you will have to note down your answers
+for questions in that Section. If you do not want to reset the Section and want to
+continue answering the previously chosen optional Section, then click on the BACK
+button.
+
+19. If you deselect the checkbox for an optional Section in the top bar, the following
+warning message will appear: "Deselecting the checkbox will DELETE all the answers
+for questions in this Section. Do you want to deselect this Section?” If you want to
+deselect, click on the RESET button. If you do not want to deselect, click on the BACK
+button.
+
+20. You can shuffle between different Sections or change the optional Sections any
+number of times.
+
+GATE 2014 Examination
+CS: Computer Science & Information Technology
+
+Duration: 180 minutes Maximum Marks: 100
+
+Read the following instructions carefully.
+
+1.
+
+2
+
+10.
+
+11.
+
+12.
+13.
+
+To login, enter your Registration Number and password provided to you. Kindly go through the various
+symbols used in the test and understand their meaning before you start the examination.
+
+Once you login and after the start of the examination, you can view all the questions in the question
+paper, by clicking on the View All Questions button in the screen.
+
+This question paper consists of 2 sections, General Aptitude (GA) for 15 marks and the subject
+specific GATE paper for 85 marks. Both these sections are compulsory.
+
+The GA section consists of 10 questions. Question numbers 1 to 5 are of 1-mark each, while question
+numbers 6 to 10 are of 2-mark each.
+
+The subject specific GATE paper section consists of 55 questions, out of which question numbers 1 to
+25 are of 1-mark each, while question numbers 26 to 55 are of 2-mark each.
+
+Depending upon the GATE paper, there may be useful common data that may be required for
+answering the questions. If the paper has such useful data, the same can be viewed by clicking on the
+Useful Common Data button that appears at the top, right hand side of the screen.
+
+The computer allotted to you at the examination center runs specialized software that pennits only one
+answer to be selected for multiple-choice questions using a mouse and to enter a suitable number for
+the numerical answer type questions using the virtual keyboard and mouse.
+
+Your answers shall be updated and saved on a server periodically and also at the end of the
+examination. The examination will stop automatically at the end of 180 minutes.
+
+In each paper a candidate can answer a total of 65 questions carrying 100 marks.
+
+The question paper may consist of questions of multiple choice type (MCQ) and numerical answer
+type.
+
+Multiple choice type questions will have four choices against A, B, C, D, out of which only ONE is the
+correct answer. The candidate has to choose the correct answer by clicking on the bubble (©) placed
+before the choice.
+
+For numerical answer type questions, each question will have a numerical answer and there will not be
+any choices. For these questions, the answer should be enteredby using the virtual keyboard that
+appears on the monitor and the mouse.
+
+All questions that are not attempted will result in zero marks. However, wrong answers for multiple
+choice type questions (MCQ) will result in NEGATIVE marks. For all MCQ questions a wrong
+answer will result in deduction of 4 marks for a 1-mark question and % marks fora 2-mark question.
+There is NO NEGATIVE MARKING for questions of NUMERICAL ANSWER TYPE.
+
+Non-programmable type Calculator is allowed. Charts, graph sheets, and mathematical tables are NOT
+allowed in the Examination Hall. You must use the Scribble pad provided to you at the examination
+centre for all your rough work. The Scribble Pad has to be retumed at the end of the examination.
+
+Declaration by the candidate:
+
+“T have read and understood all the above instructions. I have also read and understood clearly the
+instructions given on the admit card and shall follow the same. I also understand that in case I am found to
+violate any of these instructions, my candidature is liable to be cancelled. I also confirm that at the start of
+the examination all the computer hardware allotted to me are in proper working condition”.
+
+GATE 2014 SET- 9 General Aptitude -GA
+
+Q.1- Q. 5 carry one mark each.
+
+Q.1
+
+Q.2
+
+Q3
+
+Q4
+
+Q.5
+
+While trying to collect an envelope from under the table, Mr. X fell down and
+I II Ill
+
+was losing consciousness.
+IV
+Which one of the above underlined parts of the sentence is NOT appropriate?
+(A)I (B) I (C) Ill (D) IV
+If she how to calibrate the instrument, she done the
+experiment.
+(A) knows, will have (B) knew, had
+(C) had known, could have (D) should have known, would have
+
+Choose the word that is opposite in meaning to the word “coherent”.
+
+(A) sticky (B) well-connected = (C) rambling (D) friendly
+Which number does not belong in the series below?
+
+2, 5, 10, 17, 26, 37, 50, 64
+
+(A) 17 (B) 37 (C) 4 (D) 26
+
+The table below has question-wise data on the perfonmance of students in an examination. The
+marks for each question are also listed. There is no negative or partial marking in the examination.
+
+Mad Answered | Answered Not
+OMe. Correctly | Wrongly | Attempted
+1 2 21 17 6
+2 3 15 27 2
+3 2 23 18 3
+What is the average of the marks obtained by the class in the examination?
+(A) 1.34 (B) 1.74 (C) 3.02 (D) 3.91
+
+Q.6- Q. 10 carry two. marks each.
+
+Q.6
+
+A dance programme is scheduled for 10.00 am. Some students are participating in the programme
+
+and they need to come an hour earlier than the start of the event. These students should be
+
+accompanied by a parent. Other students and parents should come in time for the programme. The
+
+instruction you think that is appropriate for this is
+
+(A). «Students should come at 9.00 a.m. and parents should come at 10.00 am.
+
+(B) Participating students should come at 9.00 a.m. accompanied by a parent, and other parents
+and students should come by 10.00 am.
+
+(C) Students who are not participating should come by 10.00 am. and they should not bring their
+parents. Participating students should come at 9.00 am.
+
+(D) Participating students should come before 9.00 am. Parents who accompany them should
+come at 9.00am. All others should come at 10.00 am.
+
+12
+
+GATE 2014 SET- 9 General Aptitude -GA
+
+Q.7
+
+Q8
+
+Q9
+
+By the beginning of the 20" century, several hypotheses were being proposed, suggesting a
+paradigm shift in our understanding of the universe. However, the clinching evidence was provided
+by experimental measurements of the position of a star which was directly behind our sun.
+
+Which of the following inference(s) may be drawn from the above passage?
+
+(i) Ourunderstanding of the universe changes based on the positions of stars
+(ii) Paradigm shifts usually occur at the beginning of centuries
+
+(iii) Stars are important objects in the universe
+
+(iv) Experimental evidence was important in confirming this paradigm shift
+
+(A) @, (i) and (iv) ~—(B) (i) only (C) @ and (iv) (D) (iv) only
+
+The Gross Domestic Product (GDP) in Rupees grew at 7% during 2012-2013. For intemational
+comparison, the GDP is compared in US Dollars (USD) after conversion’ based on’ the. market
+exchange rate. During the period 2012-2013 the exchange rate for the USD increased from
+Rs. 50/ USD to Rs. 60/ USD. India’s GDP in USD during the period 20122013
+
+(A) increased by 5 % (B) decreased by 13%
+(C) decreased by 20% (D) decreased by 11%
+
+The ratio of male to female students in a college for five years is plotted in the following line graph.
+If the number of female students in 2011 and 2012 is equal; what is the ratio of male students in
+2012 to male students in 2011?
+
+3.5 —
+oS 3
+ct
+P|
+% 25
+3
+§ 2
+2 is
+2
+s
+c 1 —
+So
+2 os
+oc
+ec
+0
+2008 2009 2010 2011 2012
+(A) 1:1 (B) 2:1 (C) 1.5:1 (D) 2.5:1
+
+Q.10 Consider the equation: (7526)g — (Y)s =(4364)g , where (X)w stands forX to the base N. Find Y.
+
+(A) 1634 (B) 1737 (C) 3142 (D) 3162
+
+END OF THE QUESTION PAPER
+
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.1- Q. 25 carry one mark each.
+
+Ql
+
+Q2
+
+Q3
+
+Q4
+
+Consider the following statements:
+
+P: Good mobile phones are not cheap
+Q: Cheap mobile phones are not good
+
+L: P implies Q
+M: Q implies P
+N: P is equivalent to Q
+
+Which one of the following about L, M, and N is CORRECT?
+
+(A) Only L is TRUE.
+(B) Only M is TRUE.
+(C) Only N is TRUE.
+(D) L, M and N are TRUE.
+
+Let X and Y be finite sets and f:X > Y be a function Which one of the following statements is
+TRUE?
+
+(A) For any subsets A and B of X, |f(A U B)| =|f(A)| + |F(B)|
+
+(B) For any subsets A and B of X, f(AN B) = f(A) n f(B)
+
+(C) For any subsets A and B of X, |f (AM B)| = min {| f(A), [f(B)}
+(D) For any subsets S and T of Y, f-1(S AT) = f-(S)n f-1(7)
+
+Let G be a group with 15 elements. Let L.be a subgroup of G. It is known that L # G and that the
+size of L is at least 4. The size of Lis 4
+
+Which one of the following statements is TRUE about every nxn matrix with only real
+eigenvalues?
+
+(A) If the trace of the matrix is positive and the determinant of the matrix is negative, at least one
+of its eigenvalues is negative.
+
+(B) olf the trace of the matrix is positive, all its eigenvalues are positive.
+
+(C) Ifthe determinant of the matrix is positive, all its eigenvalues are positive.
+
+(D) If the product of the trace and determinant of the matrix is positive, all its eigenvalues are
+
+positive.
+
+cs
+
+14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.5 If V; and V> are 4-dimensional subspaces of a 6-dimensional vector space V, then the smallest
+possible dimension of V; M V> is
+
+Q6 if i" |x sin x| dx = km, then the value of k is equal to
+
+Q.7 Consider the following minterm expression for F:
+
+F (P,Q,R,S) = Y 0,2,5, 7, 8,10, 13, 15
+
+The minterms 2, 7, 8 and 13 are ‘do not care’ terms. The minimal sum-of-products form for F is
+(A) Q5+ QS
+(B) QS + Qs
+(C) QRS + QRS + QRS + QRS
+(D) PQS + PQS + PQS + PQS
+
+Q.8 Consider the following combinational function block involving four Boolean variables x, y, a,
+b where x, a, b are inputs and y is the output.
+f (x, y, a, b)
+{
+
+if (x is 1) ye=a;
+else y = b;
+
+}
+Which one of the following digital logic blocks is the most suitable for implementing this function?
+(A) Full adder (B) Priority encoder (C) Multiplexor (D) Flip-flop
+
+Q.9 Consider the,following processors (ns stands for nanoseconds). Assume that the pipeline registers
+have zero latency.
+P1: Four-stage pipeline with stage latencies 1 ns, 2 ns, 2 ns, | ns.
+P2: Four-stage pipeline with stage latencies 1 ns, 1.5 ns, 1.5 ns, 1.5 ns.
+P3 Five-stage pipeline with stage latencies 0.5 ns, 1 ns, 1 ns, 0.6 ns, | ns.
+P4: Five-stage pipeline with stage latencies 0.5 ns, 0.5 ns, 1 ns, 1 ns, 1.1 ns.
+Which processor has the highest peak clock frequency?
+(A) Pl (B) P2 (C) P3 (D) P4
+
+cs 2/14
+
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.10
+
+Q.11
+
+Q.12
+
+Let A be a square matrix of size n x n. Consider the following pseudocode. What is the expected
+output?
+
+C = 100;
+for i = 1 ton do
+for j = 1 ton do
+{
+Temp = A[i] [j] + C;
+Ali] [jl= Alj] (il;
+A[j] [i] = Temp - C;
+}
+for i = 1 ton do
+
+for j = 1 ton do
+output (A[i][j]l);
+
+(A) The matrix A itself
+
+(B) Transpose of the matrix A
+
+(C) Adding 100 to the upper diagonal elements and subtracting 100.from lower diagonal elements
+ofA
+
+(D) None of the above
+
+The minimum number of arithmetic operations requifed to evaluate the polynomial
+P(X) = X°+4X3+ 6X45 for a given Value of X, using only one temporary variable is
+
+Consider the following rooted tree with the vertex labeled P as the root:
+
+P
+
+The order in which the nodes are visited during an in-order traversal of the tree is
+
+(A) SQPTRWUV
+(B) SQPTUWRV
+(C) SQPTWUVR
+(D) SQPTRUWV
+
+cs
+
+3/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.13
+
+Q.14
+
+Q.15
+
+Q.16
+
+Q.17
+
+Suppose depth first search is executed on the graph below starting at some unknown vertex.
+Assume that a recursive call to visit a vertex is made only after first checking that the vertex
+has not been visited earlier. Then the maximum possible recursion depth (including the
+initial call) is
+
+You have an array of n elements. Suppose you implement quicksort,by always choosing the central
+element of the array as the pivot. Then the tightest upper bound for the worst:case performance is
+
+(A) O(n’) (B) O(n logn) (C) @(nlogn) (DB) on’)
+
+The length of the shortest string NOT in the language\(over Y= {a,b}) of the following regular
+expression is ‘
+
+a*b*(ba)*a*
+
+Let = be a finite non-empty alphabet and let 22° be the power set of E*. Which one of the
+following is TRUE?
+
+(A) Both 2” and D* are;countable (B) 22° is countable and 2* is uncountable
+
+(C) 2° is uncotntable and 2* is countable (D) Both 22° and =* are uncountable
+
+One ofthe purposes of using intermediate code in compilers is to
+
+(A) makerparsing and semantic analysis simpler.
+
+(B) improve error recovery and error reporting.
+
+(C) increase the chances of reusing the machine-independent code optimizer in other compilers.
+
+(D) improve the register allocation.
+
+cs
+
+4/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.18 Which of the following statements are CORRECT?
+
+1) Static allocation of all data areas by a compiler makes it impossible to implement recursion.
+2) Automatic garbage collection is essential to implement recursion.
+
+3) Dynamic allocation of activation records is essential to implement recursion.
+
+4) Both heap and stack are essential to implement recursion.
+
+(A) 1 and 2 only (B) 2 and 3 only (C) 3 and 4 only (D) 1 and 3 only
+
+Q.19 Inthe context of modular software design, which one of the following combinations is desirable?
+
+(A) High cohesion and high coupling
+(B) High cohesion and low coupling
+(C) Low cohesion and high coupling
+
+(D) Low cohesion and low coupling
+
+Q.20 A system uses 3 page frames for storing process pages in main memory. It uses the Least Recently
+Used (LRU) page replacement policy. Assume that all the page frames are initially empty. What is
+the total number of page faults that will occur while processing the page reference string given
+
+below?
+4, 7, 6, 1, 7,46, may 7, 2
+
+Q.21 What is the optimized version ofsthe relation algebra expression 143 (142(r1(Gr2(r)))), where
+A1, A2 are sets of attributes in’r with Al CA2 and F1, F2 are Boolean expressions based on the
+attributes in r?
+
+(A) Tar (crt ar2) (r))
+(B) Tai (O(r1vF2)))
+(C) Maz (crrpr2) (7)
+(D) Maz (O@1vr2)@))
+
+Q.22 .Avprime attribute of a relation scheme R is an attribute that appears
+
+(A) imall candidate keys of R.
+(B) insome candidate key of R.
+(C) ina foreign key of R.
+
+(D) only in the primary key of R.
+
+cs 5/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.23
+
+Q.24
+
+Q.25
+
+In the following pairs of OSI protocol layer/sub-layer and its functionality, the INCORRECT pair
+is
+
+(A) Network layer and Routing
+(B) Data Link Layer and Bit synchronization
+(C) Transport layer and End-to-end process communication
+
+(D) Medium Access Control sub-layer and Channel sharing
+
+A bit-stuffing based framing protocol uses an 8-bit delimiter pattern of 01111110. Ifthe output
+bit-string after stuffing is 01111100101, then the input bit-string is
+
+(A) 0111110100
+(B) 0111110101
+(C) 0111111101
+(D) 0111111111
+
+Host A (on TCP/IP v4 network A) sends an IP datagram D to host B (also on TCP/IP v4 network
+B). Assume that no error occurred during the transmission,of D. When D reaches B, which of the
+following IP header field(s) may be different fromsthat ofthe original datagram D?
+
+(i) TTL (ii) Checksum (iii) Fragment Offset
+
+(A) (i) only
+
+(B) (i) and (ii) only
+(C) (ii) and (iii) only
+(D) (i), (ii) and (iii)
+
+Q. 26 - Q. 55 carry*two marks each.
+
+Q.26 An IP routerimplementing Classless Inter-domain Routing (CIDR) receives a packet with address
+
+131.239151.76. The router’s routing table has the following entries:
+
+a Output Interface
+Prefs Identifier
+131.16.0.0/ 12 3
+131.28.0.0/ 14 5
+131.19.0.0/ 16 2
+131.22.0.0/ 15 1
+
+The identifier of the output interface on which this packet will be forwarded is
+
+cs
+
+6/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.27
+
+Q.28
+
+Q.29
+
+Q.30
+
+Every host in an IPv4 network has a 1-second resolution real-time clock with battery backup. Each
+host needs to generate up to 1000 unique identifiers per second. Assume that each host has a
+globally unique IPv4 address. Design a 50-bit globally unique ID for this purpose. After what
+period (in seconds) will the identifiers generated by a host wrap around?
+
+An IP router with a Maximum Transmission Unit (MTU) of 1500 bytes has received an IP packet
+of size 4404 bytes with an IP header of length 20 bytes. The values of the relevant fields in the
+header of the third IP fragment generated by the router for this packet are
+
+(A) MF bit: 0, Datagram Length: 1444; Offset: 370
+(B) MF bit: 1, Datagram Length: 1424; Offset: 185
+(C) MF bit: 1, Datagram Length: 1500; Offset: 370
+(D) MF bit: 0, Datagram Length: 1424; Offset: 2960
+
+Consider the transactions Tl, T2, and T3 and the schedules $1 and $2_ given below.
+
+Tl: r1(X); v1(Z); wi (X); wl1(Z)
+T2: r2(Y¥); v2(Z); w2(Z)
+T3: r3(Y¥); ©3(X); w3(Y)
+
+S1: r1(X); v3 (YY); 13 (X) 7; 22(¥); L2(Z) ; w3(¥) pw2(Z) 5 v1 (Z) 5 w1(X) ; w1(Z)
+$2: xr1(X); r3(Y); r2(Y); 23 (KX); 21(Z) 5 v2 (2); w3 (Y) 5; wl (X) 5 w2(Z) 7 w1(Z)
+Which one of the following statements aboutithe schedules is TRUE?
+
+(A) Only $1 is conflict-serializable.
+
+(B) Only 82 is conflict-serializable.
+
+(C) Both $1 and S2 are conflict-serializable.
+
+(D) Neither $1 nor S2 is conflict-serializable.
+
+Consider the relational schema given below, where eId of the relation dependent is a foreign
+key referring to empTdsof the relation employee. Assume that every employee has at least one
+associated dependent in the dependent relation.
+
+employee (empId, empName, empAge)
+dependent (depId, eId, depName, depAge)
+
+Consider the following relational algebra query:
+Tempra (employee) “Tempra (employeeM(enpra = eID)A(empAge S depAge) dependent)
+
+The above query evaluates to the set of empIds of employees whose age is greater than that of
+(A) some dependent.
+
+(B) all dependents.
+
+(C) some of his/her dependents.
+
+(D) all of his/her dependents.
+
+cs
+
+TN4
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.31
+
+Q.32
+
+Q.33
+
+Q.34
+
+Q.35
+
+A system contains three programs and each requires three tape units for its operation. The
+minimum number of tape units which the system must have such that deadlocks never arise
+is .
+
+An operating system uses shortest remaining time first scheduling algorithm for pre-emptive
+scheduling of processes. Consider the following set of processes with their arrival times and CPU
+burst times (in milliseconds):
+
+Process | Arrival Time | Burst Time
+Pl 0 12
+P2 2
+P3 3
+P4 8
+
+NIA] &
+
+The average waiting time (in milliseconds) of the processes is :
+
+Consider a paging hardware with a TLB. Assume that the entire page table and all the pages are in
+the physical memory. It takes 10 milliseconds to search the TLB and 80 milliseconds to access the
+physical memory. If the TLB hit ratio is 0.6, the effective memory access time (in milliseconds) is
+
+Consider the basic block given below.
+
+»oaadp
+munud
+onanrw ds
+ttt +
+vcoaanaa
+
++
+
+The minimum number of,nodes and edges present in the DAG representation of the above basic
+block respectively are
+
+(A) oafid 6 (B) 8 and 10 (C) 9 and 12 (D) 4and4
+
+Which oneof the following problems is undecidable?
+
+(A) Deciding if a given context-free grammar is ambiguous.
+
+(B) Deciding if a given string is generated by a given context-free grammar.
+
+(C) Deciding if the language generated by a given context-free grammar is empty.
+
+(D) Deciding if the language generated by a given context-free grammar is finite.
+
+cs
+
+8/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.36
+
+Q.37
+
+Q.38
+
+Q.39
+
+Consider the following languages over the alphabet Z = {0,1, c}:
+
+L, = {0"1" |n > 0}
+L, = {wew" |w € {0,1}*}
+L3 = {ww" |w € {0,1}*}
+
+Here, w” is the reverse of the string w. Which of these languages are deterministic Context-free
+languages?
+
+(A) None of the languages
+
+(B) Only L,
+
+(C) Only L, and Lz
+
+(D) All the three languages
+
+Suppose you want to move from 0 to 100 on the number line. In each step, you either
+move right by a unit distance or you take a shortcut. A shortcut‘is»simply a,pre-specified
+pair of integers i,j with i < j. Given a shortcut i,j if you are at position i on the number
+line, you may directly move to j.. Suppose T(k) denotes‘the smallest number of steps
+needed to move from k to 100. Suppose further that there is at most 1 shortcut involving
+any number, and in particular from 9 there is a shortcut to 15, Let y and z be such that
+T(9) = 1 +min(T(y),T(Z)). Then the value of the product yz is .
+
+Consider the decision problem 2CNFSAT defined as follows:
+{ @ | @ is asatisfiable propositional formula in CNF with at most two literals per clause }
+For example, ® = (x1 v xX2)A(%1)M%3)A(X2 V X4) is a Boolean formula and it is in 2CNFSAT.
+
+The decision problemm2CNFSAT is
+
+(A) NP-Complete.
+(B) solyablein polynomial time by reduction to directed graph reachability.
+(C) | solvablein constant time since any input instance is satisfiable.
+
+(D) NP-hard, but not NP-complete.
+
+Suppose we have a balanced binary search tree T holdingn numbers. We are given two
+numbers L and H and wish to sum up all the numbers in T that lie between L and H.
+Suppose there are m such numbers in T. If the tightest upper bound on the time to
+compute the sum is O(n“ log? n+ m° log“ n), the value of a+ 10b + 100c + 1000d is
+
+cs
+
+9/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.40 Consider a hash table with 100 slots. Collisions are resolved using chaining. Assuming simple
+
+Q.41
+
+uniform hashing, what is the probability that the first 3 slots are unfilled after the first 3 insertions?
+(A) (97 x 97 x 97)/100% (B) (99 x 98 x 97)/1003
+(C) (97 x 96 x 95)/1003 (D) (97 x 96 x 95)/(3! x 100)
+
+Consider the pseudocode given below. The function DoSomething() takes as argument a
+pointer to the root of an arbitrary tree represented by the /eftMostChild-rightSibling representation.
+Each node of the tree is of type treeNode.
+
+typedef struct treeNode* treeptr;
+
+struct treeNode
+
+{
+};
+
+int DoSomething (treeptr tree)
+
+{
+
+treeptr leftMostChild, rightSibling;
+
+int value=0;
+
+if (tree != NULL) {
+if (tree->leftMostChild == NULL)
+value = 1;
+else
+value = DoSomething(tree->leftMostChild) ;
+
+value = value + DoSomething (tree->rightSibling) ;
+
+}
+
+return (value) ;
+
+}
+
+When the pointer to the root of a tree is passed as the argument to DoSomething, the value
+returned by the function corresponds to the
+
+(A) number of internal nodes inthe tree.
+(B) height of the tree.
+(C) number of nodes,without a right sibling in the tree.
+
+(D) number of leafnodes in the tree.
+
+cs
+
+10/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.42
+
+Q.43
+
+Q.44
+
+Consider the C function given below. Assume that the array listA contains n (> 0) elements,
+sorted in ascending order.
+
+int ProcessArray(int *listA, int x, int n)
+
+{
+
+int i, j, k;
+
+i = 0;
+j = n-1;
+do {
+
+k = (itj)/2;
+if (x <= listA[k])
+
+j = k-1;
+if (listA[k] <= x)
+i = k+1;
+
+}while (i <= j);
+
+if (listA[k] == x)
+return (k) ;
+else
+return -1;
+}
+
+Which one of the following statements about the functionProcessArray is CORRECT?
+
+(A) It will run into an infinite loop when x is notin lista.
+(B) It is an implementation of binary search:
+(C) It will always find the maximum element in lista.
+
+(D) It will return —1 even when x is presentin lista.
+
+An instruction pipeline has five stages, namely, instruction fetch (IF), instruction decode and
+register fetch (ID/RF), instructionexecution (EX), memory access (MEM), and register writeback
+(WB) with stage latencies b ns, 2.2 ns, 2 ns, 1 ns, and 0.75 ns, respectively (ns stands for
+nanoseconds). To gain in termsjof frequency, the designers have decided to split the ID/RF stage
+into three stages (ID, RF1, RF2) eachrof latency 2.2/3 ns. Also, the EX stage is split into two stages
+(EX1, EX2) each ‘of latency 1 ns. The new design has a total of eight pipeline stages. A program
+has 20% branch instructions which execute in the EX stage and produce the next instruction pointer
+at the end of the EX stage in the old design and at the end of the EX2 stage in the new design. The
+IF stage stalls after fetching a branch instruction until the next instruction pointer is computed. All
+instructions other than the branch instruction have an average CPI of one in both the designs. The
+execution times of this program on the old and the new design are P and Q nanoseconds,
+respectively. The value of P/Q is
+
+The*memory access time is 1 nanosecond for a read operation with a hit in cache, 5 nanoseconds
+for a read operation with a miss in cache, 2 nanoseconds for a write operation with a hit in cache
+and 10 nanoseconds for a write operation with a miss in cache. Execution of a sequence of
+instructions involves 100 instruction fetch operations, 60 memory operand read operations and 40
+memory operand write operations. The cache hit-ratio is 0.9. The average memory access time (in
+nanoseconds) in executing the sequence of instructions is
+
+cs
+
+11/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.45
+__fT_J,
+c>
+K
+The above synchronous sequential circuit built using JK flip-flops 1s, initialized with
+Q2Q1Q = 000. The state sequence for this circuit for the next 3 clock eyeles is
+(A) 001, 010, 011
+(B) 111, 110, 101
+(C) 100, 110, 111
+(D) 100, 011, 001
+Q.46 With respect to the numerical evaluation of the definite integral, K = S. x? dx, where a and b are
+given, which of the following statements is/are TRUE?
+I) The value of K obtained'using the trapezoidal rule is always greater than or equal to the
+exact value of the definite integral.
+II) The value of K,obtained using the Simpson’s rule is always equal to the exact value of
+the definite integral.
+(A) lLonly (B) ILonly (C) Both I and II (D) Neither I nor II
+Q.47 The value ofthe integral given below is
+Tw
+I x? cosx dx
+0
+(A) 21 (B) 1 (C) -1 (D) 2
+Q.48 Let S be a sample space and two mutually exclusive events A and B be such that AUB =S. If
+P(-) denotes the probability of the event, the maximum value of P(A)P(B) is
+cs 12/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.49 Consider the set of all functions f: {0,1, ...,2014} — {0,1, ...,2014} such that fF) =i,
+
+Q.50
+
+Q.51
+
+Q.52
+
+for all 0 < i < 2014. Consider the following statements:
+
+P. For each such function it must be the case that for every i, f (i) = i.
+Q. For each such function it must be the case that for some i, f (i) = i.
+R. Each such function must be onto.
+
+Which one of the following is CORRECT?
+
+(A) P, Q and R are true
+
+(B) Only Q and R are true
+
+(C) Only P and Q are true
+(D) Only R is true
+
+There are two elements x, y in a group (G,*) such that every element in the group can be
+written as a product of some number of x's and y's’in some order. It is known that
+
+X*X=ytyH=xXeyeNtySyr*KXreyrx=e
+
+where e is the identity element. The maximum number of elements in such a group is
+
+If G is a forest with n verticesjand k connected components, how many edges does G have?
+
+(A) [n/k] (B) [n/k] (C) n-k (D) n-—k+1
+
+Let 6.denote the minimum degree of a vertex in a graph. For all planar graphs on n vertices with
+6 = 3, which one’of the following is TRUE?
+
+n
+(A) In anyplanar embedding, the number of faces is at least 3 +2
+n
+(B) dn any planar embedding, the number of faces is less than 2 +2
+
+n
+(C) There is a planar embedding in which the number of faces is less than 3 +2
+
+n
+(D) There is a planar embedding in which the number of faces is at most Fe1
+
+cs
+
+13/14
+
+GATE 2014 SET-3 COMPUTER — CS
+
+Q.53
+
+Q.54
+
+Q.55
+
+The CORRECT formula for the sentence, “not all rainy days are cold” is
+(A) Vd (Rainy(d) ~~Cold(d))
+
+(B) Vd (~Rainy(d) — Cold(d))
+
+(C) dd (~Rainy(d) — Cold(d))
+
+(D) Ad (Rainy(d) A~Cold(d))
+
+Consider the following relational schema:
+
+employee (empId, empName, empDept)
+customer (custId, custName, salesRepId, rating)
+
+salesRepTd is a foreign key referring to empId of the employee relation. Assume that each
+employee makes a sale to at least one customer. What does the following query return?
+
+SELECT empName
+
+FROM employee E
+
+WHERE NOT EXISTS (SELECT custId
+FROM customer C
+WHERE C.salesRepId = E.empId
+AND C.rating <> ‘GOOD’));
+
+(A) Names of all the employees with at least’one,of their customers having a ‘GOOD’ rating.
+(B) Names of all the employees with at.most one of their customers having a ‘GOOD’ rating.
+(C) Names of all the employees with none of their customers having a ‘GOOD’ rating.
+
+(D) Names of all the employees with all their customers having a ‘GOOD’ rating.
+
+Let © denote the Exclusive OR,(XOR) operation. Let ‘1’ and ‘0’ denote the binary constants.
+Consider the following Boolean expression for F over two variables P and Q:
+
+E(P, Q) = (A@P)@(PSQ)) @ ((PSQ)@(QG0))
+The equivalent expression for F' is
+
+(A) P+Q (B) P+Q (C) P®Q (D) PQ
+
+END OF THE QUESTION PAPER
+
+cs
+
+14/14
+
+GATE 2014
+Answer Keys for CS - Computer Science and Information Technology
+
+Section | Q. No. SESSION ss Section | Q. No. SESSION S3
+
+Key / Range | Marks Key / Range | Marks
+GA 1 D 1 cs 24 B 1
+GA 2 C 1 cs 25 D 1
+GA 3 C 1 cs 26 1to1 2
+GA 4 C 1 cs 27 256 to 256 2
+GA 5 C 1 cs 28 A 2
+GA 6 B 2 cs 29 A 2
+GA 7 D 2 cs 30 D 2
+GA 8 D 2 cs 31 7to7 2
+GA 9 C 2 cs 32 5.5 to 5.5 2
+GA 10 C 2 cs 33 122 to 122 2
+ies) 1 D 1 cs 34 A 2
+cs 2 D 1 cs 35 A 2
+cs 3 5to5 1 cs 36 C 2
+cs 4 A 1 cs 37 150 to 150 2
+cS 5 2 to2 1 cs 38 B 2
+ies) 6 4to4 1 cs 39 110 to 110 2
+cs 7 B 1 cs 40 A 2
+cs 8 C 1 cs 41 D 2
+cs 9 C 1 cs 42 B 2
+cs 10 A 1 cs 43 1.50 to 1.60 2
+ies) 11 7to7 1 cs 44 1.68 to 1.68 2
+cs 12 A 1 cs 45 C 2
+cS 13 19 to 19 1 cs 46 C 2
+cs 14 A 1 cs 47 A 2
+cs 15 3 to3 1 cs 48 0.25 to 0.25 2
+cs 16 C 1 cs 49 B 2
+cs 17 C 1 cs 50 4to4 2
+cS 18 D 1 cs 51 C 2
+cs 19 B 1 cs 52 A 2
+cs 20 6 to6 1 cs 53 D 2
+cs 21 A 1 cs 54 D 2
+cs 22 B 1 cs 55 D 2
+cs 23 B 1
+
+

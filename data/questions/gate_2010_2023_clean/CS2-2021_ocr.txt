@@ -1,0 +1,1486 @@
+Computer Science and Information Technology (CS, Set-2)
+
+General Aptitude (GA)
+
+Q.1 — Q.5 Multiple Choice Question (MCQ), carry ONE mark each (for each wrong
+answer: — 1/3).
+
+QI Gauri said that she can play the keyboard her sister.
+
+(A) | as well as
+
+(B) | as better as
+
+(C) | as nicest as
+
+(D) | as worse as
+
+CS, Set-2 - Copyright © GATE 2021 Page 1 of 43
+
+Q2 '
+A transparent square sheet shown above is folded along the dotted line. The folded
+sheet will look like :
+
+Aas
+: KC
+'
+'
+'
+'
+'
+'
+'
+'
+((:)))
+i
+'
+'
+'
+'
+'
+'
+1
+(o)
+1
+'
+'
+'
+'
+'
+'
+'
+@) |r
+1
+'
+'
+'
+'
+'
+'
+'
+
+CS, Set-2 - Copyright © GATE 2021 Page 2 of 43
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q3
+
+If @is the angle, in degrees, between the longest diagonal of the cube and any
+one of the edges of the cube, then, cos 0=
+
+(A)
+
+NIB
+
+(B)
+
+als
+
+(©)
+
+nl>
+
+()
+
+[a
+
+Q4
+
+2 3
+it(s-3} -(s-3] =x+2, then the value of xis:
+
+(A)
+
+@®)
+
+©
+
+)
+
+CS, Set-2 - Copyright © GATE 2021 Page 3 of 43
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.5 Pen : Write :: Knife :
+
+Which one of the following options maintains a similar logical relation in the
+
+above?
+
+(A) | Vegetables
+
+(B) | Sharp
+
+(C) | Cut
+
+(D) | Blunt
+
+CS, Set-2 - Copyright © GATE 2021 Page 4 of 43
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q. 6-Q. 10 Multiple Choice Question (MCQ), carry TWO marks each (for each wrong
+answer: — 2/3).
+
+Q6
+
+Listening to music during exercise improves exercise performance and reduces
+discomfort. Scientists researched whether listening to music while studying can
+help students learn better and the results were inconclusive. Students who needed
+external stimulation for studying fared worse while students who did not need
+
+any external stimulation benefited from music.
+
+Which one of the following statements is the CORRECT inference of the above
+
+passage?
+
+(A)
+
+Listening to music has no effect on leamming and a positive effect on physical
+
+exercise.
+
+®)
+
+Listening to music has a clear positive effect both on physical exercise and on
+
+learning.
+
+(©)
+
+Listening to music has a clear positive effect on physical exercise. Music has a
+
+positive effect on leamming only in some students.
+
+)
+
+Listening to music has a clear positive effect on learning in all students. Music
+
+has a positive effect only in some students who exercise.
+
+CS, Set-2 - Copyright © GATE 2021
+
+Page 5 of 43
+
+
+GATE
+2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+OF
+
+A jigsaw puzzle has 2 pieces. One of the pieces is shown above. Which one of
+the given options for the missing piece when assembled will form a rectangle?
+
+The piece can be moved, rotated or flipped to assemble with the above piece.
+
+(A)
+
+@)
+
+©
+
+)
+
+elelel¢
+
+CS, Set-2 - Copyright © GATE 2021 Page 6 of 43
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q8 The number of students in three classes is in the ratio 3:13:6. If 18 students are
+added to each class, the ratio changes to 15:35:21.
+
+The total number of students in all the three classes in the beginning was:
+
+(A) | 22
+
+(B) | 66
+
+(C) | 88
+
+(D) | 110
+
+CS, Set-2 - Copyright © GATE 2021 Page 7 of 43
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q9 350
+
+300
+300 296
+
+250 240
+200
+150
+100
+100
+
+50
+
+NN
+
+\\
+
+Year 1 Year 2 Year 3
+cNumber of units miNet Profit (*)
+
+the selling price and the sum of cost and taxes paid in that year.
+
+The ratio of the selling price in Year 2 to the selling price in Year 3 is
+
+The number of units of a product sold in three different years and the respective
+net profits are presented in the figure above. The cost/unit in Year 3 was * 1, which
+was half the cost/init in Year 2. The cost/unit in Year 3 was one-third of the
+cost/unit in Year 1. Taxes were paid on the selling price at 10%, 13% and 15%
+
+respectively for the three years. Net profit is calculated as the difference between
+
+A) | 4:3
+
+(B) | 1:1
+
+(C) | 3:4
+
+(D) | 1:2
+
+CS, Set-2 - Copyright © GATE 2021
+
+Page 8 of 43
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.10
+
+Six students P, Q, R, S, T and U, with distinct heights, compare their heights
+
+and make the following observations.
+
+Observation I: S is taller than R.
+
+Observation II: Q is the shortest of all.
+
+Observation II: U is taller than only one student.
+Observation IV: T is taller than S but is not the tallest.
+
+The number of students that are taller than R is the same as the number of
+students shorter than i
+
+(A)
+
+@®)
+
+()
+
+@)
+
+CS, Set-2 - Copyright © GATE 2021 Page 9 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.1 — Q.10 Multiple Choice Question (MCQ), carry ONE mark each (for each wrong
+answer: — 1/3).
+
+Q.1 Let G be a connected undirected weighted graph. Consider the following two state-
+ments.
+S,: There exists a minimum weight edge in G which is present in every
+minimum spanning tree of G.
+So: If every edge in G has distinct weight, then G has a unique minimum
+spanning tree.
+Which one of the following options is correct?
+(A) | Both S; and So are true.
+(B) | S; is true and Sb is false.
+(C) | S; is false and Sy is true.
+(D) | Both S; and $2 are false.
+Q.2 Let H be a binary min-heap consisting of n elements implemented as an array. What
+is the worst case time complexity of an optimal algorithm to find the maximum
+element in H?
+(A) | ©()
+(B) | O(log n)
+(C) | O(n)
+(D) | O(nlog n)
+
+CS, Set-2 - Copyright © GATE 2021 Page 10 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+O23 Consider the following ANSI C program:
+int main() {
+Integer x;
+return 0;
+}
+Which one of the following phases in a seven-phase C compiler will throw an error?
+(A) | Lexical analyzer
+(B) | Syntax analyzer
+(C) | Semantic analyzer
+(D) | Machine dependent optimizer
+Q.4 The format of the single-precision floating-point representation of a real number as
+per the IEEE 754 standard is as follows:
+| sign | exponent | mantissa |
+Which one of the following choices is correct with respect to the smallest normalized
+positive number represented using the standard?
+(A) | exponent = 00000000 and mantissa = 00000000000000000000000
+(B) | exponent = 00000000 and mantissa = 00000000000000000000001
+(C) | exponent = 00000001 and mantissa = 00000000000000000000000
+(D) | exponent = 00000001 and mantissa = 00000000000000000000001
+
+CS, Set-2 - Copyright © GATE 2021 Page 11 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q5
+
+Which one of the following circuits implements the Boolean function given below?
+
+f(z, y,z) = mo +m, + m3 +m4+ms + me, where m; is the i® minterm.
+
+(A)
+
+1—
+1—
+x—
+
+4x1
+Mux
+
+$1 So
+
+wnre Oo
+
+x—
+
+¥
+
+x—
+i—
+—
+
+1—
+
+4x1 | f
+
+wnr oo
+
+Si So
+
+y 2
+
+(C)
+
+Mux a
+Si So
+fat
+
+yz
+
+0
+1—1 41
+2
+3
+
+(D)
+
+Mux
+Si_So
+
+0
+1—1 4x1
+2
+3
+
+yz
+
+CS, Set-2 - Copyright © GATE 2021 Page 12 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.6 Consider the following statements S1 and $2 about the relational data model:
+$1: A relation scheme can have at most one foreign key.
+$2: A foreign key in a relation scheme R cannot be used to refer to tuples of R.
+Which one of the following choices is correct?
+
+(A) | Both S1 and 82 are true.
+(B) | S1 is true and 82 is false.
+(C) | S1 is false and $2 is true.
+(D) | Both S1 and 82 are false.
+
+Q.7 Consider the three-way handshake mechanism followed during TCP connection es-
+tablishment between hosts P and Q. Let X and Y be two random 32-bit starting
+sequence numbers chosen by P and Q respectively. Suppose P sends a TCP connec-
+tion request message to Q with a TCP segment having SYN bit = 1, SEQ number
+= X, and ACK bit = 0. Suppose Q accepts the connection request. Which one of
+the following choices represents the information present in the TCP segment header
+that is sent by Q to P?
+
+(A) | SYN bit = 1, SEQ number = X+1, ACK bit = 0, ACK number = Y, FIN bit = 0
+(B) | SYN bit = 0, SEQ number = X+1, ACK bit = 0, ACK number = Y, FIN bit = 1
+(C) | SYN bit = 1, SEQ number = Y, ACK bit = 1, ACK number = X+1, FIN bit = 0
+(D) | SYN bit = 1, SEQ number = Y, ACK bit = 1, ACK number = X, FIN bit = 0
+
+CS, Set-2 - Copyright © GATE 2021 Page 13 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q8 What is the worst-case number of arithmetic operations performed by recursive
+binary search on a sorted array of size n?
+
+(A) | O(vn)
+
+(B) | @(logs(n))
+
+(C) | O(n?)
+
+(D) | (n)
+
+Q.9 Let L C {0,1}* be an arbitrary regular language accepted by a minimal DFA with
+k states. Which one of the following languages must necessarily be accepted by a
+minimal DFA with k states?
+
+(A) | L— {01}
+
+(B) | Lu {01}
+
+(C) | {0,1}*-L
+
+(D) | L-L
+
+CS, Set-2 - Copyright © GATE 2021 Page 14 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.10 Consider the following ANSI C program.
+
+#include <stdio.h>
+int main(){
+int arr[4] [5];
+int i, j;
+for (i=0; i<4; i++){
+for (j=0; j<5; j++{
+arr[iJ[j] = 10*i + j;
+}
+}
+printf("Z%d", *(arr[1] + 9));
+return 0;
+
+}
+
+What is the output of the above program?
+
+(A) | 14
+
+(B) | 20
+
+(c) | 24
+
+(D) | 30
+
+CS, Set-2 - Copyright © GATE 2021 Page 15 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.11 —Q.15 Multiple Select Question (MSQ), carry ONE mark each (no negative marks).
+
+Q.11 Consider the following sets, where n > 2:
+
+S;: Set of all n x n matrices with entries from the set {a, b,c}
+Sy: Set of all functions from the set {0,1,2,...,n? — 1} to the set {0, 1,2}
+
+Which of the following choice(s) is/are correct?
+
+(A) | There does not exist a bijection from S; to Sp.
+
+(B) | There exists a surjection from S; to S92.
+
+(C) | There exists a bijection from S; to $9.
+
+(D) | There does not exist an injection from S; to Sy.
+
+Q.12 Let L; be a regular language and Ly be a context-free language. Which of the
+following languages is/are context-free?
+
+(A) | Lin Ty
+
+(B) | Z,U
+
+a
+
+(C) | Ly U (Ly UT)
+
+(D) | (£19 La) U (Ly Le)
+
+CS, Set-2 - Copyright © GATE 2021 Page 16 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+In the context of compilers, which of the following is/are NOT an intermediate
+representation of the source program?
+
+(A)
+
+Three address code
+
+(B)
+
+Abstract Syntax Tree (AST)
+
+(C)
+
+Control Flow Graph (CFG)
+
+(D)
+
+Symbol table
+
+Q.u4
+
+Which of the following statement(s) is/are correct in the context of CPU scheduling?
+
+(A)
+
+Turnaround time includes waiting time.
+
+(B)
+
+The goal is to only maximize CPU utilization and minimize throughput.
+
+(C)
+
+Round-robin policy can be used even when the CPU time required by each of the
+processes is not known apriori.
+
+(D)
+
+Implementing preemptive scheduling needs hardware support.
+
+CS, Set-2 - Copyright © GATE 2021
+
+Page 17 of 43
+
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.15 Choose the correct choice(s) regarding the following propositional logic assertion
+
+8:
+S:((PAQ) > R) > ((PAQ) > (Q> R))
+
+(A) | S is neither a tautology nor a contradiction.
+
+(B) | S is a tautology.
+
+(C) | S is a contradiction.
+
+(D) | The antecedent of S is logically equivalent to the consequent of S.
+
+CS, Set-2 - Copyright © GATE 2021 Page 18 of 43
+
+(e7-¥ 8 <a Graduate Aptitude Test in Engineering 2021
+
+2821
+nia
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.16 — Q.25 Numerical Answer Type (NAT), carry ONE mark each (no negative marks).
+
+Q.16
+
+Consider a complete binary tree with 7 nodes. Let A denote the set of first 3
+elements obtained by performing Breadth-First Search (BFS) starting from the
+root. Let B denote the set of first 3 elements obtained by performing Depth-First
+Search (DFS) starting from the root.
+
+The value of |A — B| is
+
+Q.iz7
+
+Consider the following deterministic finite automaton (DFA).
+
+0
+
+0 1 Ne
+
+start > Op 0,1
+
+0
+Ne
+
+The number of strings of length 8 accepted by the above automaton is
+
+Qs
+
+If x and y are two decimal digits and (0.1101)9 = (0.8ry5),9, the decimal value of
+r+yis—_ _
+
+Q.19
+
+Consider a set-associative cache of size 2KB (1KB = 2!° bytes) with cache block
+size of 64 bytes. Assume that the cache is byte-addressable and a 32-bit address is
+used for accessing the cache. If the width of the tag field is 22 bits, the associativity
+of the cache is
+
+CS, Set-2 - Copyright © GATE 2021 Page 19 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.20
+
+Consider a computer system with DMA support. The DMA module is transferring
+one 8-bit character in one CPU cycle from a device to memory through cycle stealing
+at regular intervals. Consider a 2 MHz processor. If 0.5% processor cycles are used
+for DMA, the data transfer rate of the device is ___________ bits per’ second.
+
+Q.21
+
+A data file consisting of 1,50,000 student-records is stored on a hard disk with block
+size of 4096 bytes. The data file is sorted on the primary key Rol1No. The size of
+a record pointer for this disk is 7 bytes. Each student-record has a candidate key
+attribute called ANum of size 12 bytes. Suppose an index file with records consisting
+of two fields, ANum value and the record pointer to the corresponding student record,
+is built and stored on the same disk. Assume that the records of data file and index
+file are not split across disk blocks. The number of blocks in the index file is
+
+Q.22
+
+For a given biased coin, the probability that the outcome of a toss is a head is 0.4.
+This coin is tossed 1,000 times. Let X denote the random variable whose value
+is the number of times that head appeared in these 1,000 tosses. The standard
+deviation of X (rounded to 2 decimal places) is
+
+Q.23
+
+Consider the following ANSI C function:
+
+int SomeFunction(int x, int y)
+{
+if ((x == 1) II (y == 1)) return 1;
+if (x == y) return x;
+if (x > y) return SomeFunction(x - y, y);
+if (y > x) return SomeFunction(x, y - x);
+
+}
+
+The value returned by SomeFunction(15, 255) is
+
+CS, Set-2 - Copyright © GATE 2021 Page 20 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.24 Suppose that P is a 4 x 5 matrix such that every solution of the equation Px = 0
+is a scalar multiple of [2 5 4 3 1)". The rank of P is
+
+Q.25 Suppose that f: R — R is a continuous function on the interval [-3, 3] and
+a differentiable function in the interval (-3, 3) such that for every x in the
+interval, f'(x) = 2. If f(-3) = 7, then f(3) is at most
+
+CS, Set-2 - Copyright © GATE 2021 Page 21 of 43
+
+(e7-¥ 8 <a Graduate Aptitude Test in Engineering 2021
+
+2821
+
+anak ese ree
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.26 — Q.39 Multiple Choice Question (MCQ), carry TWO mark each (for each wrong
+answer: — 2/3).
+
+Q.26 Consider the string abbccddeee. Each letter in the string must be assigned a
+binary code satisfying the following properties:
+
+1. For any two letters, the code assigned to one letter must not be a prefix of the
+code assigned to the other letter.
+
+2. For any two letters of the same frequency, the letter which occurs earlier in the
+dictionary order is assigned a code whose length is at most the length of the
+code assigned to the other letter.
+
+Among the set of all binary code assignments which satisfy the above two properties,
+
+what is the minimum length of the encoded string?
+
+(A) | 21
+(B) | 23
+(C) | 25
+(D) | 30
+
+CS, Set-2 - Copyright © GATE 2021 Page 22 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+37 Assume a two-level inclusive cache hierarchy, L1 and L2, where L2 is the larger of
+the two. Consider the following statements.
+
+S;: Read misses in a write through L1 cache do not result in writebacks
+of dirty lines to the L2.
+
+Sq: Write allocate policy must be used in conjunction with write
+through caches and no-write allocate policy is used with writeback
+caches.
+
+Which of the following statements is correct?
+
+(A) | S; is true and Sy is false
+
+(B) | Si is false and So is true
+
+(C) | S; is true and Sy is true
+
+(D) | S; is false and Sy is false
+
+CS, Set-2 - Copyright © GATE 2021 Page 23 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.28
+
+Suppose we want to design a synchronous circuit that processes a string of 0's
+and 1's. Given a string, it produces another string by replacing the first 1 in any
+subsequence of consecutive 1’s by a 0. Consider the following example.
+
+Input sequence: — 00100011000011100
+Output sequence: —00000001000001100
+
+A Mealy Machine is a state machine where both the next state and the output are
+functions of the present state and the current input.
+
+The above mentioned circuit can be designed as a two-state Mealy machine. The
+states in the Mealy machine can be represented using Boolean values 0 and 1. We
+denote the current state, the next state, the next incoming bit, and the output bit
+of the Mealy machine by the variables s, t, b and y respectively.
+
+Assume the initial state of the Mealy machine is 0.
+
+What are the Boolean expressions corresponding to ¢ and y in terms of s and b?
+
+(A)
+
+t=s+b
+y=sb
+
+(B)
+
+(C)
+
+(D)
+
+CS, Set-2 - Copyright © GATE 2021 Page 24 of 43
+
+(e7-¥ 8 <a Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.29
+
+In an examination, a student can choose the order in which two questions (QuesA
+
+and QuesB) must be attempted.
+
+- If the first question is answered wrong, the student gets zero marks.
+
+- If the first question is answered correctly and the second question is not answered
+correctly, the student gets the marks only for the first question.
+
+- If both the questions are answered correctly, the student gets the sum of the
+marks of the two questions.
+
+The following table shows the probability of correctly answering a question and the
+
+marks of the question respectively.
+
+question | probability of answering correctly | marks
+QuesA 0.8 10
+QuesB 0.5 20
+
+Assuming that the student always wants to maximize her expected marks in the
+examination, in which order should she attempt the questions and what is the
+expected marks for that order (assume that the questions are independent)?
+
+(A)
+
+First QuesA and then QuesB. Expected marks 14.
+
+(B)
+
+First QuesB and then QuesA. Expected marks 14.
+
+(C)
+
+First QuesB and then QuesA. Expected marks 22.
+
+(D)
+
+First QuesA and then QuesB. Expected marks 16.
+
+CS, Set-2 - Copyright © GATE 2021 Page 25 of 43
+
+(e7-¥ 8 <a Graduate Aptitude Test in Engineering 2021
+
+2821
+sae
+Computer Science and Information Technology (CS, Set-2)
+Q.30 Consider the following ANSI C code segment:
+
+z= x+3 + y->fi + y->f2;
+for (i = 0; i < 200; i=i + 2){
+if (z>i){
+p-p+x+3;
+q= q+ yh;
+} else {
+P= pt y->£2;
+q=q+x+ 3;
+}
+z
+
+Assume that the variable y points to a struct (allocated on the heap) containing
+two fields £1 and £2, and the local variables x, y, z, p, q, and i are allotted
+registers. Common sub-expression elimination (CSE) optimization is applied on
+the code. The number of addition and dereference operations (of the form y->f1
+or y->f2 ) in the optimized code, respectively, are:
+
+(A)
+
+403 and 102
+
+(B)
+
+203 and 2
+
+(C)
+
+303 and 102
+
+(D)
+
+303 and 2
+
+CS, Set-2 - Copyright © GATE 2021 Page 26 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.31 The relation scheme given below is used to store information about the employees of
+a company, where empId is the key and deptId indicates the department to which
+the employee is assigned. Each employee is assigned to exactly one department.
+
+emp(empId, name, gender, salary, deptId)
+Consider the following SQL query:
+select deptId, count(*)
+from emp
+where gender = "female" and salary > (select avg(salary) from emp)
+group by deptId;
+The above query gives, for each department in the company, the number of
+female employees whose salary is greater than the average salary of
+(A) | employees in the department.
+(B) | employees in the company.
+(C) | female employees in the department.
+(D) | female employees in the company.
+
+CS, Set-2 - Copyright © GATE 2021 Page 27 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.32 Let S be the following schedule of operations of three transactions T,, T) and T
+
+in a relational database system:
+RY), R(X), Ra(Z), Ri(¥), Wi(X), Ro(Z), Wo(¥), R(X), Wa(Z)
+Consider the statements P and Q below:
+P: S is conflict-serializable.
+Q: If T; commits before T; finishes, then S is recoverable.
+Which one of the following choices is correct?
+(A) | Both P and Q are true.
+(B) | P is true and Q is false.
+(C) | P is false and Q is true.
+(D) | Both P and Q are false.
+
+Q.33 A bag has r red balls and b black balls. All balls are identical except for their
+colours. In a trial, a ball is randomly drawn from the bag, its colour is noted and
+the ball is placed back into the bag along with another ball of the same colour.
+Note that the number of balls in the bag will increase by one, after the trial. A
+sequence of four such trials is conducted. Which one of the following choices gives
+the probability of drawing a red ball in the fourth trial?
+
+i
+(A) | =a
+¥
+(B) | -po33
+r+3
+(C) | 3
+r r+1 r+2 r+3
+(D) (=) Ga (i) (Fs)
+
+CS, Set-2 - Copyright © GATE 2021 Page 28 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.34 Consider the cyclic redundancy check (CRC) based error detecting scheme having
+the generator polynomial X* +X +1. Suppose the message mymamgm mp = 11000
+is to be transmitted. Check bits cycjcg are appended at the end of the message by
+the transmitter using the above CRC scheme. The transmitted bit string is denoted
+by mymgmgmy,moc2c1c9. The value of the checkbit sequence c2c}c9 is
+
+(A) | 101
+
+(B) | 110
+
+(C) | 100
+
+(D) | 111
+
+CS, Set-2 - Copyright © GATE 2021 Page 29 of 43
+
+(e7-¥ 8 <a Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.35 Consider the following ANSI C program:
+
+#include <stdio.h>
+#include <stdlib.h>
+struct Node{
+int value;
+struct Node *next;};
+int main(){
+struct Node *boxE, *head, *boxN; int index = 0;
+boxE = head = (struct Node *) malloc(sizeof (struct Node));
+head->value = index;
+for (index = 1; index <= 3; index++){
+boxN = (struct Node *) malloc(sizeof(struct Node)) ;
+boxE->next = boxN;
+boxN->value = index;
+boxE = boxN; }
+for (index = 0; index <= 3; index++) {
+printf("Value at index %d is %d\n", index, head->value) ;
+head = head->next;
+printf("Value at index 4d is %d\n", index+i, head->value); } }
+
+Which one of the statements below is correct about the program?
+
+(A) | Upon execution, the program creates a linked-list of five nodes.
+
+(B) | Upon execution, the program goes into an infinite loop.
+
+(C) | It has a missing return which will be reported as an error by the compiler.
+
+(D) | It dereferences an uninitialized pointer that may result in a run-time error.
+
+CS, Set-2 - Copyright © GATE 2021 Page 30 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.36 Consider the following two statements about regular languages:
+S;: Every infinite regular language contains an undecidable language as a subset.
+So: Every finite language is regular.
+Which one of the following choices is correct’?
+(A) | Only Sj is true.
+(B) | Only So is true.
+(C) | Both S; and Sy are true.
+(D) | Neither S, nor Sy is true.
+Q.37 For two n-dimensional real vectors P and Q, the operation s(P,Q) is defined as
+follows:
+n
+(P,Q) =) (Pll - Qi)
+i=1
+Let £ be a set of 10-dimensional non-zero real vectors such that for every pair of
+distinct vectors P,Q € L, s(P,Q) = 0. What is the maximum cardinality possible
+for the set £L?
+(A) | 9
+(B) | 10
+(C) } 11
+(D) | 100
+
+CS, Set-2 - Copyright © GATE 2021 Page 31 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.38 For a statement S in a program, in the context of liveness analysis, the following
+sets are defined:
+USE(S) : the set of variables used in S
+IN(S) : the set of variables that are live at the entry of S
+OUT(S) : the set of variables that are live at the exit of S
+Consider a basic block that consists of two statements, S; followed by So.
+Which one of the following statements is correct?
+(A) | OUT(S,) = IN(S9)
+(B) | OUT(S;) = IN(S;) U USE(S;)
+(C) | OUT(S;) = IN(S2) U OUT (S2)
+(D) | OUT(S;) = USE(S;) U IN(S2)
+Q.39 For constants a > 1 and b > 1, consider the following recurrence defined on the
+non-negative integers:
+n
+T(n) =a-T (7) + f(n)
+Which one of the following options is correct about the recurrence T(n)?
+(A) | If f(n) is nlogy(n), then T(n) is O(n log,(n)).
+(B) | If f(n) is cna then T(n) is @(logy(n)).
+(C) | If f(n) is O(n!’ -*) for some € > 0, then T(n) is O(n!®).,
+(D) | If f(n) is O(n™™), then T(n) is O(n'°%).
+
+CS, Set-2 - Copyright © GATE 2021 Page 32 of 43
+
+(e7-¥ 8 <a Graduate Aptitude Test in Engineering 2021
+2821
+ae PO
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.40— Q.47 Multiple Select Question (MSQ), carry TWO mark each (no negative marks).
+
+Q.40 Suppose the following functional dependencies hold on a relation U with attributes
+P,Q, R, S, and T:
+
+P+QR
+RS +T
+
+Which of the following functional dependencies can be inferred from the above
+functional dependencies?
+
+(A) | PS3T
+
+(B)|R+T
+
+(Cc) |P3R
+
+(D) | PS+Q
+
+QA1 For a string w, we define w” to be the reverse of w. For example, if w = 01101
+then w® = 10110.
+Which of the following languages is/are context-free?
+
+(A) | {wrw®x® | w, x € {0,1}"}
+
+(B) | {ww®rx | w,x € {0,1}*}
+
+(C) | {wrw" | w, x € {0,1}*}
+
+(D) | {wrr?w® | w,x € {0,1}*}
+
+CS, Set-2 - Copyright © GATE 2021 Page 33 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.A2 Consider the following multi-threaded code segment (in a mix of C and pseudo-
+code), invoked by two processes P1 and P2, and each of the processes spawns two
+threads T1 and T2:
+
+int x =0; // global
+Lock L1; // global
+main() {
+create a thread to execute foo(); // Thread Ti
+create a thread to execute foo(); // Thread T2
+wait for the two threads to finish execution;
+print (x);}
+
+foo) {
+int y= 0;
+Acquire L1;
+x=x #4;
+yoy 4;
+Release L1;
+print (y);}
+
+Which of the following statement(s) is/are correct?
+
+(A) | Both P1 and P2 will print the value of x as 2.
+
+(B) | At least one of P1 and P2 will print the value of x as 4.
+
+(C) | At least one of the threads will print the value of y as 2.
+
+(D) | Both T1 and T2, in both the processes, will print the value of y as 1.
+
+CS, Set-2 - Copyright © GATE 2021 Page 34 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.43 Consider a computer system with multiple shared resource types, with one instance
+per resource type. Each instance can be owned by only one process at a time.
+Owning and freeing of resources are done by holding a global lock (L). The following
+scheme is used to own a resource instance :
+function OWNRESOURCE(Resource R)
+Acquire lock L // a global lock
+if R is available then
+Acquire R
+Release lock L
+else
+if R is owned by another process P then
+Terminate P, after releasing all resources owned by P
+Acquire R.
+Restart P
+Release lock L
+end if
+end if
+end function
+
+Which of the following choice(s) about the above scheme is/are correct?
+
+(A) | The scheme ensures that deadlocks will not occur.
+
+(B) | The scheme may lead to live-lock.
+
+(C) | The scheme may lead to starvation.
+
+(D) | The scheme violates the mutual exclusion property.
+
+CS, Set-2 - Copyright © GATE 2021 Page 35 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.44 If the numerical value of a 2-byte unsigned integer on a little endian computer
+is 255 more than that on a big endian computer, which of the following choices
+represent(s) the unsigned integer on a little endian computer?
+
+(A) | 0x6665
+
+(B) | 0x0001
+
+(C) | 0x4243
+
+(D) | 0x0100
+
+CS, Set-2 - Copyright © GATE 2021 Page 36 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.45
+
+Consider a computer network using the distance vector routing algorithm in its
+network layer. The partial topology of the network is as shown below.
+
+R
+
+od ¢
+
+The objective is to find the shortest-cost path from the router R to routers P and Q.
+Assume that R does not initially know the shortest routes to P and Q. Assume that
+R has three neighbouring routers denoted as X, Y, and Z. During one iteration,
+R measures its distance to its neighbours X, Y, and Z as 3, 2, and 5, respectively.
+Router R gets routing vectors from its neighbours that indicate that the distance
+to router P from routers X, Y, and Z are 7, 6, and 5, respectively. The routing
+vector also indicates that the distance to router Q from routers X, Y, and Z are
+4, 6, and 8, respectively. Which of the following statement(s) is/are correct with
+respect to the new routing table of R, after updation during this iteration?
+
+(A)
+
+The distance from R to P will be stored as 10.
+
+(B)
+
+The distance from R to Q will be stored as 7.
+
+(C)
+
+The next hop router for a packet from R to P is Y.
+
+(D)
+
+The next hop router for a packet from R to Q is Z.
+
+CS, Set-2 - Copyright © GATE 2021 Page 37 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.46 Consider the following directed graph:
+
+. *¢
+
+Which of the following is/are correct about the graph?
+
+(A) | The graph does not have a topological order.
+
+(B) | A depth-first traversal starting at vertex S classifies three directed edges as back
+edges.
+
+(C) | The graph does not have a strongly connected component.
+
+(D) | For each pair of vertices u and v, there is a directed path from u to v.
+
+CS, Set-2 - Copyright © GATE 2021 Page 38 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+QAT Which of the following regular expressions represent(s) the set of all binary numbers
+that are divisible by three? Assume that the string € is divisible by three.
+
+(A) | (0+1(01°0)*1)"
+
+(B) | (0+ 11 + 10(1 + 00)*01)*
+
+(C) | (0*(1(01°0)*1)*)*
+
+(D) | (0 +11 + 11(1 +00)*00)*
+
+CS, Set-2 - Copyright © GATE 2021 Page 39 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.48 — Q.55 Numerical Answer Type (NAT), carry TWO mark each (no negative marks).
+
+Q.48 Consider a three-level page table to translate a 39-bit virtual address to a physical
+address as shown below.
+
+—— Se 39-bit virtual address ----
+
+| Level 1 | Level 2 | Level 3 | Page
+
+| offset | offset | offset |
+
+Weel scrnglithemeee! eee ee Be eel DN veclillaiabdeatlesl
+9 bits 9 bits 9 bits
+
+The page size is 4KB (1KB = 2"° bytes) and page table entry size at every level
+is 8 bytes. A process P is currently using 2GB (1GB = 2” bytes) virtual memory
+which is mapped to 2GB of physical memory. The minimum amount of memory
+required for the page table of P across all levels is _______ KB.
+
+Q.49 Consider the following ANSI C program.
+
+#include <stdio.h>
+
+int foo(int x, int y, int q)
+
+{
+if ((x <= 0) && (y <= 0))
+return q;
+if (x <= 0)
+return foo(x, y-q, q);
+if (y <= 0)
+return foo(x-q, y, q);
+return foo(x, y-q, q) + foo(x-q, y, q);
+}
+int main()
+<
+int r = foo(15,15,10);
+printf("Zd", r);
+return 0;
+}
+
+The output of the program upon execution is
+
+CS, Set-2 - Copyright © GATE 2021 Page 40 of 43
+
+(e7-¥ 8 <a Graduate Aptitude Test in Engineering 2021
+2821
+cs ove PON
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.50 Let S be a set consisting of 10 elements. The number of tuples of the form (A, B)
+such that A and B are subsets of S, and A C B is 7
+
+Q.51 Consider the following augmented grammar with {#, @, <, >, a, b, c} as the set
+of terminals.
+
+S—8
+S—+S#cS
+sss
+s-S@
+Ss-<S>
+Sa
+S+b
+Sc
+
+Let Ip = CLOSURE({S’ -+ eS}). The number of items in the set
+GOTO(GOTO(Ip, < ), <) is .
+
+Q.52 Consider a Boolean function f(w, x,y, z) such that
+
+f(w,0,0,z) = 1
+fG,2,1,2) = 2+2
+f(w,1,y,z) = wzt+y
+
+The number of literals in the minimal sum-of-products expression of f is
+
+CS, Set-2 - Copyright © GATE 2021 Page 41 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Consider a pipelined processor with 5 stages, Instruction Fetch (IF), Instruction
+Decode (ID), Execute (EX), Memory Access (MEM), and Write Back (WB). Each stage
+of the pipeline, except the EX stage, takes one cycle. Assume that the ID stage
+merely decodes the instruction and the register read is performed in the EX stage.
+The EX stage takes one cycle for ADD instruction and two cycles for MUL instruction.
+Ignore pipeline register latencies.
+
+Consider the following sequence of 8 instructions:
+
+ADD, MUL, ADD, MUL, ADD, MUL, ADD, MUL
+
+Assume that every MUL instruction is data-dependent on the ADD instruction just
+before it and every ADD instruction (except the first ADD) is data-dependent on the
+MUL instruction just before it. The Speedup is defined as follows:
+
+Execution time without operand forwarding
+
+Speed =
+a Execution time with operand forwarding
+
+The Speedup achieved in executing the given instruction sequence on the pipelined
+processor (rounded to 2 decimal places) is
+
+Consider a network using the pure ALOHA medium access control protocol, where
+each frame is of length 1,000 bits. The channel transmission rate is 1 Mbps (= 10°
+bits per second). The aggregate number of transmissions across all the nodes (in-
+cluding new frame transmissions and retransmitted frames due to collisions) is
+modelled as a Poisson process with a rate of 1,000 frames per second. Throughput
+is defined as the average number of frames successfully transmitted per second. The
+throughput of the network (rounded to the nearest integer) is
+
+CS, Set-2 - Copyright © GATE 2021 Page 42 of 43
+
+Graduate Aptitude Test in Engineering 2021
+
+Computer Science and Information Technology (CS, Set-2)
+
+Q.55 In a directed acyclic graph with a source vertex s, the quality-score of a directed
+path is defined to be the product of the weights of the edges on the path. Further,
+for a vertex v other than s, the quality-score of v is defined to be the maximum
+among the quality-scores of all the paths from s to v. The quality-score of s is
+assumed to be 1.
+
+The sum of the quality-scores of all the vertices in the graph shown above is
+
+END OF QUESTION PAPER
+
+CS, Set-2 - Copyright © GATE 2021 Page 43 of 43
+
+GATE 2021 Answer Key for Computer Science and Information Technology (CS - 2)
+Graduate Aptitude Test in Engineering (GATE 2021)
+
+Subject/Paper: Computer Science and Information Technology (CS - 2)
+
+Q. No. | Session breil jm geiace wanes ‘eas.
+1 6 McQ GA A 1 ve
+2 6 McQ GA B 1. 1/3
+= 6 McQ GA B 1 1/3
+“ 6 Mca GA B 1 1/3
+: 6 McQ GA Cc 1 1/3
+6 6 McQ GA C 2 2/3
+s 6 McQ GA A 2 2/3
+5 6 McQ GA Cc 2 2/3
+4 6 McQ GA A 2 2/3
+
+10 6 McQ GA c 7 4
+| | | | | [|
+1 6 McQ cs ag 1 1/3
+2 6 MCQ cs (os al 1/3
+3 6 McQ cs c 1 1/3
+A 6 McQ cs € 1 1/3
+5 6 McQ cs A 1 1/3
+6 5 McQ cs D 1 a8
+7 6 McQ CS € 1 1/3
+8 6 McQ cs B x4 1/3
+9 6 McQ cs é 1 1/3
+10 6 McQ cs c 1 1/3
+11 6 MsQ cs ici °
+
+
+GATE 2021 Answer Key for Computer Science and Information Technology (CS - 2)
+
+Q.No. | session | scaymasc/nat | Name | Key/nange | ME | Nerks.
+12 6 MSQ cs B;C;D 1 fe)
+13 6 MsQ cs D 1 )
+14 6 MSQ cs A;C;D 1 )
+15 6 MsQ cs B;D a )
+16 6 NAT cs 1to1 1 0
+17 6 NAT cs 256 to 256 1 0
+18 6 NAT cs 3to3 1 0
+19 6 NAT cs 2to2 1 0
+20 6 NAT cs cg 1 0
+21 6 NAT cs 698 to 698 1 0
+22 6 NAT cs |45.00to 16.00} 1 0
+23 6 NAT cs 15 to 15 1 0
+24 6 NAT cs Ato4 1 0
+25 6 NAT cs 19 to 19 1 0
+26 6 McQ cs B 2 2/3
+27 6 McQ cs A 2 2/3
+28 6 McQ cs B 2 2/3
+29 6 MCQ cs D 2 2/3
+30 6 McQ cs D 2 2/3
+31 6 McQ cs B 2 2/3
+32 6 MCQ cs B 2 2/3
+33 6 McQ cs A 2 2/3
+34 6 McQ cs c 2 2/3
+
+
+GATE 2021 Answer Key for Computer Science and Information Technology (CS - 2)
+
+Q.No. | session | scaymasc/nat | Name | Key/nange | ME | Nerks.
+35 6 MCQ cs D 2 2/3
+36 6 McQ cs c 2 2/3
+37 6 MCQ cs B 2 2/3
+38 6 McQ cs A 2 2/3
+39 6 McQ cs c 2 2/3
+40 6 MSQ cs A; C;D 2 0
+41 6 MSQ cs B;C;D 2 0
+42 6 MSQ cs A;D 2 0
+43 3 MSQ cs A; B;C 2 0
+4A 6 MSQ cs A;D 2 0
+45 6 MSQ cs B;Cc 2 0
+46 6 MSQ cs A:B 2 0
+a7 6 MSQ cs A; B;C 2 0
+48 6 NAT cs | 4108 to 4108 2 0
+49 6 NAT cs 60 to 60 2 0
+50 6 NAT cs pg 2 0
+51 6 NAT cs 8to8 2 0
+52 6 NAT cs 6to6 2 0
+53 6 NAT cs 1.87 to 1.88 2 0
+54 6 NAT cs 130 to 140 2 0
+55 6 NAT cs 929 to 929 2 0
+
+

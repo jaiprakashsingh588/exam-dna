@@ -1,0 +1,945 @@
+Graduate Aptitude Test in Engineering 2017
+
+Question Paper Name: Computer Science and Information Technology 11th Feb 2017 session 2
+Subject Name: Computer Science and Information Technology
+
+Duration: 180
+
+Total Marks: 100
+
+Organizing Institute:
+Indian Institute of Technology Roorkee
+
+
+Question Number : 1 Correct : 1 Wrong : -0.33
+
+The representation of the value of a 16-bit unsigned integer Y in hexadecimal number system is
+BCA9. The representation of the value of Yin octal number system is
+
+(A) 571244 (B) 736251 (C) 571247 (D) 136251
+
+Question Number : 2 Correct : 1 Wrong : -0.33
+
+Match the following:
+
+(P) static char var; (i) Sequence of memory locations to store addresses
+(Q)m = malloc(10); (ii) A variable located in data section of memory
+
+m = NULL;
+(R) char *ptr[10]; (iii) Request to allocate a CPU register to store data
+(S)register int varl; | (iv) A lost memory which cannot be freed
+
+(A) P= (ii). Q > (iv), R— (i). S > (iii) (B) P — (ii). Q > (i), R= (iv). S > (itd)
+(C) P > (ii), Q > (iv), R (iii), S (i) (D) P > (iii), Q > (iv), R> (i). S > (ii)
+
+Question Number : 3 Correct : 1 Wrong : -0.33
+
+Match the algorithms with their time complexities:
+
+Algorithm Time complexity
+(P) Towers of Hanoi with 7 disks (i) O(n?)
+(Q) Binary search given 7 sorted numbers (ii) O(n log n)
+
+(R) Heap sort given 7 numbers at the worst case (iii) @(2")
+
+(S) Addition of two n x n matrices (iv) O(log 7)
+
+(A) P = (iii), Q > (iv). R— (i), S > Gi)
+(B) P > (iv), Q = (iii), R-> (@), S > (id)
+(C) P > (iii), Q > (iv), R > (ii). S> @
+(D) P = (iv), Q > (iii), R > (i). SD
+
+Question Number : 4 Correct : 1 Wrong : -0.33
+
+Let L,, Lz be any two context-free languages and R be any regular language. Then which of the
+following is/are CORRECT?
+
+I. Ly U Lz is context-free.
+II. L, is context-free.
+
+Ill. L, — R is context-free.
+IV. L, N Lz is context-free.
+
+(A) LIandIV only (B) Land III only (C) ILand IV only (D) Ionly
+
+Question Number : 5 Correct : 1 Wrong : -0.33
+
+Match the following according to input (from the left column) to the compiler phase (in the right
+column) that processes it:
+
+(P) Syntax tree (i) Code generator
+
+(Q) Character stream (ii) Syntax analyzer
+(R) Intermediate representation (iii) Semantic analyzer
+(S) Token stream (iv) Lexical analyzer
+
+(A) P > (ii). Q > (iii). R > (iv). S > (i)
+(B) P= (ii). Q > (i), R= (iii). S > (iv)
+(C) P= (iii), Q > (iv). R @eS > (ii)
+(D) P > (i). Q > (iv), R Gi), S — (iii)
+
+Question Number : 6 Correct : 1 Wrong : -0.33
+
+Which of the following statements about parser is/are CORRECT?
+I. Canonical LR is more powerful than SLR.
+
+II. SLR is more powerful than LALR.
+III. SLR is more powerful than Canonical LR.
+
+(A) Tonly (B) I only (C) II only (D) I and III only
+
+Question Number : 7 Correct : 1 Wrong : -0.33
+
+Which of the following is/are shared by all the threads in a process?
+
+I. Program counter
+II. Stack
+
+III. Address space
+IV. Registers
+
+(A) Land II only (B) III only (C) IV only (D) III and IV only
+
+Question Number : 8 Correct : 1 Wrong : -0.33
+
+In a file allocation system, which of the following allocation scheme(s) can be used if no external
+fragmentation is allowed?
+
+I. Contiguous
+
+II. Linked
+
+Ill. Indexed
+(A) Land III only (B) II only (C) III only (D) II and III only
+Question Number : 9 Correct : 1 Wrong : -0.33
+
+Consider the following statements about the routing protocols. Routing Information Protocol (RIP)
+and Open Shortest Path First (OSPF) in an IPv4 network.
+
+I: RIP uses distance vector routing
+
+II: RIP packets are sent using UDP
+
+II: OSPF packets are sent using TCP
+
+IV: OSPF operation is based on link-state routing
+
+Which of the statements above are CORRECT?
+
+(A) Land IV only
+
+(B) I, I and III only
+(C) I, ILand IV only
+(D) II. III and IV only
+
+Question Number : 10 Correct : 1 Wrong : -0.33
+
+If f(x) = R sin (=) +S. f' () = V2 and E f(x)dx = as then the constants R and S are.
+respectively
+
+(A) : and = (B) = and 0
+4 4 16
+(C) = and 0 (D) a and i
+Question Number : 11 Correct : 1 Wrong : -0.33
+
+Let p. g, 7 denote the statements “Jr is raining”. “It is cold”, and “It is pleasant’. respectively. Then
+the statement “Jt is not raining and it is pleasant, and it is not pleasant only if it is raining and it is
+cold” is represented by
+
+(A) CPANACT AQ) B)CPAnNA@AD--")
+(CC) CpaAnv(Prag--r) (D) CPANVE>CAQ)
+Question Number : 12 Correct : 1 Wrong : -0.33
+
+Given the following binary number in 32-bit (single precision) IEEE-754 format:
+00111110011011010000000000000000
+
+The decimal value closest to this floating-point number is
+
+(A) 1.45 x 102 (B) 1.45 x 1071 (C) 2.27 x 107} (D) 2.27 x 10?
+
+Question Number : 13 Correct : 1 Wrong : -0.33
+
+A circular queue has been implemented using a singly linked list where each node consists of a
+value and a single pointer pointing to the next node. We maintain exactly two external pointers
+FRONT and REAR pointing to the front node and the rear node of the queue. respectively. Which of
+the following statements is/are CORRECT for such a circular queue. so that insertion and deletion
+operations can be performed in O(1) time?
+
+I. __ Next pointer of front node points to the rear node.
+II. Next pointer of rear node points to the front node.
+
+(A) I only (B) II only
+(C) Both I and II (D) Neither I nor II
+
+Question Number : 14
+
+Correct : 1 Wrong : -0.33
+
+Consider the following function implemented in C:
+
+void. Printky (ink x, dank. yy ¢
+
+}
+
+int. *per?
+x (=| O;
+
+ptr = &x;
+¥ = “per
+‘per = Ge
+joe ae HOME| pr
+
+130”",X,y)i
+
+The output of invoking printxy (1,1) is
+
+(A) 0,0
+
+Question Number : 15
+
+(B) 0.1 (C) 1.0 (D) 1.1
+
+Correct : 1 Wrong: -0.33
+
+The Breadth First Search (BFS) algorithm has been implemented using the queue data structure.
+Which one of the following is a possible order of visiting the nodes in the graph below?
+
+(A) MNOPQR
+(B) NQMPOR
+(C) QMNROP
+(D) POQNMR
+
+M (nN) O
+
+@) @—®
+
+Question Number : 16 Correct : 1 Wrong : -0.33
+
+Identify the language generated by the following grammar. where S is the start variable.
+
+S > XY
+X>axX|a
+Y>aYble
+(A) {a™b" |m =n, n>0} (B){a™b" |m=n, n=0}
+(C) {a™b" |m>n, n=O} (D) {a™b" |m>n, n>0}
+Question Number : 17 Correct : 1 Wrong : -0.33
+
+An ER model of a database consists of entity types A and B. These are connected by a relationship
+R which does not have its own attribute. Under which one of the following conditions, can the
+relational table for R be merged with that of A?
+
+(A) Relationship R is one-to-many and the participation of A in R is total.
+(B) Relationship R is one-to-many and the participation of A in R is partial.
+(C) Relationship R is many-to-one and the participation of A in R is total.
+
+(D) Relationship R is many-to-one and the participation of A in R is partial.
+
+Question Number : 18 Correct : 1 Wrong : -0.33
+
+Consider socket API on a Linux machine that supports connected UDP sockets. A connected UDP
+socket is a UDP socket on which connect function has already been called. Which of the
+following statements is/are CORRECT?
+
+ii A connected UDP socket can be used to communicate with multiple peers
+simultaneously.
+
+II. A process can successfully call connect function again for an already connected UDP
+socket.
+
+(A) Tonly
+
+(B) II only
+
+(C) Both I and II
+
+(D) Neither I nor II
+
+Question Number : 19 Correct: 1 Wrong: 0
+
+Consider the following tables T1 and T2.
+
+tl T2
+
+AI] Alo] wlolrmla
+NI] alalrm[wlr|~n
+
+Ole} alu}|al{w]roleg
+WCW] o]oo]wlo}mio
+
+In table T1, P is the primary key and Q is the foreign key referencing R in table T2 with on-delete
+cascade and on-update cascade. In table T2, R is the primary key and S is the foreign key
+referencing P in table T1 with on-delete set NULL and on-update cascade. In order to delete record
+(3,8) from table T1, the number of additional records that need to be deleted from table T1 is
+
+Question Number : 20 Correct: 1 Wrong: 0
+
+The maximum number of [Pv4 router addresses that can be listed in the record route (RR) option
+field of an IPv4 header is
+
+Question Number : 21 Correct : 1 Wrong : 0
+
+Consider the set X = {a,b,c,d,e} under the partial ordering
+R= {(a,a), (a,b), (a,c). (a.d), (a, e). (6.5). (b,c). (b, e). (c..c). (c. e). (d.d). (d.e). (e.e)} .
+The Hasse diagram of the partial order (XY, R) is shown below.
+
+The minimum number of ordered pairs that need to be added to R to make (Y. R) a lattice
+
+is
+
+Question Number : 22 Correct: 1 Wrong : 0
+1 1 -1 —1 -—2 -1
+
+LetP=|2 -3 4 |x Q= 6 12 6 | two matrices.
+
+3-2 3 5 410 5&5
+
+Then the rank of P + Q is
+
+Question Number : 23 Correct: 1 Wrong: 0
+
+G is an undirected graph with 77 vertices and 25 edges such that each vertex of G has degree at least
+3. Then the maximum possible value of 77 is
+
+Question Number : 24 Correct : 1 Wrong : 0
+
+Consider a quadratic equation x? — 13x + 36 = 0 with coefficients in a base b. The solutions of
+this equation in the same base ) are x = 5 and x = 6. Then b=
+
+Question Number : 25 Correct: 1 Wrong : 0
+
+The minimum possible number of states of a deterministic finite automaton that accepts the regular
+language L = {wiaw2 | wi, w2 € {a, b}*. | wil = 2. | w2| = 3} is
+
+Question Number : 26 Correct : 2 Wrong : -0.66
+
+1
+P and Q are considering to apply for a job. The probability that P applies for the job is ae the
+1
+probability that P applies for the job given that Q applies for the job is 3: and the probability that Q
+
+1
+applies for the job given that P applies for the job is Eis Then the probability that P does not apply
+for the job given that Q does not apply for the job is
+
+4 5 7 11
+(A) = (B) ‘a (C) = (D) -—
+
+Question Number : 27 Correct : 2 Wrong : -0.66
+
+If w, x, y, Z are Boolean variables, then which one of the following is INCORRECT?
+
+(A) wx+w(x+y)4+x(x+y) =x+wy
+(B) wX(y+Z)+Wx=W4+x+¥z
+
+(C) (WX(y + xZ) + WX)y = xy
+
+(D) (w + y)(wxy + wyz) = wxy + wyz
+
+Question Number : 28 Correct : 2 Wrong : -0.66
+
+Given f(w,x,y,Z) = Xm(0,1,2,3,7,8,10) + ¥q(5,6,11,15), where d represents the don’t-care
+condition in Karnaugh maps. Which of the following is a minimum product-of-sums (POS) form of
+
+f(w,x,y,z)?
+
+(A) f = (W+2Z)(X¥ +z) (B) f = (W4+2z)(x +2)
+(C) f =(w4+z)(* +2) (D) f = (w+Z)(*4+2z)
+Question Number : 29 Correct : 2 Wrong : -0.66
+
+In a two-level cache system, the access times of L, and L, caches are 1 and 8 clock cycles,
+respectively. The miss penalty from the L, cache to main memory is 18 clock cycles. The miss rate
+of L, cache is twice that of L,. The average memory access tume (AMAT) of this cache system is 2
+cycles. The miss rates of L, and L, respectively are:
+
+(A) 0.111 and 0.056 (B) 0.056 and 0.111
+(C) 0.0892 and 0.1784 (D) 0.1784 and 0.0892
+Question Number : 30 Correct : 2 Wrong : -0.66
+
+Consider the recurrence function
+T(n) =
+Then T(7) in terms of © notation is
+
+(A) O(log log n) (B) O(logn)
+(C) (Vn) (D) O(n)
+
+2T(vn) +1, n>2
+2: 0< n= 2
+
+Question Number : 31 Correct : 2 Wrong : 0.66
+
+For any discrete random variable X . with probability mass function
+N
+P(X = j)=p,. p; 20. 7 €{0.....N}. and iy p, =|. define the polynomial function
+j=0
+N .
+£y@)= >. p,7’ . Fora certain discrete random variable Y , there exists a scalar 6 €[0,1] such
+j=0
+
+that g,(z)=(1-68 +6 z)’ . The expectation of Y is
+
+(A) NB (1-8)
+(B) NB
+(C) N(1-8)
+
+(D) Not expressible in terms of N and 8 alone
+
+Question Number : 32 Correct : 2 Wrong : -0.66
+
+Consider the following expression grammar G :
+
+we
+T —> T EN F
+F-> (B)Qi7id
+
+Which of the following grammars is not left recursive. but is equivalent to G?
+
+(VE ->E-TI([T (B) E -> TE’
+eee FE E’ -> -TE’ |e
+F -> (E) | id '.> 2 AE] F
+F -> (E) | id
+
+rz
+
+(C) BE Hh xX (D) EB => TX | (TX)
+X -> -TX |e X -> -TX | +TX |e
+T -> FY oS td
+
+¥ -3- Bee [é
+Eas te) [| ae
+
+Question Number : 33 Correct : 2 Wrong : -0.66
+
+A system shares 9 tape drives. The current allocation and maximum requirement of tape drives for
+three processes are shown below:
+
+Process Current Allocation Maximum Requirement
+Pl 3 7
+P2 1 6
+P3 3 5
+
+Which of the following best describes current state of the system?
+
+(A) Safe. Deadlocked (B) Safe. Not Deadlocked
+(C) Not Safe. Deadlocked (D) Not Safe. Not Deadlocked
+Question Number : 34 Correct : 2 Wrong : -0.66
+
+Consider a binary code that consists of only four valid codewords as given below:
+
+00000, 01011, 10101, 11110
+
+Let the minimum Hamming distance of the code be p and the maximum number of erroneous bits
+that can be corrected by the code be g. Then the values of p and gq are
+
+(A) p=3 and g=1
+(B) p=3 and g=2
+(C) p=4 and q=1
+(D) p=4 and g=2
+
+Question Number : 35 Correct : 2 Wrong : -0.66
+
+Consider two hosts X and Y. connected by a single direct link of rate 10° bits/sec. The distance
+between the two hosts is 10.000 km and the propagation speed along the link is 2 x 10° m/sec.
+Host X sends a file of 50,000 bytes as one large message to host Y continuously. Let the
+transmission and propagation delays be p milliseconds and g milliseconds, respectively.
+
+Then the values of p and g are
+
+(A) p=50 and g=100
+(B) p=50 and g=400
+(C) p=100 and g=50
+(D) p=400 and g=50
+
+Question Number : 36 Correct : 2 Wrong : -0.66
+
+The pre-order traversal of a binary search tree is given by 12,8,6,2,7,9, 10,16, 15, 19,17, 20.
+Then the post-order traversal of this tree is:
+
+(A) 2,6,7,8,9,10,12,15,.16, 17,19; 20 (B) 2,756,105 98715117, 20:19, 16,42
+(C)'7,2;6,8;9,10,20,17,19515 16,42 (D) 7,6;2;10,9, 8, 15,16; £7, 20,49, 12
+Question Number : 37 Correct : 2 Wrong : -0.66
+
+Consider the C program fragment below which is meant to divide x by y using repeated
+subtractions. The variables x. y. q and r are all unsigned int.
+
+while (r >= y) {
+
+r= 7 yy
+gq = get Ly
+}
+Which of the following conditions on the variables x, y, q and r before the execution of the
+fragment will ensure that the loop terminates in a state satisfying the condition x == (y*q +
+ey?
+
+(A) (q == r) && (r == 0)
+(B) (x > 0) && (xr == x) && (y >°O)
+(C) (q == 0) && (xr == x) && (y > 0)
+(D) (q == 0) && (y > 0)
+
+Question Number : 38 Correct : 2 Wrong : -0.66
+Consider the following C function.
+
+mt £un(ank n)
+LNG we Je
+for(i:= 1; 2 <= ny itt) {
+font(y = by: a < ae: t= a) fd
+PEINtE(™ $d Bd” ~i44)3
+}
+
+Time complexity of fun in terms of © notation is
+
+(A) O(nyn ) (B) O(n?) (C) O(n log n) (D) 0(n? logn)
+
+Question Number : 39
+
+Correct : 2 Wrong : -0.66
+
+Let & denote the transition function and 6 denote the extended transition function of the e-NFA
+
+whose transition table is given below:
+
+) € a b
+—~ do {2} {qi} {do}
+qi {2} {2} {3}
+q2 {do} (a) (0)
+qs i) 0 {q2}
+Then 8(q2. aba) is
+(A) @ (B) {40.41.43} (C) {do 41,42}
+
+Question Number : 40
+
+Consider the following languages.
+
+L, = {a” | p is a prime number}
+
+L, ={a"b™c*™ [x= 0,m > 0}
+
+f, =f |e 0}
+L, = {a"b" |n = 1}
+
+Which of the following are CORRECT?
+
+I. L, is context-free but not regular.
+
+IL. L, is not context-free.
+
+III. L3 is not context-free but recursive.
+
+IV. L, is deterministic context-free.
+
+(A) IL ILandIV only  (B) ILand II only
+
+(D) {qo, q2, ds}
+
+Correct : 2 Wrong : -0.66
+
+(C) Iand IV only
+
+(D) If and IV only
+
+Question Number : 41 Correct : 2 Wrong : -0.66
+
+Let L(R) be the language represented by regular expression R. Let L(G) be the language generated
+by a context free grammar G. Let L(M) be the language accepted by a Turing machine M.
+Which of the following decision problems are undecidable?
+
+I. Given a regular expression R and a string w. is w € L(R)?
+
+II. Given a context-free grammar G. is L(G) = 0?
+
+III. Given a context-free grammar G. is L(G) = L* for some alphabet = ?
+IV. Given a Turing machine M and a string w. is w € L(M)?
+
+(A) Land IV only (B) II and ITI only (C) IL, IandIV only (D) Dland IV only
+
+Question Number : 42 Correct : 2 Wrong : -0.66
+
+The next state table of a 2-bit saturating up-counter is given below.
+
++ got
+1
+
+Qi, Q
+
+Ee CO
+eS © dD
+
+0
+1
+0
+1
+
+ae
+
+The counter is built as a synchronous sequential circuit using T flip-flops. The expressions for T,
+and Ty are
+
+(A) T, = Q1 9, Ty = Q1Q
+(B) T, = Q1Qo, Ty = Q1 + Qo
+(C)T, = Q1+ Qo, To = 1+ Qo
+
+(D) T; = Q1Qo, Ty = Q1 + Qo
+
+Question Number : 43 Correct : 2 Wrong: 0
+
+Consider the following snippet of a C program. Assume that swap (&x, &y) exchanges the
+contents of x and y.
+
+int main() {
+int: array[] = (3) 5, iy. 4, ©, 2h;
+int done = 0;
+ine» a
+
+while (done == 0) {
+done = 1;
+for (i=0; i<=4; itt) {
+if (array[{i] < array[itl1]) #4
+swap(&array[i], &array[itl]);
+done = 0;
+}
+i
+for (i=5; i>=1; i--) {
+if (array[i] > @Reey[i-1]) 4
+swap(&array[{i], &array[i-1]);
+done = 0;
+
+}
+printt£ ("%d",arzayP3]);
+}
+
+The output of the program is
+
+Question Number : 44 Correct : 2 Wrong : 0
+
+Two transactions T, and T> are given as
+
+Ty: (X)w,(X)r, (YW, (Y)
+Tp: 12(Y)w2(¥)r2(Z)w2(Z)
+
+where 7;(V) denotes a read operation by transaction T; on a variable V and w;(V) denotes a write
+operation by transaction T; on a variable V. The total number of conflict serializable schedules that
+can be formed by T, and T, is
+
+Question Number : 45 Correct : 2 Wrong : 0
+
+The read access times and the hit ratios for different caches in a memory hierarchy are as given
+below.
+
+Cache | Read access time | Hit ratio
+(in nanoseconds)
+
+T-cache 2 0.8
+D-cache 2 0.9
+L2-cache 8 0.9
+
+The read access time of main memory is 90 nanoseconds. Assume that the caches use the referred-
+word-first read policy and the write back policy. Assume that all the caches are direct mapped
+caches. Assume that the dirty bit is always 0 for all the blocks in the caches. In execution of a
+program, 60% of memory reads are for instruction fetch and 40% are for memory operand fetch.
+The average read access time in nanoseconds (up to 2 decimal places) is
+
+Question Number : 46
+
+Consider the following database table named top_ scorer.
+
+top scorer
+
+Correct : 2 Wrong : 0
+
+player country | goals
+Klose Germany 16
+Ronaldo Brazil 15
+G Miiller | Germany 14
+Fontaine France 13
+Pelé Brazil 12
+Klinsmann | Germany 11
+Kocsis Hungary 4]
+Batistuta | Argentina 10
+Cubillas Peru 10
+Lato Poland 10
+Lineker England 10
+T Miller | Germany 10
+Rahn Germany 10
+
+Consider the following SQL query:
+
+SELECT ta.player FROM top scorer AS ta
+WHERE ta.goals >ALL (SELECT tb.goals
+FROM top scorer AS tb
+
+WHERE -tbh.country
+
+AND ta.goals >ANY~ (SELECT tc.goals
+FROM top scorer AS tc
+
+WHERE tc.country =
+
+The number of tuples returned by the above SQL query is
+
+Question Number : 47
+
+If the ordinary generating function of a sequence {a,}7_9 is
+
+"Spain')
+
+"Germany')
+
+Correct : 2 Wrong: 0
+
+1+z
+
+(1-z)
+
+3°
+
+then a3 — do is equal to
+
+Question Number : 48
+
+If a random variable XY has a Poisson distribution with mean 5, then the expectation E[(X + 2)?]
+
+equals
+
+Question Number : 49
+
+In a B+ tree, if the search-key value is 8 bytes long. the block size is 512 bytes and the block
+
+pointer size is 2 bytes. then the maximum order of the B+ tree is
+
+Question Number : 50
+
+A message is made up entirely of characters from the set X = {P,Q,R,S,T}. The table of
+
+probabilities for each of the characters is shown below:
+
+Character Probability
+ie 0.22
+Q 0.34
+R 0.17
+5 0.19
+(a 0.08
+Total 1.00
+
+If a message of 100 characters over X is encoded using Huffman coding. then the expected length
+
+of the encoded message in bits is
+
+Correct : 2 Wrong : 0
+
+Correct : 2 Wrong: 0
+
+Correct : 2 Wrong: 0
+
+
+Question Number : 51 Correct : 2 Wrong : 0
+
+Consider the set of processes with arrival time (in milliseconds). CPU burst time (in milliseconds).
+and priority (0 is the highest priority) shown below. None of the processes have I/O burst time.
+
+Process Arrival Time | Burst Time Priority
+P, 0 ll 2
+P, 5 28 0
+P 12 2 3
+Py 2 10 1
+Ps 9 16 4
+
+The average waiting time (in milliseconds) of all the processes using preemptive priority
+scheduling algorithm is
+
+Question Number : 52 Correct : 2 Wrong: 0
+
+If the characteristic polynomial of a 3 x 3 matrix M over R (the set of real numbers) is
+23 — 427 + aA +30. aE R, and one eigenvalue of M is 2. then the largest among the absolute
+values of the eigenvalues of M is
+
+Question Number : 53 Correct : 2 Wrong : 0
+
+Consider a machine with a byte addressable main memory of 23? bytes divided into blocks of size
+32 bytes. Assume that a direct mapped cache having 512 cache lines is used with this machine. The
+size of the tag field in bits is
+
+Question Number : 54 Correct : 2 Wrong: 0
+
+Consider the following C Program.
+
+#include<stdio.h>
+int main() {
+int m = 10;
+Ine n; nic
+
+n = ++m;
+nl = mrt
+ase
+senile
+
+n -= nl;
+
+printr("sa", nm)
+return 0;
+
+}
+
+The output of the program is
+
+Question Number : 55 Correct : 2 Wrong : 0
+
+Consider the following C Program.
+
+#include<stdio.h>
+#include<string.h>
+int main() {
+char*® ¢c = "GATECSI®2017";
+enar® p = 27
+printi("sd", (int) stnlen(c+2 [p]—6[pl]=1))?
+return 0;
+
+The output of the program is
+
+Question Number : 56 Correct : 1 Wrong : -0.33
+
+Choose the option with words that are not synonyms.
+
+(A) aversion. dislike (B) luminous. radiant
+(C) plunder. loot (D) yielding. resistant
+
+Question Number : 57 Correct : 1 Wrong : -0.33
+Saturn is to be seen on a clear night with the naked eye.
+
+(A) enough bright (B) bright enough (C) asenough bright (D) bright as enough
+
+Question Number : 58 Correct : 1 Wrong : -0.33
+
+There are five buildings called V. W. X, Y and Z in a row (not necessarily in that order). V is to the
+West of W. Z is to the East of X and the West of V. W is to the West of Y. Which is the building in
+the middle?
+
+(A)V (B) W. (C)X (D) Y
+
+Question Number : 59 Correct : 1 Wrong : -0.33
+
+A test has twenty questions worth 100 marks in total. There are two types of questions. Multiple
+choice questions are worth 3 marks each and essay questions are worth 11 marks each. How many
+multiple choice questions does the exam have?
+
+(A) 12 (B) 15 (C) 18 (D) 19
+
+Question Number : 60 Correct : 1 Wrong : -0.33
+
+There are 3 red socks, 4 green socks and 3 blue socks. You choose 2 socks. The probability that
+they are of the same colour is
+
+(A) 1/5 (B) 7/30 (C) 1/4 (D) 4/15
+
+Question Number : 61 Correct : 2 Wrong : -0.66
+
+“We lived in a culture that denied any merit to literary works, considering them important only
+when they were handmaidens to something seemingly more urgent — namely ideology. This was a
+country where all gestures. even the most private. were interpreted in political terms.”
+
+The author’s belief that ideology is not as important as literature is revealed by the word:
+
+(A) ‘culture’ (B) ‘seemingly’ (C) ‘urgent’ (D) ‘political’
+
+Question Number : 62 Correct : 2 Wrong : -0.66
+
+There are three boxes. One contains apples. another contains oranges and the last one contains both
+apples and oranges. All three are known to be incorrectly labelled. If you are permitted to open just
+one box and then pull out and inspect only one fruit. which box would you open to determine the
+contents of all three boxes?
+
+(A) The box labelled ‘Apples’ (B) The box labelled ‘Apples and Oranges’
+(C) The box labelled ‘Oranges’ (D) Cannot be determined
+Question Number : 63 Correct : 2 Wrong : -0.66
+
+X is a 30 digit number starting with the digit 4 followed by the digit 7. Then the number X? will
+have
+
+(A) 90 digits (B) 91 digits (C) 92 digits (D) 93 digits
+
+Question Number : 64 Correct : 2 Wrong : -0.66
+
+The number of roots of e* + 0.5x? — 2 = 0 in the range [—5, 5] is
+
+(A) 0 (B)1 (C) 2 (D) 3
+
+Question Number : 65 Correct :2 Wrong : -0.66
+
+An air pressure contour line joins locations in a region having the same atmospheric pressure. The
+following is an air pressure contour plot of a geographical region. Contour lines are shown at 0.05
+bar intervals in this plot.
+
+If the possibility of a thunderstorm is given by how fast airpressure rises or drops over a region,
+which of the following regions is most likely to have a thunderstorm?
+
+(A)P (B)Q (C)R (D)s
+
+Q. No. Type Section Key Marks
+1 MCQ CS-2 D 1
+2 MCQ CS-2 A 1
+3 MCQ CS-2 Cc 1
+4 MCQ CS-2 B 1
+5 MCQ CS-2 Cc 1
+6 MCQ CS-2 A 1
+7 MCQ CS-2 B 1
+8 MCQ CS-2 D 1
+9 MCQ CS-2 Cc 1
+
+10 MCQ CS-2 Cc 1
+11 MCQ CS-2 A 1
+12 MCQ CS-2 Cc 1
+13 MCQ CS-2 B 1
+14 MCQ CS-2 Cc 1
+15 MCQ CS-2 D 1
+16 MCQ CS-2 Cc 1
+17 MCQ CS-2 Cc 1
+18 MCQ CS-2 B 1
+19 NAT CS-2 0.0 to 0.0 1
+20 NAT CS-2 9.0 to 9.0 1
+21 NAT CS-2 -0.01 to 0.01 1
+22 NAT CS-2 2.0 to 2.0 1
+23 NAT CS-2 16.0 to 16.0 1
+24 NAT CS-2 8.0 to 8.0 1
+25 NAT CS-2 8.0 to 8.0 1
+26 MCQ CS-2 A 2
+27 MCQ CS-2 Cc 2
+28 MCQ CS-2 A 2
+29 MCQ CS-2 A 2
+30 MCQ CS-2 B 2
+31 MCQ CS-2 B 2
+32 MCQ CS-2 Cc 2
+33 MCQ CS-2 B 2
+34 MCQ CS-2 A 2
+35 MCQ CS-2 D 2
+36 MCQ CS-2 B 2
+
+
+37 MCQ CS-2 Cc 2
+38 MCQ CS-2 Cc 2
+39 MCQ CS-2 Cc 2
+40 MCQ CS-2 D 2
+41 MCQ CS-2 D 2
+42 MCQ CS-2 B 2
+43 NAT CS-2 3.0 to 3.0 2
+44 NAT CS-2 54.0 to 54.0 2
+45 NAT CS-2 4.72 to 4.72 2
+46 NAT CS-2 7.0 to 7.0 2
+47 NAT CS-2 15.0 to 15.0 2
+48 NAT CS-2 54.0 to 54.0 2
+49 NAT CS-2 52.0 to 52.0 2
+50 NAT CS-2 225.0 to 225.0 2
+51 NAT CS-2 29.0 to 29.0 2
+52 NAT CS-2 5.0 to 5.0 2
+53 NAT CS-2 18.0 to 18.0 2
+54 NAT CS-2 0.0 to 0.0 2
+55 NAT CS-2 2.0 to 2.0 2
+56 MCQ GA D 1
+57 MCQ GA B 1
+58 MCQ GA A 1
+59 MCQ GA B 1
+60 MCQ GA D 1
+61 MCQ GA B 2
+62 MCQ GA B 2
+63 MCQ GA A 2
+64 MCQ GA Cc 2
+65 MCQ GA Cc 2
+
+

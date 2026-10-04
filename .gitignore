@@ -9,3 +9,12 @@ venv/
 .env
 
 .env.save
+
+# Large source archives / working data
+data/questions/gate_previous/
+data/questions/gate_2010_2023/
+
+data/questions/gate_2010_2023_clean/ocr_test/
+data/questions/gate_2010_2023_clean/ai_parsed/
+data/questions/gate_2010_2023_clean/ai_parsed_test.json
+data/questions/gate_2010_2023_clean/*.pdf
