@@ -5,63 +5,75 @@
   "paper_code": "CS",
   "subjects": [
     {
-      "id": "section-1",
+      "id": "engineering-mathematics",
       "name": "Engineering Mathematics",
       "topics": [
-        "Discrete Mathematics: Propositional and first order logic",
+        "Propositional and first order logic",
         "Sets, relations, functions, partial orders and lattices",
         "Monoids, Groups",
         "Graphs: connectivity, matching, colouring",
         "Combinatorics: counting, recurrence relations, generating functions",
-        "Linear Algebra: Matrices, determinants, system of linear equations, eigenvalues and eigenvectors, LU decomposition",
-        "Calculus: Limits, continuity and differentiability, Maxima and minima, Mean value theorem, Integration",
-        "Probability and Statistics: Random variables, Uniform, normal, exponential, Poisson and binomial distributions",
+        "Matrices, determinants, system of linear equations, eigenvalues and eigenvectors, LU decomposition",
+        "Limits, continuity and differentiability, Maxima and minima, Mean value theorem, Integration",
+        "Random variables, Uniform, normal, exponential, Poisson and binomial distributions",
         "Mean, median, mode and standard deviation",
         "Conditional probability and Bayes theorem"
       ]
     },
     {
-      "id": "section-2",
+      "id": "digital-logic",
       "name": "Digital Logic",
       "topics": [
-        "Boolean algebra and minimization – algebraic technique, Karnaugh map, tabular method",
-        "Design of combinational and sequential circuits",
+        "Boolean algebra and minimization (algebraic technique, Karnaugh map, tabular method)",
+        "Design of combinational circuits",
+        "Design of sequential circuits",
         "Number representation and arithmetic (fixed and floating point)"
       ]
     },
     {
-      "id": "section-3",
+      "id": "computer-organization-architecture",
       "name": "Computer Organization and Architecture",
       "topics": [
         "Instruction set and addressing modes",
         "Design of arithmetic and logic unit (ALU)",
-        "Design of control unit – hardwired and microprogrammed",
+        "Design of control unit (hardwired and microprogrammed)",
         "Memory interfacing and hierarchy: performance, cache memory mapping",
         "I/O interface (interrupt and DMA)",
         "Instruction pipelining, pipeline hazards"
       ]
     },
     {
-      "id": "section-4",
+      "id": "programming-data-structures",
       "name": "Programming and Data Structures",
       "topics": [
         "Programming in C",
         "Recursion",
-        "Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs"
+        "Arrays",
+        "Stacks",
+        "Queues",
+        "Linked lists",
+        "Trees",
+        "Binary search trees",
+        "Binary heaps",
+        "Graphs"
       ]
     },
     {
-      "id": "section-5",
+      "id": "algorithms",
       "name": "Algorithms",
       "topics": [
-        "Searching, sorting, hashing",
+        "Searching",
+        "Sorting",
+        "Hashing",
         "Asymptotic worst case time and space complexity",
-        "Algorithm design techniques: greedy, dynamic programming and divide‐and‐conquer",
-        "Graph traversals, minimum spanning trees, shortest paths"
+        "Algorithm design techniques: greedy, dynamic programming, divide‑and‑conquer",
+        "Graph traversals",
+        "Minimum spanning trees",
+        "Shortest paths"
       ]
     },
     {
-      "id": "section-6",
+      "id": "theory-of-computation",
       "name": "Theory of Computation",
       "topics": [
         "Regular expressions and finite automata",
@@ -71,20 +83,27 @@
       ]
     },
     {
-      "id": "section-7",
+      "id": "compiler-design",
       "name": "Compiler Design",
       "topics": [
-        "Lexical analysis, parsing, syntax-directed translation",
+        "Lexical analysis",
+        "Parsing",
+        "Syntax-directed translation",
         "Runtime environments",
         "Intermediate code generation",
-        "Local optimisation, Data flow analyses: constant propagation, liveness analysis, common sub expression elimination"
+        "Local optimisation",
+        "Data flow analyses: constant propagation, liveness analysis, common subexpression elimination"
       ]
     },
     {
-      "id": "section-8",
+      "id": "operating-systems",
       "name": "Operating System",
       "topics": [
-        "System calls, processes, threads, inter‐process communication, concurrency and synchronization",
+        "System calls",
+        "Processes",
+        "Threads",
+        "Inter-process communication",
+        "Concurrency and synchronization",
         "Deadlock",
         "CPU and I/O scheduling",
         "Memory management and virtual memory",
@@ -92,27 +111,30 @@
       ]
     },
     {
-      "id": "section-9",
+      "id": "databases",
       "name": "Databases",
       "topics": [
-        "ER‐model",
+        "ER-model",
         "Relational model: relational algebra, tuple calculus, SQL",
-        "Integrity constraints, normal forms",
-        "File organization, indexing (e.g., B and B+ trees)",
+        "Integrity constraints",
+        "Normal forms",
+        "File organization",
+        "Indexing (B and B+ trees)",
         "Transactions and concurrency control"
       ]
     },
     {
-      "id": "section-10",
+      "id": "computer-networks",
       "name": "Computer Networks",
       "topics": [
         "Principles of Layering",
         "Basics of switching (circuit, packet and virtual circuit) and performance metrics",
         "Data link layer: error detection, Medium Access Control, Ethernet",
         "Distance vector and link state routing",
-        "IPv4 - Fragmentation, CIDR Notation, Network Address Translation",
-        "TCP- flow control and congestion control, socket API",
-        "DNS and HTTP"
+        "IPv4: Fragmentation, CIDR Notation, Network Address Translation",
+        "TCP: flow control and congestion control, socket API",
+        "DNS",
+        "HTTP"
       ]
     }
   ]

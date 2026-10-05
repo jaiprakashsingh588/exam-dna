@@ -48,7 +48,7 @@ def generate_text(prompt: str) -> str:
             messages=[
                 {"role": "user", "content": prompt}
             ],
-            max_tokens=256,
+            max_tokens=4096,
         )
 
         content = response.choices[0].message.content
