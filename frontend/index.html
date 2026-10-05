@@ -62,6 +62,9 @@
     </div>
 </div>
 
+<h2>Question Distribution</h2>
+<div id="yearStats" class="cards"></div>
+
 <h2>PYQ Search</h2>
 
 <div style="background:white;padding:20px;border-radius:12px;margin-bottom:25px;">
@@ -127,21 +130,48 @@ async function searchQuestions() {
 
 async function analyzeQuestion(id) {
     const box = document.getElementById("analysis-" + id);
-    box.innerHTML = "Analyzing...";
 
-    const response = await fetch(
-        "/questions/" + encodeURIComponent(id) + "/analyze"
-    );
+    box.innerHTML = "🤖 Analyzing with AI...";
 
+    try {
+        const response = await fetch(`/questions/${id}/analyze`);
+        const data = await response.json();
+        const a = data.analysis;
+
+        box.innerHTML = `
+            <div class="ai-analysis">
+                <h3>🤖 ExamDNA AI Analysis</h3>
+                <p><strong>Core Concept:</strong> ${a.core_concept}</p>
+                <p><strong>Concepts:</strong> ${(a.concepts || []).join(", ")}</p>
+                <p><strong>Difficulty:</strong> ${a.difficulty}</p>
+                <p><strong>Question Pattern:</strong> ${a.question_pattern}</p>
+                <p><strong>Trap / Key Idea:</strong> ${a.trap_or_key_idea}</p>
+                <p><strong>Preparation Priority:</strong> ${a.preparation_priority}</p>
+            </div>
+        `;
+    } catch (error) {
+        box.innerHTML = "❌ AI analysis failed.";
+        console.error(error);
+    }
+}
+
+async function loadYearStats() {
+    const response = await fetch("/questions/stats");
     const data = await response.json();
 
-    box.innerHTML =
-        "<pre style='white-space:pre-wrap;margin-top:15px;'>" +
-        (data.analysis || data.error) +
-        "</pre>";
+    const container = document.getElementById("yearStats");
+
+    container.innerHTML = Object.entries(data.by_year)
+        .map(([year, count]) =>
+            "<div class='card'>" +
+            "<div>" + year + "</div>" +
+            "<div class='number'>" + count + "</div>" +
+            "</div>"
+        ).join("");
 }
 
 loadStats();
+loadYearStats();
 </script>
 
 </body>
