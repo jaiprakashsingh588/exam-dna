@@ -1,22 +1,15 @@
 from typing import Any
 import json
-import os
 import time
 
 from dotenv import load_dotenv
-from google import genai
+
+from backend.app.services.ai_client import generate_text
 
 load_dotenv()
 
 
 def parse_syllabus(raw_text: str) -> dict[str, Any]:
-    api_key = os.getenv("GEMINI_API_KEY")
-
-    if not api_key:
-        raise RuntimeError("GEMINI_API_KEY is not set")
-
-    client = genai.Client(api_key=api_key)
-
     prompt = f"""
 Parse the following official GATE syllabus into structured JSON.
 
@@ -51,12 +44,7 @@ Official syllabus text:
 
     for attempt in range(3):
         try:
-            response = client.models.generate_content(
-                model="gemini-3.8-flash",
-                contents=prompt,
-            )
-
-            text = response.text.strip()
+            text = generate_text(prompt).strip()
 
             if text.startswith("```"):
                 text = text.replace("```json", "").replace("```", "").strip()
@@ -73,6 +61,7 @@ Official syllabus text:
 
         except Exception as error:
             last_error = error
+
             if attempt < 2:
                 time.sleep(3)
 
