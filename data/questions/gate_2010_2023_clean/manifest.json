@@ -6,7 +6,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2011,
@@ -15,7 +15,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2012,
@@ -24,7 +24,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "embedded_in_pdf_ocr"
   },
   {
     "year": 2013,
@@ -33,7 +33,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2014,
@@ -42,7 +42,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "embedded_in_pdf_ocr"
   },
   {
     "year": 2015,
@@ -51,7 +51,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2016,
@@ -60,7 +60,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2017,
@@ -69,7 +69,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2017,
@@ -78,7 +78,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2018,
@@ -87,7 +87,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2019,
@@ -96,7 +96,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2020,
@@ -105,7 +105,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "embedded_in_pdf_ocr"
   },
   {
     "year": 2021,
@@ -114,7 +114,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "embedded_in_pdf_ocr"
   },
   {
     "year": 2021,
@@ -123,7 +123,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "embedded_in_pdf_ocr"
   },
   {
     "year": 2022,
@@ -132,7 +132,7 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   },
   {
     "year": 2023,
@@ -141,6 +141,6 @@
     "pdf_exists": true,
     "ocr_exists": true,
     "source_status": "official_site_linked_bulk_archive",
-    "answer_key_status": "not_verified"
+    "answer_key_status": "separate_key_required"
   }
 ]
