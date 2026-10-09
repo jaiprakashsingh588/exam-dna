@@ -8,6 +8,7 @@ from backend.app.models.question import Question, Source
 router = APIRouter(prefix="/questions", tags=["Questions"])
 
 QUESTIONS_DIR = Path("data/questions")
+FIXTURE_FILE = QUESTIONS_DIR / "example.json"
 
 
 def normalize(item, file_path):
@@ -24,6 +25,9 @@ def normalize(item, file_path):
 
     item.setdefault("subject", "Computer Science and Information Technology")
     item.setdefault("topic", "Unclassified")
+    if item.get("topic") == "Unclassified":
+        from backend.app.services.topic_classifier import classify_topic
+        item["topic"] = classify_topic(item.get("question_text", ""), item.get("topic", ""))
     item.setdefault("question_type", "Unknown")
     item.setdefault("options", [])
     item.setdefault("correct_answer", None)
@@ -40,6 +44,8 @@ def get_questions():
     questions = []
 
     for file_path in sorted(QUESTIONS_DIR.rglob("*.json")):
+        if file_path == FIXTURE_FILE:
+            continue
         try:
             with file_path.open("r", encoding="utf-8") as file:
                 data = json.load(file)
@@ -131,6 +137,13 @@ def search_questions(
     }
 
 
+@router.get("/areas")
+def question_areas():
+    from backend.app.services.weak_area import analyze_areas
+    questions = get_questions()["questions"]
+    return analyze_areas(questions)
+
+
 @router.get("/{question_id}/analyze")
 def analyze_question_by_id(question_id: str):
     from backend.app.services.question_analyzer import analyze_question
@@ -142,6 +155,125 @@ def analyze_question_by_id(question_id: str):
             return {
                 "question_id": question_id,
                 "analysis": analyze_question(question)
+            }
+
+    return {"error": "Question not found"}
+
+
+@router.get("/intelligence")
+def question_intelligence():
+    from backend.app.services.question_dna import build_question_dna
+
+    questions = get_questions()["questions"]
+    dna = build_question_dna(questions)
+
+    return {
+        "total_questions": dna["total"],
+        "year_distribution": dna["years"],
+        "question_type_distribution": dna["types"],
+        "subject_distribution": dna["subjects"],
+        "topic_distribution": dna["topics"],
+        "concept_distribution": dna["concepts"],
+        "difficulty_distribution": dna["difficulty"],
+        "preparation_priority": dna["priority"],
+        "top_topics": dna["top_topics"],
+        "top_concepts": dna["top_concepts"],
+    }
+
+
+@router.get("/{question_id}/similar")
+def similar_questions(question_id: str, limit: int = 5):
+    from backend.app.services.question_similarity import find_similar_questions
+
+    questions = get_questions()["questions"]
+
+    for question in questions:
+        if question["question_id"] == question_id:
+            return {
+                "question_id": question_id,
+                "similar_questions": find_similar_questions(
+                    question,
+                    questions,
+                    limit
+                )
+            }
+
+    return {"error": "Question not found"}
+
+
+@router.get("/{question_id}/family")
+def question_family(question_id: str):
+    from backend.app.services.question_family import build_question_family
+
+    questions = get_questions()["questions"]
+
+    for question in questions:
+        if question["question_id"] == question_id:
+            return build_question_family(
+                question,
+                questions
+            )
+
+    return {"error": "Question not found"}
+
+
+@router.get("/practice")
+def adaptive_practice(
+    topic: str | None = None,
+    difficulty: str | None = None,
+    question_type: str | None = None,
+    limit: int = 10
+):
+    questions = get_questions()["questions"]
+
+    if topic:
+        questions = [
+            q for q in questions
+            if topic.lower() in q.get("topic", "").lower()
+        ]
+
+    if difficulty:
+        questions = [
+            q for q in questions
+            if q.get("difficulty", "").lower() == difficulty.lower()
+        ]
+
+    if question_type:
+        questions = [
+            q for q in questions
+            if q.get("question_type", "").lower() == question_type.lower()
+        ]
+
+    return {
+        "count": min(len(questions), limit),
+        "filters": {
+            "topic": topic,
+            "difficulty": difficulty,
+            "question_type": question_type
+        },
+        "questions": questions[:limit]
+    }
+
+
+def question_areas():
+    from backend.app.services.weak_area import analyze_areas
+
+    questions = get_questions()["questions"]
+
+    return analyze_areas(questions)
+
+
+@router.get("/{question_id}/practice")
+def generate_practice(question_id: str):
+    from backend.app.services.practice_generator import generate_practice_variant
+
+    questions = get_questions()["questions"]
+
+    for question in questions:
+        if question["question_id"] == question_id:
+            return {
+                "question_id": question_id,
+                "practice_variant": generate_practice_variant(question)
             }
 
     return {"error": "Question not found"}

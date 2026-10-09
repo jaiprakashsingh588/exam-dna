@@ -1,96 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>ExamDNA</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 1100px;
-            margin: 40px auto;
-            padding: 20px;
-            background: #f5f7fb;
-        }
-        h1 { margin-bottom: 5px; }
-        .subtitle { color: #666; }
-        .cards {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-            gap: 15px;
-            margin: 30px 0;
-        }
-        .card {
-            background: white;
-            padding: 20px;
-            border-radius: 12px;
-            box-shadow: 0 2px 8px #ddd;
-        }
-        .number {
-            font-size: 28px;
-            font-weight: bold;
-        }
-        pre {
-            background: #111827;
-            color: #e5e7eb;
-            padding: 20px;
-            border-radius: 10px;
-            overflow: auto;
-        }
-    </style>
-</head>
-<body>
-
-<h1>ExamDNA</h1>
-<div class="subtitle">GATE Exam Intelligence Engine</div>
-
-<div class="cards">
-    <div class="card">
-        <div>Total Questions</div>
-        <div class="number" id="total">-</div>
-    </div>
-    <div class="card">
-        <div>2026 Questions</div>
-        <div class="number" id="y2026">-</div>
-    </div>
-    <div class="card">
-        <div>2025 Questions</div>
-        <div class="number" id="y2025">-</div>
-    </div>
-    <div class="card">
-        <div>MCQ Questions</div>
-        <div class="number" id="mcq">-</div>
-    </div>
-</div>
-
-<h2>Question Distribution</h2>
-<div id="yearStats" class="cards"></div>
-
-<h2>PYQ Search</h2>
-
-<div style="background:white;padding:20px;border-radius:12px;margin-bottom:25px;">
-    <select id="year">
-        <option value="">All Years</option>
-        <option value="2026">2026</option>
-        <option value="2025">2025</option>
-        <option value="2010">2010</option>
-    </select>
-
-    <select id="type">
-        <option value="">All Types</option>
-        <option value="MCQ">MCQ</option>
-        <option value="MSQ">MSQ</option>
-        <option value="NAT">NAT</option>
-    </select>
-
-    <button onclick="searchQuestions()">Search</button>
-</div>
-
-<div id="results"></div>
-
-<h2>Question Intelligence</h2>
-<pre id="stats">Loading...</pre>
-
-<script>
+<!DOCTYPE html>\n<html>\n<head>\n    <meta charset="UTF-8">\n    <title>ExamDNA</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            max-width: 1100px;\n            margin: 40px auto;\n            padding: 20px;\n            background: #f5f7fb;\n        }\n        h1 { margin-bottom: 5px; }\n        .subtitle { color: #666; }\n        .cards {\n            display: grid;\n            grid-template-columns: repeat(4, 1fr);\n            gap: 15px;\n            margin: 30px 0;\n        }\n        .card {\n            background: white;\n            padding: 20px;\n            border-radius: 12px;\n            box-shadow: 0 2px 8px #ddd;\n        }\n        .number {\n            font-size: 28px;\n            font-weight: bold;\n        }\n        pre {\n            background: #111827;\n            color: #e5e7eb;\n            padding: 20px;\n            border-radius: 10px;\n            overflow: auto;\n        }\n    </style>\n<style>\n.filters { display:flex; gap:10px; margin-bottom:20px; flex-wrap:wrap; }\n.filters select, .filters button { padding:10px; border-radius:6px; border:1px solid #ccc; }\n.filters button { cursor:pointer; }\n</style>\n</head>\n<body>\n\n<h1>ExamDNA</h1>\n<div class="subtitle">GATE Exam Intelligence Engine</div>\n\n<div class="cards">\n    <div class="card">\n        <div>Total Questions</div>\n        <div class="number" id="total">-</div>\n    </div>\n    <div class="card">\n        <div>2026 Questions</div>\n        <div class="number" id="y2026">-</div>\n    </div>\n    <div class="card">\n        <div>2025 Questions</div>\n        <div class="number" id="y2025">-</div>\n    </div>\n    <div class="card">\n        <div>MCQ Questions</div>\n        <div class="number" id="mcq">-</div>\n    </div>\n</div>\n\n<h2>Question Distribution</h2>\n<div id="yearStats" class="cards"></div>\n\n<h2>PYQ Search</h2>\n\n<div style="background:white;padding:20px;border-radius:12px;margin-bottom:25px;">\n    <select id="year">\n        <option value="">All Years</option>\n        <option value="2026">2026</option>\n        <option value="2025">2025</option>\n        <option value="2010">2010</option>\n    </select>\n\n    <select id="type">\n        <option value="">All Types</option>\n        <option value="MCQ">MCQ</option>\n        <option value="MSQ">MSQ</option>\n        <option value="NAT">NAT</option>\n    </select>\n\n    <button onclick="searchQuestions()">Search</button>\n</div>\n\n<div id="results"></div>\n\n<h2>Topic Intelligence</h2>\n<div id="topicStats" class="cards"></div>\n<h2>Adaptive Practice</h2>\n<div class="filters">\n    <select id="practiceTopic">\n        <option value="">All Topics</option>\n        <option>Discrete Mathematics</option>\n        <option>Data Structures</option>\n        <option>Operating Systems</option>\n        <option>Computer Networks</option>\n        <option>DBMS</option>\n        <option>Algorithms</option>\n    </select>\n    <select id="practiceDifficulty">\n        <option value="">All Difficulties</option>\n        <option>Easy</option>\n        <option>Medium</option>\n        <option>Hard</option>\n    </select>\n    <button onclick="loadPractice()">Start Practice</button>\n</div>\n<div id="practiceResults"></div>\n\n<h2>Question Intelligence</h2>\n<pre id="stats">Loading...</pre>\n\n<script>
 async function loadStats() {
     const response = await fetch("/questions/stats");
     const data = await response.json();
@@ -122,7 +30,10 @@ async function searchQuestions() {
             "<div class='card' style='margin-bottom:12px;'>" +
             "<b>" + q.year + " · " + q.question_type + "</b><br>" +
             q.question_text +
-            "<br><br><button onclick='analyzeQuestion(" + JSON.stringify(q.question_id) + ")'>Analyze with AI</button>" +
+            "<br><br>" +
+            "<button onclick='analyzeQuestion(" + JSON.stringify(q.question_id) + ")'>Analyze with AI</button> " +
+            "<button onclick='showSimilar(" + JSON.stringify(q.question_id) + ")'>Similar</button> " +
+            "<button onclick='showFamily(" + JSON.stringify(q.question_id) + ")'>Family</button>" +
             "<div id='analysis-" + q.question_id + "'></div>" +
             "</div>"
         ).join("");
@@ -155,6 +66,45 @@ async function analyzeQuestion(id) {
     }
 }
 
+async function showSimilar(id) {
+    const box = document.getElementById("analysis-" + id);
+
+    try {
+        const response = await fetch(`/questions/${id}/similar?limit=5`);
+        const data = await response.json();
+
+        box.innerHTML =
+            "<h3>Similar Questions</h3>" +
+            data.similar_questions.map(q =>
+                "<div class='card'><b>" + q.year +
+                " · Similarity: " + q.similarity +
+                "</b><p>" + q.question_text + "</p></div>"
+            ).join("");
+    } catch (error) {
+        box.innerHTML = "❌ Similarity analysis failed.";
+    }
+}
+
+async function showFamily(id) {
+    const box = document.getElementById("analysis-" + id);
+
+    try {
+        const response = await fetch(`/questions/${id}/family`);
+        const data = await response.json();
+
+        box.innerHTML =
+            "<h3>Question Family</h3>" +
+            "<p>Family size: " + data.family_size + "</p>" +
+            data.members.map(q =>
+                "<div class='card'><b>" + q.year +
+                " · Similarity: " + q.similarity +
+                "</b></div>"
+            ).join("");
+    } catch (error) {
+        box.innerHTML = "❌ Family analysis failed.";
+    }
+}
+
 async function loadYearStats() {
     const response = await fetch("/questions/stats");
     const data = await response.json();
@@ -170,9 +120,44 @@ async function loadYearStats() {
         ).join("");
 }
 
+async function loadPractice() {
+    const topic = document.getElementById("practiceTopic").value;
+    const difficulty = document.getElementById("practiceDifficulty").value;
+
+    const params = new URLSearchParams({limit: "10"});
+
+    if (topic) params.set("topic", topic);
+    if (difficulty) params.set("difficulty", difficulty);
+
+    const response = await fetch("/questions/practice?" + params);
+    const data = await response.json();
+
+    const container = document.getElementById("practiceResults");
+
+    container.innerHTML = data.questions.map((q, i) =>
+        "<div class='card'>" +
+        "<b>Q" + (i + 1) + "</b>" +
+        "<p>" + q.question_text + "</p>" +
+        "<small>" + q.year + " • " + q.topic + "</small>" +
+        "</div>"
+    ).join("");
+}
+
+async function loadTopicIntelligence() {
+    const response = await fetch("/questions/intelligence");
+    const data = await response.json();
+
+    const container = document.getElementById("topicStats");
+
+    container.innerHTML = data.top_topics.map(([topic, count]) =>
+        "<div class='card'>" +
+        "<div>" + topic + "</div>" +
+        "<div class='number'>" + count + "</div>" +
+        "</div>"
+    ).join("");
+}
+
 loadStats();
 loadYearStats();
-</script>
-
-</body>
-</html>
+loadTopicIntelligence();
+</script>\n\n</body>\n</html>\n\n
